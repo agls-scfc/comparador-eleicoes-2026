@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "proposta.schema.json",
+  "title": "Proposta",
+  "description": "Trecho literal de um plano de governo registrado no TSE, associado a um eixo e a um tópico.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "candidato", "eixo", "topico", "rotulo", "tipo", "trechos"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(pt|pl)-[a-z0-9]+(-[a-z0-9]+)*-[0-9]{3}$",
+      "description": "<pt|pl>-<slug-do-eixo>-<nnn>. O prefixo deve bater com o candidato e o slug com o eixo."
+    },
+    "candidato": { "enum": ["lula", "flavio-bolsonaro"] },
+    "eixo": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "topico": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "rotulo": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 90,
+      "description": "Rótulo curto, descritivo e sem adjetivos avaliativos. Não substitui o trecho literal."
+    },
+    "tipo": {
+      "enum": ["compromisso", "resultado_declarado", "critica_ao_adversario"],
+      "description": "compromisso: o que o candidato promete fazer. resultado_declarado: o que o plano diz que já foi feito (não verificado). critica_ao_adversario: ataque ao outro lado (não exibida)."
+    },
+    "trechos": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["documento", "pagina_impressa", "secao", "literal"],
+        "properties": {
+          "documento": { "type": "string" },
+          "pagina_impressa": { "type": "integer", "minimum": 1 },
+          "secao": { "type": "string", "minLength": 3 },
+          "literal": {
+            "type": "string",
+            "minLength": 12,
+            "maxLength": 900,
+            "description": "Texto idêntico ao da página citada. Use [...] para indicar trecho omitido dentro da mesma página."
+          }
+        }
+      }
+    },
+    "meta": {
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["unidade", "expressao_no_plano"],
+          "properties": {
+            "valor": { "type": ["number", "null"] },
+            "unidade": { "type": "string", "minLength": 2 },
+            "prazo": { "type": ["string", "null"] },
+            "expressao_no_plano": {
+              "type": "string",
+              "minLength": 2,
+              "description": "Como o número aparece no texto (ex.: 'meio milhão'). Precisa constar em algum literal."
+            }
+          }
+        }
+      ]
+    },
+    "condicionalidade": {
+      "type": ["string", "null"],
+      "description": "Condição que o próprio plano impõe (ex.: aprovação de PEC). Precisa constar em algum literal."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "documento.schema.json",
+  "title": "Documento-fonte",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "candidato", "partido", "titulo", "arquivo", "arquivo_publico", "url_tse", "sha256",
+    "paginas", "offset_pagina_impressa", "data_obtencao", "origem_do_arquivo", "verificado_contra_tse"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "candidato": { "enum": ["lula", "flavio-bolsonaro"] },
+    "partido": { "type": "string" },
+    "titulo": { "type": "string" },
+    "arquivo": { "type": "string" },
+    "arquivo_publico": { "type": "string", "pattern": "^[A-Za-z0-9._-]+\\.pdf$" },
+    "url_tse": { "type": "string", "pattern": "^https://www\\.tse\\.jus\\.br/" },
+    "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "paginas": { "type": "integer", "minimum": 1 },
+    "offset_pagina_impressa": { "type": "integer" },
+    "data_obtencao": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "origem_do_arquivo": { "enum": ["download_direto_tse", "copia_fornecida_pelo_mantenedor"] },
+    "verificado_contra_tse": { "type": "boolean" }
+  }
+}

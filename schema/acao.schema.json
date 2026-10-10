@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "acao.schema.json",
+  "title": "Ação",
+  "description": "Ato verificável em fonte pública. O campo ator_tipo diferencia o que o candidato fez do que o partido fez.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "candidato", "eixo", "ator_tipo", "ator", "data", "descricao", "fonte_url"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^a-(pt|pl)-[a-z0-9]+(-[a-z0-9]+)*-[0-9]{3}$" },
+    "candidato": { "enum": ["lula", "flavio-bolsonaro"], "description": "Candidato ao qual a ação é associada na página." },
+    "eixo": { "type": "string" },
+    "topico": { "type": ["string", "null"] },
+    "ator_tipo": {
+      "enum": ["voto_do_candidato", "voto_da_bancada_do_partido", "ato_do_governo_do_candidato", "autoria"],
+      "description": "Quem agiu: o próprio candidato (voto), o partido (bancada), o governo chefiado pelo candidato, ou autoria de proposição."
+    },
+    "ator": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["nome"],
+      "properties": {
+        "nome": { "type": "string" },
+        "partido": { "type": ["string", "null"] },
+        "cargo": { "type": ["string", "null"] }
+      }
+    },
+    "casa": { "enum": ["camara", "senado", "congresso", "presidencia"] },
+    "data": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "descricao": { "type": "string", "minLength": 12, "maxLength": 500 },
+    "votacao": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "proposicao", "resultado"],
+      "properties": {
+        "id": { "type": "string" },
+        "proposicao": { "type": "string" },
+        "ementa": { "type": ["string", "null"] },
+        "resultado": { "type": "string" }
+      }
+    },
+    "voto": { "enum": ["sim", "nao", "abstencao", "obstrucao", "ausente", "art_17"] },
+    "bancada": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sim", "nao", "abstencao", "ausentes"],
+      "properties": {
+        "orientacao": { "type": ["string", "null"] },
+        "sim": { "type": "integer", "minimum": 0 },
+        "nao": { "type": "integer", "minimum": 0 },
+        "abstencao": { "type": "integer", "minimum": 0 },
+        "ausentes": { "type": ["integer", "null"], "minimum": 0 }
+      }
+    },
+    "estado": { "enum": ["nominal", "simbolica_sem_voto_individual", "sem_registro"] },
+    "fonte_url": { "type": "string", "pattern": "^https://" },
+    "proposta_ids": { "type": "array", "items": { "type": "string" } }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "ator_tipo": { "const": "voto_do_candidato" } } },
+      "then": { "required": ["casa", "votacao", "voto", "estado"] }
+    },
+    {
+      "if": { "properties": { "ator_tipo": { "const": "voto_da_bancada_do_partido" } } },
+      "then": { "required": ["casa", "votacao", "bancada", "estado"] }
+    },
+    {
+      "if": { "properties": { "ator_tipo": { "const": "ato_do_governo_do_candidato" } } },
+      "then": { "required": ["casa"], "properties": { "casa": { "const": "presidencia" } } }
+    }
+  ]
+}

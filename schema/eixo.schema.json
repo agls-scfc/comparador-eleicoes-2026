@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eixo.schema.json",
+  "title": "Eixo",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "titulo", "descricao", "fase", "ordem", "paginas_nos_planos", "topicos", "status"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "titulo": { "type": "string", "minLength": 3 },
+    "descricao": { "type": "string", "minLength": 10 },
+    "fase": { "enum": ["mvp", "fase2"] },
+    "ordem": { "type": "integer", "minimum": 1 },
+    "paginas_nos_planos": {
+      "type": "object",
+      "description": "Páginas impressas onde cada plano trata do eixo (guia de curadoria, não limite).",
+      "additionalProperties": { "type": "array", "items": { "type": "string", "pattern": "^[0-9]+(-[0-9]+)?$" } }
+    },
+    "topicos": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "titulo"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "titulo": { "type": "string", "minLength": 3 }
+        }
+      }
+    },
+    "status": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["propostas", "acoes", "falas"],
+      "properties": {
+        "propostas": { "enum": ["em_preparacao", "publicado"] },
+        "acoes": { "enum": ["em_preparacao", "publicado"] },
+        "falas": { "enum": ["em_preparacao", "publicado"] }
+      }
+    }
+  }
+}

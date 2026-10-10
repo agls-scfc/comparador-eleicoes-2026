@@ -1,0 +1,39 @@
+# Manifesto das fontes primárias.
+# Cada documento citado no site precisa estar aqui, com origem e hash verificáveis.
+# `pagina_pdf = pagina_impressa + offset_pagina_impressa` (confirmado pelo mantenedor: offset 0).
+
+documentos:
+  - id: plano-pt-2026
+    candidato: lula
+    partido: PT
+    titulo: "Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo"
+    arquivo: data/fontes/proposta-pt.pdf
+    arquivo_publico: proposta-pt.pdf
+    url_tse: https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pt/@@display-file/file/proposta-pt.pdf
+    sha256: e1c162c20c81dafadf69b10bab230b5a6dc48f6b6c27c2cfce853b131a8bcc36
+    paginas: 84
+    offset_pagina_impressa: 0
+    data_obtencao: 2026-10-09
+    origem_do_arquivo: copia_fornecida_pelo_mantenedor
+    verificado_contra_tse: false
+
+  - id: plano-pl-2026
+    candidato: flavio-bolsonaro
+    partido: PL
+    titulo: "Diretrizes do Plano de Governo Flávio Bolsonaro 2027-2030 (versão final)"
+    arquivo: data/fontes/proposta-pl.pdf
+    arquivo_publico: proposta-pl.pdf
+    url_tse: https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pl/@@display-file/file/proposta-pl.pdf
+    sha256: 7d1d95075e11e3c4113e8dcd502438049a34f5147a84cb0f746bf59046e477a4
+    paginas: 76
+    offset_pagina_impressa: 0
+    data_obtencao: 2026-10-09
+    origem_do_arquivo: copia_fornecida_pelo_mantenedor
+    verificado_contra_tse: false
+
+# Observações de proveniência:
+# - `copia_fornecida_pelo_mantenedor`: o mantenedor declarou que os arquivos são os mesmos
+#   disponíveis na página oficial do TSE. O ambiente de desenvolvimento não alcança tse.jus.br,
+#   então a conferência do hash contra o download direto ainda não foi feita.
+# - Para conferir: `python3 scripts/verificar_fontes.py` (baixa do TSE e compara o sha256).
+#   Quando passar, trocar `verificado_contra_tse` para true e registrar a data.
