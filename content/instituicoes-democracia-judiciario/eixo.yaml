@@ -1,0 +1,17 @@
+id: instituicoes-democracia-judiciario
+titulo: Instituições, democracia e Judiciário
+descricao: Democracia, Poderes, Judiciário, transparência e combate à corrupção.
+fase: mvp
+ordem: 7
+paginas_nos_planos:
+  plano-pt-2026:
+  - 15-18
+  plano-pl-2026:
+  - 65-70
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

@@ -1,0 +1,17 @@
+id: infraestrutura-transportes
+titulo: Infraestrutura e transportes
+descricao: Obras, logística, rodovias, ferrovias e portos.
+fase: fase2
+ordem: 12
+paginas_nos_planos:
+  plano-pt-2026:
+  - 52-54
+  plano-pl-2026:
+  - 50-51
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

@@ -1,0 +1,17 @@
+id: educacao
+titulo: Educação
+descricao: Educação básica, ensino superior, ciência e qualificação.
+fase: mvp
+ordem: 3
+paginas_nos_planos:
+  plano-pt-2026:
+  - 30-34
+  plano-pl-2026:
+  - 34-37
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

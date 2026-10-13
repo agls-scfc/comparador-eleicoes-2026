@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Extrai o texto de cada página dos PDFs listados em data/fontes/manifest.yaml.
 
-Saída: data/paginas/<id-do-documento>/NNN.txt (NNN = página do PDF, 3 dígitos)
+Saída: data/paginas/<id-do-documento>/NNN.txt (NNN = página do PDF, 3 dígitos; ordem de leitura)
+       data/paginas/<id-do-documento>/layout/NNN.txt (mesma página, preservando o layout)
        data/paginas/<id-do-documento>/_extracao.json (hash, ferramenta e versão)
 
 Requer poppler-utils (pdftotext) e PyYAML.
@@ -34,13 +35,17 @@ def versao_pdftotext() -> str:
     return (r.stderr or r.stdout).splitlines()[0].strip()
 
 
-def texto_da_pagina(pdf: Path, pagina: int) -> str:
-    r = subprocess.run(
-        ["pdftotext", "-f", str(pagina), "-l", str(pagina), "-enc", "UTF-8", str(pdf), "-"],
-        capture_output=True,
-        text=True,
-        check=True,
-    )
+def texto_da_pagina(pdf: Path, pagina: int, layout: bool = False) -> str:
+    """layout=False: ordem de leitura do pdftotext. layout=True: preserva a posição das linhas.
+
+    As duas extrações servem de verificação cruzada: texto justificado pode sair embaralhado
+    num modo e correto no outro (ex.: PT p.28). O validador aceita o literal se casar em
+    qualquer uma e avisa quando casa em apenas uma.
+    """
+    cmd = ["pdftotext", "-f", str(pagina), "-l", str(pagina), "-enc", "UTF-8"]
+    if layout:
+        cmd.append("-layout")
+    r = subprocess.run(cmd + [str(pdf), "-"], capture_output=True, text=True, check=True)
     return r.stdout
 
 
@@ -62,17 +67,20 @@ def main() -> int:
             return 1
         destino = SAIDA / doc["id"]
         destino.mkdir(parents=True, exist_ok=True)
-        for antigo in destino.glob("*.txt"):
+        destino_layout = destino / "layout"
+        destino_layout.mkdir(exist_ok=True)
+        for antigo in list(destino.glob("*.txt")) + list(destino_layout.glob("*.txt")):
             antigo.unlink()
         for n in range(1, doc["paginas"] + 1):
-            texto = texto_da_pagina(pdf, n)
-            (destino / f"{n:03d}.txt").write_text(texto, encoding="utf-8")
+            (destino / f"{n:03d}.txt").write_text(texto_da_pagina(pdf, n), encoding="utf-8")
+            (destino_layout / f"{n:03d}.txt").write_text(texto_da_pagina(pdf, n, layout=True), encoding="utf-8")
         meta = {
             "documento": doc["id"],
             "sha256": hash_real,
             "paginas": doc["paginas"],
             "ferramenta": "pdftotext",
             "versao_ferramenta": versao,
+            "modos": {"padrao": "pdftotext", "layout": "pdftotext -layout (data/paginas/<id>/layout/)"},
         }
         (destino / "_extracao.json").write_text(
             json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"

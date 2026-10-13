@@ -1,0 +1,18 @@
+id: meio-ambiente-clima-energia
+titulo: Meio ambiente, clima e energia
+descricao: Clima, florestas, matriz energética e sustentabilidade.
+fase: mvp
+ordem: 6
+paginas_nos_planos:
+  plano-pt-2026:
+  - 63-73
+  plano-pl-2026:
+  - 52-53
+  - 57-59
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

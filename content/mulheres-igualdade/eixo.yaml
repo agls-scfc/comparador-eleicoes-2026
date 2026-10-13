@@ -1,0 +1,17 @@
+id: mulheres-igualdade
+titulo: Mulheres e igualdade
+descricao: Direitos das mulheres, combate às desigualdades e à discriminação.
+fase: fase2
+ordem: 9
+paginas_nos_planos:
+  plano-pt-2026:
+  - 18-26
+  plano-pl-2026:
+  - 17-22
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

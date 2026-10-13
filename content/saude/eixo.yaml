@@ -1,0 +1,19 @@
+id: saude
+titulo: Saúde
+descricao: Sistema de saúde, atendimento, filas, medicamentos e saúde mental.
+fase: mvp
+ordem: 4
+paginas_nos_planos:
+  plano-pt-2026:
+  - 34-40
+  plano-pl-2026:
+  - '21'
+  - 25-26
+  - 37-39
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

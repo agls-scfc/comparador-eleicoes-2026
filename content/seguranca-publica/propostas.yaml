@@ -1,0 +1,717 @@
+# Eixo: segurança pública. Trechos literais dos planos registrados no TSE.
+# Regras de curadoria: frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+# ============================ LULA (plano-pt-2026) ============================
+
+- id: pt-seguranca-publica-001
+  candidato: lula
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Manter a estratégia de asfixia financeira do crime organizado"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 27
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Manteremos a estratégia de asfixia financeira do crime organizado por meio de ações articuladas,
+        que já permitiu, desde 2023, causar R$ 35,8 bilhões de prejuízos às organizações criminosas.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-002
+  candidato: lula
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Procedimentos jurídicos mais ágeis e barreira a candidaturas ligadas ao crime organizado"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 27
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Em conjunto com os demais poderes, vamos continuar liderando o processo de estabelecimento de
+        procedimentos jurídicos mais ágeis para punir esses crimes, além de medidas rígidas para barrar
+        candidaturas de indivíduos ligados ao crime organizado.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-003
+  candidato: lula
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Fortalecer o Programa Brasil Contra o Crime Organizado"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 27
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Fortaleceremos o Programa Brasil Contra o Crime Organizado, lançado em maio de 2026. Em cooperação
+        com estados e municípios, vamos avançar no enfrentamento ao tráfico de armas, munições, acessórios e
+        explosivos; asfixia financeira do crime organizado e das milícias; qualificação da investigação de
+        homicídios; retomada de territórios; e fortalecimento da segurança no sistema prisional. O programa
+        prevê R$ 10 bilhões do Fundo Nacional de Investimento em
+    - documento: plano-pt-2026
+      pagina_impressa: 28
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Infraestrutura Social (FIIS) para estados e municípios realizarem investimentos em equipamentos e
+        infraestrutura.
+  meta:
+    valor: 10000000000
+    unidade: "reais do FIIS para investimentos de estados e municípios"
+    prazo: null
+    expressao_no_plano: "R$ 10 bilhões"
+  condicionalidade: null
+
+- id: pt-seguranca-publica-004
+  candidato: lula
+  eixo: seguranca-publica
+  topico: prevencao-e-protecao
+  rotulo: "Investir em urbanização, espaços públicos e serviços em favelas e periferias"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 28
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Com repressão qualificada aos grupos criminosos e participação ativa das comunidades locais,
+        priorizaremos investimentos continuados na urbanização de favelas e periferias, na requalificação de
+        espaços públicos e na ampliação do acesso a serviços públicos essenciais para estimular atividades
+        econômicas lícitas e reduzir mercados explorados pelo crime organizado.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-005
+  candidato: lula
+  eixo: seguranca-publica
+  topico: inteligencia-e-tecnologia
+  rotulo: "Consolidar o sistema de inteligência, modernizar SINESP e Infoseg e ampliar as FICCOs"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 28
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Consolidaremos o Sistema de Inteligência de Segurança Pública e Justiça Criminal, modernizaremos o
+        SINESP e a Infoseg e ampliaremos as Forças Integradas de Combate ao Crime Organizado (FICCOs).
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-006
+  candidato: lula
+  eixo: seguranca-publica
+  topico: armas
+  rotulo: "Manter a política de controle de armas e munições e reforçar a fiscalização"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 28
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Por isso, manteremos uma política de controle de armas e munições, fundamental para reduzir a
+        violência e fortalecer uma política democrática de segurança pública. Aprimoraremos os mecanismos
+        de rastreabilidade de armas e munições e reforçaremos a capacidade de fiscalização da Polícia
+        Federal e do Exército sobre empresas de segurança privada, defesa pessoal e registros de caçadores,
+        atiradores e colecionadores.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-007
+  candidato: lula
+  eixo: seguranca-publica
+  topico: sistema-prisional
+  rotulo: "Cumprir o Plano Pena Justa e instituir o Pacto Nacional de Execução Penal"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 28
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Cumpriremos as metas do Plano Pena Justa e instituiremos o Pacto Nacional de Execução Penal para o
+        Enfrentamento ao Crime Organizado, fortalecendo a governança do sistema prisional e a cooperação
+        entre União, estados e sistema de justiça. Seguiremos apoiando Estados para implementar padrões
+        nacionais de gestão, monitoramento e modernização das penitenciárias estaduais.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-008
+  candidato: lula
+  eixo: seguranca-publica
+  topico: sistema-prisional
+  rotulo: "Fortalecer o sistema penitenciário federal e criar protocolo de transferência de presos"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 28
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Fortaleceremos o sistema penitenciário federal, ampliando sua capacidade operacional e de isolamento
+        de lideranças criminosas, e implantaremos um protocolo nacional de classificação e transferência de
+        presos de alta periculosidade, baseado em critérios objetivos e evidências.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-009
+  candidato: lula
+  eixo: seguranca-publica
+  topico: fronteiras-e-portos
+  rotulo: "Reforçar a segurança na Amazônia Legal e manter as Forças Armadas nas fronteiras"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 29
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Vamos fortalecer ainda mais as ações de segurança na Amazônia Legal, em cooperação federativa e
+        consolidando o modelo das Forças Integradas de Combate ao Crime Organizado (FICCOs) como política
+        de Estado. Manteremos as Forças Armadas presentes nas fronteiras amazônicas e na Pan-Amazônia, com
+        patrulhamento fluvial e aéreo, inteligência policial e ambiental e cooperação com os países da
+        Organização do Tratado de Cooperação Amazônica (OTCA).
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-010
+  candidato: lula
+  eixo: seguranca-publica
+  topico: inteligencia-e-tecnologia
+  rotulo: "Investir em radares, drones e centros de comando e priorizar o combate à mineração ilegal"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 29
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Daremos continuidade aos investimentos em radares, drones, sensores, imagens de satélite e centros
+        integrados de comando e controle para fortalecer o monitoramento territorial, integrar a detecção do
+        desmatamento às ações de segurança e incorporar o controle das rotas fluviais ao sistema nacional de
+        enfrentamento ao crime ambiental. O combate à mineração ilegal continuará sendo prioridade
+        estratégica, com investigação financeira obrigatória em todas as ações de desarticulação de
+        organizações criminosas.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-011
+  candidato: lula
+  eixo: seguranca-publica
+  topico: celulares-e-crimes-digitais
+  rotulo: "Expandir o Programa Celular Seguro e combater redes de receptação"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 29
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Continuaremos expandindo e aprimorando o Programa Celular Seguro, que já conta com mais de 4 milhões
+        de usuários cadastrados. Com a criação da Base Nacional de Celulares com Restrição, o programa
+        passou a oferecer ao cidadão possibilidade de verificar, antes da compra, se o aparelho possui
+        restrição. Vamos continuar intensificando o enfrentamento às redes de receptação, reduzindo também
+        fraudes bancárias, golpes financeiros e outros crimes associados.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-012
+  candidato: lula
+  eixo: seguranca-publica
+  topico: celulares-e-crimes-digitais
+  rotulo: "Reforçar o combate a crimes financeiros e cibernéticos"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 29
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Reforçaremos a prevenção, a inteligência, a investigação e a repressão qualificada aos crimes
+        financeiros e cibernéticos, assegurando a proteção dos direitos no ambiente digital. As ações
+        priorizarão o combate à exploração sexual de crianças e adolescentes, à violência contra mulheres e
+        pessoas LGBTQIAP+, ao racismo, às fraudes bancárias eletrônicas, aos crimes de alta tecnologia, aos
+        crimes de ódio e aos delitos cibernéticos praticados contra o Estado brasileiro ou de caráter
+        transnacional.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-013
+  candidato: lula
+  eixo: seguranca-publica
+  topico: prevencao-e-protecao
+  rotulo: "Fortalecer a prevenção da violência, a mediação comunitária e a justiça restaurativa"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 29
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Fortaleceremos as políticas de prevenção à violência com foco na proteção da juventude negra e da
+        expansão de programas de mediação comunitária e justiça restaurativa em parceria com estados e
+        municípios. Apoiaremos e disseminaremos metodologias bem-sucedidas de prevenção da violência e
+        promoção de direitos, inspiradas em experiências municipais e estaduais, fortalecendo a presença do
+        Estado nos territórios mais vulneráveis.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-014
+  candidato: lula
+  eixo: seguranca-publica
+  topico: forcas-e-financiamento
+  rotulo: "Criar o Ministério da Segurança Pública, se a PEC da Segurança Pública for aprovada"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 30
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da
+        Segurança Pública para coordenar, em articulação com estados e municípios, a execução das políticas
+        nacionais de segurança pública no âmbito do Sistema Único de Segurança Pública (SUSP). O Ministério
+        fortalecerá a integração entre os entes federados, a inteligência estatal, o enfrentamento ao crime
+        organizado, a prevenção da violência e a proteção dos direitos civis.
+  meta: null
+  condicionalidade: "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo"
+
+- id: pt-seguranca-publica-015
+  candidato: lula
+  eixo: seguranca-publica
+  topico: forcas-e-financiamento
+  rotulo: "Policiamento de proximidade, câmeras corporais e controle da atividade policial"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 30
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Construiremos, junto com os entes federados, programas no modelo de policiamento de proximidade,
+        fortalecendo a relação entre polícias e comunidades. Ampliaremos o programa de estímulos para uso de
+        câmeras corporais, com padrões nacionais para utilização, gestão e preservação das imagens.
+        Estimularemos o fortalecimento dos mecanismos de controle interno e externo da atividade policial.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-016
+  candidato: lula
+  eixo: seguranca-publica
+  topico: forcas-e-financiamento
+  rotulo: "Aprofundar a cooperação entre os três níveis de governo e ampliar a ação do Poder Federal"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 27
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Precisamos aprofundar a cooperação entre as instituições dos três níveis de governo e ampliar o
+        escopo de ação do Poder Federal para podermos avançar ainda mais no enfrentamento à violência.
+  meta: null
+  condicionalidade: null
+
+# --- o que o plano diz que já foi feito (não verificado; seção recolhível no site) ---
+
+- id: pt-seguranca-publica-017
+  candidato: lula
+  eixo: seguranca-publica
+  topico: forcas-e-financiamento
+  rotulo: "Envio ao Congresso de proposta de emenda constitucional sobre segurança pública"
+  tipo: resultado_declarado
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 27
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Enviamos ao Congresso Nacional proposta de emenda constitucional para revisar as atribuições dos
+        entes da Federação na área de segurança pública.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-018
+  candidato: lula
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Lei Antifacção sancionada em 2026"
+  tipo: resultado_declarado
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 27
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        Com a Lei Antifacção, sancionada em 2026, ampliamos nossa capacidade de enfrentar o crime
+        organizado, as milícias e as redes criminosas que alimentam mercados ilícitos, crimes financeiros,
+        corrupção e violência.
+  meta: null
+  condicionalidade: null
+
+- id: pt-seguranca-publica-019
+  candidato: lula
+  eixo: seguranca-publica
+  topico: armas
+  rotulo: "Revogação de decretos que facilitavam o acesso a armas de fogo"
+  tipo: resultado_declarado
+  trechos:
+    - documento: plano-pt-2026
+      pagina_impressa: 28
+      secao: "3. Proteger a vida com uma segurança pública mais eficiente e integrada"
+      literal: >-
+        A revogação dos decretos editados no governo anterior, que facilitavam o acesso a armas de fogo,
+        foi uma medida acertada.
+  meta: null
+  condicionalidade: null
+
+# ====================== FLÁVIO BOLSONARO (plano-pl-2026) ======================
+
+- id: pl-seguranca-publica-001
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Declarar facções como organizações narcoterroristas"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 13
+      secao: "Brasil sem Medo > Terrorista vai ser tratado como terrorista"
+      literal: >-
+        Vamos declarar guerra ao crime organizado. PCC, CV, milícias e todas as outras facções serão
+        declaradas como organizações narcoterroristas. Elas serão combatidas com força, inteligência e
+        integração para que seus líderes sejam presos e seus negócios ilícitos, asfixiados.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-002
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Bloquear ativos e desarticular a lavagem de dinheiro das facções"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 13
+      secao: "Brasil sem Medo > Terrorista vai ser tratado como terrorista"
+      literal: >-
+        Vamos seguir o dinheiro do crime: bloquearemos ativos e desarticularemos a lavagem de dinheiro que
+        sustenta as facções.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-003
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Recuperar territórios dominados por facções"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 74
+      secao: "Conclusão: um convite à nação"
+      literal: >-
+        A primeira coragem do nosso governo será recuperar os territórios dominados pelas facções e devolver
+        ao brasileiro o direito de ir e vir, de trabalhar, de empreender e de ser feliz.
+    - documento: plano-pl-2026
+      pagina_impressa: 47
+      secao: "Brasil que Prospera > A casa própria"
+      literal: >-
+        Alinhado ao Brasil sem Medo, vamos retomar as áreas hoje sob domínio de facções, devolvendo aos
+        moradores a liberdade de ir e vir na própria comunidade — ninguém é dono de verdade da sua casa
+        enquanto o tráfico manda na esquina.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-004
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: crime-organizado
+  rotulo: "Resposta das forças de segurança a criminosos armados e a traficantes que resistem"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 13
+      secao: "Brasil sem Medo > Terrorista vai ser tratado como terrorista"
+      literal: >-
+        Bandido armado com fuzil na mão vai ser abatido pelas forças de segurança.
+    - documento: plano-pl-2026
+      pagina_impressa: 15
+      secao: "Brasil sem Medo > Acabar com a cocaína “made in Brazil”"
+      literal: >-
+        Traficante que resistir e enfrentar o Estado vai ser preso ou vai virar pó.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-005
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: forcas-e-financiamento
+  rotulo: "Consórcios e convênios com estados e municípios para investir em segurança"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 13
+      secao: "Brasil sem Medo > Terrorista vai ser tratado como terrorista"
+      literal: >-
+        Vamos fazer consórcios e convênios com estados e municípios para investir em inteligência, retomada
+        de territórios alinhada a políticas públicas estruturantes, tecnologia, armamentos de última geração
+        e valorização do policial.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-006
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: forcas-e-financiamento
+  rotulo: "Dobrar os investimentos federais em segurança pública ao longo do mandato"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 15
+      secao: "Brasil sem Medo > Menos verbo mais verba"
+      literal: >-
+        O novo governo do Brasil vai dobrar os investimentos federais em segurança pública ao longo do
+        mandato.
+  meta:
+    valor: 2
+    unidade: "multiplicador dos investimentos federais em segurança pública"
+    prazo: "ao longo do mandato"
+    expressao_no_plano: "dobrar"
+  condicionalidade: null
+
+- id: pl-seguranca-publica-007
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: fronteiras-e-portos
+  rotulo: "Criar o Sistema Nacional de Fronteira, com tropa das Forças Armadas"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 13
+      secao: "Brasil sem Medo > Tropa de elite nas fronteiras"
+      literal: >-
+        Vamos criar o Sistema Nacional de Fronteira, uma tropa de elite do Exército, da Marinha e
+    - documento: plano-pl-2026
+      pagina_impressa: 14
+      secao: "Brasil sem Medo > Tropa de elite nas fronteiras"
+      literal: >-
+        da Força Aérea Brasileira, equipada com armas de guerra, inteligência e tecnologia, responsável por
+        criar um paredão na fronteira. Fuzis e drogas que abastecem 100% das facções serão interceptados por
+        terra, pelos portos e pelo espaço aéreo.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-008
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: fronteiras-e-portos
+  rotulo: "Tropas especiais da Marinha e da Aeronáutica nos portos e aeroportos"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 15
+      secao: "Brasil sem Medo > Acabar com a cocaína “made in Brazil”"
+      literal: >-
+        Nós vamos usar tropas especiais da Marinha e da Aeronáutica para ocupar e monitorar, de forma
+        permanente, os portos e aeroportos brasileiros.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-009
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: sistema-prisional
+  rotulo: "Cinco novos presídios federais de segurança máxima (Complexo Federal TREVA)"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 14
+      secao: "Brasil sem Medo > Mais presídios, menos bandidos soltos"
+      literal: >-
+        O Brasil terá 5 novos presídios de segurança máxima no modelo adotado por El Salvador. Junto com os
+        atuais 5 presídios federais, eles formarão o Complexo Federal de Segurança Máxima. Para tirar o medo
+        do cidadão e botar medo no bandido, ele vai se chamar TREVA.
+  meta:
+    valor: 5
+    unidade: "novos presídios de segurança máxima"
+    prazo: null
+    expressao_no_plano: "5 novos presídios"
+  condicionalidade: null
+
+- id: pl-seguranca-publica-010
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: sistema-prisional
+  rotulo: "Isolar chefes de quadrilha, sem celular e sem visita íntima"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 14
+      secao: "Brasil sem Medo > Mais presídios, menos bandidos soltos"
+      literal: >-
+        Chefes de quadrilha e marginais de alta periculosidade serão tirados de circulação e isolados. Com
+        isso, os bandidos vão deixar de controlar as facções criminosas de dentro dos presídios, como ocorre
+        hoje. Eles vão viver sem celular, sem visita íntima e com visitas monitoradas.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-011
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: sistema-prisional
+  rotulo: "Criar meio milhão de novas vagas no sistema prisional em 4 anos"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 14
+      secao: "Brasil sem Medo > Mais presídios, menos bandidos soltos"
+      literal: >-
+        Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional
+        em 4 anos e zerar o déficit carcerário.
+  meta:
+    valor: 500000
+    unidade: "novas vagas no sistema prisional"
+    prazo: "4 anos"
+    expressao_no_plano: "meio milhão de novas vagas"
+  condicionalidade: null
+
+- id: pl-seguranca-publica-012
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: legislacao-penal
+  rotulo: "Apoiar e sancionar a redução da maioridade penal para 16 anos"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 13
+      secao: "Brasil sem Medo > O crime do menor não é menor"
+      literal: >-
+        O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos.
+        Vamos punir também maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e
+        assassinato. Quem comete crime como gente grande vai ser punido como gente grande.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-013
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: legislacao-penal
+  rotulo: "Aprovar a castração química de condenados por abuso de mulheres e crianças"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 14
+      secao: "Brasil sem Medo > Cortar o mal pela raiz"
+      literal: >-
+        Vamos usar a força da Presidência da República e a nossa experiência legislativa para aprovar e
+        implementar a castração química de criminosos que abusam de mulheres e crianças. A medida deverá
+        ser aplicada a estupradores e abusadores de crianças condenados pela Justiça.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-014
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: legislacao-penal
+  rotulo: "Acabar com a progressão de regime em crimes hediondos"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 15
+      secao: "Brasil sem Medo > Sem desconto para a barbárie"
+      literal: >-
+        Por isso, o novo Governo do Brasil vai usar toda a sua força para acabar com a progressão de regime
+        de quem comete crimes hediondos. Quem tirar uma vida vai cumprir
+    - documento: plano-pl-2026
+      pagina_impressa: 16
+      secao: "Brasil sem Medo > Sem desconto para a barbárie"
+      literal: >-
+        integralmente sua condenação para proteger a sociedade e para que os bandidos entendam, antes de
+        cometerem seus crimes, que aqueles que desafiarem a lei vão mofar na prisão.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-015
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: legislacao-penal
+  rotulo: "Endurecer a lei para agressores e assassinos de mulheres cumprirem a pena integralmente"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 14
+      secao: "Brasil sem Medo > Tolerância zero para o feminicídio"
+      literal: >-
+        Vamos endurecer a lei e obrigar assassinos e agressores de mulheres a cumprir integralmente suas
+        penas. Porque hoje o sistema liberta criminosos depois de 55% do tempo da pena. Isso vai acabar. É
+        cadeia o tempo todo: do primeiro ao último dia.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-016
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: prevencao-e-protecao
+  rotulo: "Monitorar com tornozeleira eletrônica agressores de mulheres com medida protetiva"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 14
+      secao: "Brasil sem Medo > Tolerância zero para o feminicídio"
+      literal: >-
+        Medida protetiva vai deixar de ser um pedaço de papel para ser um instrumento real de proteção às
+        mulheres. Os agressores das mais de meio milhão de mulheres com medida protetiva no Brasil serão
+        monitorados pelas autoridades com o uso de tornozeleiras eletrônicas.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-017
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: prevencao-e-protecao
+  rotulo: "Redirecionar recursos das famílias de detentos para as famílias das vítimas"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 15
+      secao: "Brasil sem Medo > Auxílio das famílias das vítimas, não dos bandidos"
+      literal: >-
+        O novo Governo do Brasil vai colocar a vítima em primeiro lugar. Os recursos hoje direcionados às
+        famílias de detentos serão redirecionados às famílias das vítimas, conforme recomendado pela ONU e
+        por tratados internacionais dos quais o Brasil é signatário, embora Lula e o PT nunca os tenham
+        cumprido.
+  meta: null
+  condicionalidade: null
+
+- id: pl-seguranca-publica-018
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: inteligencia-e-tecnologia
+  rotulo: "Implantar o Muralha Brasileira: reconhecimento facial e mais de 1 milhão de câmeras"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 15
+      secao: "Brasil sem Medo > Luz, câmara, prisão"
+      literal: >-
+        Vamos implantar o Muralha Brasileira - um sistema nacional de reconhecimento facial integrado a
+        bancos de dados criminais, inspirado no Smart Sampa, da Prefeitura de São Paulo, e no Muralha
+        Paulista, do Governo do Estado. Além de localizar foragidos e prevenir crimes, vamos vigiar portos,
+        aeroportos e áreas públicas com mais de 1 milhão de novas câmeras espalhadas por todo o país.
+  meta:
+    valor: 1000000
+    unidade: "novas câmeras"
+    prazo: null
+    expressao_no_plano: "mais de 1 milhão de novas câmeras"
+  condicionalidade: null
+
+- id: pl-seguranca-publica-019
+  candidato: flavio-bolsonaro
+  eixo: seguranca-publica
+  topico: celulares-e-crimes-digitais
+  rotulo: "Prisão para quem rouba celular e pena inicial quadruplicada para furto e revenda"
+  tipo: compromisso
+  trechos:
+    - documento: plano-pl-2026
+      pagina_impressa: 16
+      secao: "Brasil sem Medo > Quem não entrar na linha vai ser desligado da sociedade"
+      literal: >-
+        Por isso, o novo Governo do Brasil vai jogar duro com quem rouba, furta e comercializa celulares
+        roubados. Criminoso que for pego roubando celular vai ficar preso. Quem furta ou revende um
+        aparelho fruto de crime vai ter a pena inicial quadruplicada, também sem benefícios.
+  meta:
+    valor: 4
+    unidade: "multiplicador da pena inicial"
+    prazo: null
+    expressao_no_plano: "quadruplicada"
+  condicionalidade: null

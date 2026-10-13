@@ -1,0 +1,17 @@
+id: politica-externa-defesa
+titulo: Política externa e defesa
+descricao: Relações internacionais, soberania e Forças Armadas.
+fase: mvp
+ordem: 8
+paginas_nos_planos:
+  plano-pt-2026:
+  - 77-83
+  plano-pl-2026:
+  - 61-64
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

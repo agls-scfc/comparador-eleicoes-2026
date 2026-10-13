@@ -1,0 +1,31 @@
+id: seguranca-publica
+titulo: "Segurança pública"
+descricao: "Crime organizado, sistema prisional, fronteiras, legislação penal, armas, tecnologia policial e prevenção da violência."
+fase: mvp
+ordem: 1
+paginas_nos_planos:
+  plano-pt-2026: ["26-30"]
+  plano-pl-2026: ["13-16", "47", "74"]
+topicos:
+  - id: crime-organizado
+    titulo: "Crime organizado e facções"
+  - id: fronteiras-e-portos
+    titulo: "Fronteiras, portos e Amazônia"
+  - id: sistema-prisional
+    titulo: "Sistema prisional e execução penal"
+  - id: legislacao-penal
+    titulo: "Legislação penal e penas"
+  - id: inteligencia-e-tecnologia
+    titulo: "Inteligência, tecnologia e monitoramento"
+  - id: forcas-e-financiamento
+    titulo: "Estrutura federal, polícias e financiamento"
+  - id: armas
+    titulo: "Controle de armas e munições"
+  - id: prevencao-e-protecao
+    titulo: "Prevenção, proteção de vítimas e presença do Estado"
+  - id: celulares-e-crimes-digitais
+    titulo: "Roubo de celulares e crimes digitais"
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

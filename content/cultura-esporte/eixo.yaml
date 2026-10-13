@@ -1,0 +1,17 @@
+id: cultura-esporte
+titulo: Cultura e esporte
+descricao: Políticas culturais, incentivo ao esporte e economia criativa.
+fase: fase2
+ordem: 14
+paginas_nos_planos:
+  plano-pt-2026:
+  - 40-44
+  plano-pl-2026:
+  - 40-41
+topicos:
+- id: visao-geral
+  titulo: Visão geral (tópicos a definir na curadoria)
+status:
+  propostas: em_preparacao
+  acoes: em_preparacao
+  falas: em_preparacao

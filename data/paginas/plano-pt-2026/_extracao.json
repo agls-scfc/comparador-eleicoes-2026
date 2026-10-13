@@ -3,5 +3,9 @@
   "sha256": "e1c162c20c81dafadf69b10bab230b5a6dc48f6b6c27c2cfce853b131a8bcc36",
   "paginas": 84,
   "ferramenta": "pdftotext",
-  "versao_ferramenta": "pdftotext version 24.02.0"
+  "versao_ferramenta": "pdftotext version 24.02.0",
+  "modos": {
+    "padrao": "pdftotext",
+    "layout": "pdftotext -layout (data/paginas/<id>/layout/)"
+  }
 }
