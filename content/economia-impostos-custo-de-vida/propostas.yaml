@@ -1,0 +1,396 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-economia-impostos-custo-de-vida-001
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: crescimento-e-industria
+  rotulo: Elevar a taxa de investimento, na infraestrutura e na indústria
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 48
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Crescimento com Inclusão e Estabilidade
+    literal: Para isso, vamos elevar a taxa de investimento da economia. Ampliar os investimentos em infraestrutura logística, para dar mais competitividade à produção nacional, e em infraestrutura social, para aprimorar os serviços e os cuidados básicos prestados à população. Também continuaremos a incentivar os investimentos privados na indústria, com foco em inovação e em setores portadores de futuro, para que o Brasil avance posições na corrida tecnológica global.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-002
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Criar condições para uma redução sustentada dos juros
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 49
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Crescimento com Inclusão e Estabilidade
+    literal: Para impulsionar ainda mais os investimentos produtivos e o crescimento econômico de longo prazo, vamos criar as condições para uma redução sustentada das taxas de juros, com inflação controlada e assegurando uma política fiscal responsável.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-003
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Manter o novo arcabouço fiscal
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 49
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Crescimento com Inclusão e Estabilidade
+    literal: Para isso, manteremos o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar as políticas sociais e permitiu uma redução significativa do déficit primário.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-004
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Resultado fiscal pelo crescimento, controle do gasto e justiça tributária
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 49
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Crescimento com Inclusão e Estabilidade
+    literal: O resultado fiscal virá, como fizemos até aqui, da retomada do crescimento econômico, do controle do aumento do gasto primário, investindo na melhoria da eficiência e da qualidade do gasto público, da promoção de justiça tributária e do combate aos privilégios e às distorções.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-005
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Manter a inflação sob controle e a renda real acima do custo de vida
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 49
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Crescimento com Inclusão e Estabilidade
+    literal: Manteremos a inflação sob controle de forma duradoura e sustentável, garantindo que a renda real da população cresça acima do custo de vida.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-006
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: crescimento-e-industria
+  rotulo: Fortalecer a regulação do sistema financeiro e o mercado de capitais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 49
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Crescimento com Inclusão e Estabilidade
+    literal: Vamos também garantir a estabilidade e a saúde do sistema financeiro nacional por meio do fortalecimento dos órgãos de regulação, fiscalização e controle. E vamos aprofundar o mercado de capitais doméstico – aprimorando o uso das debêntures de infraestrutura, dos fundos de investimento em participações e do mercado secundário de recebíveis – e ampliar a atuação de investidores institucionais como financiadores de longo prazo.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-007
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: custo-de-vida
+  rotulo: Monitorar o endividamento e aprimorar as regras de concessão de crédito
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 49
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Crescimento com Inclusão e Estabilidade
+    literal: Além disso, seguiremos monitorando a evolução do endividamento das famílias e das empresas, assegurando a continuidade dos fundos garantidores, mantendo os mecanismos de controle de gastos excessivos em apostas on-line e aprimorando as regras de oferta e responsabilidade na concessão de crédito, conferindo maior proteção aos consumidores.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-008
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: crescimento-e-industria
+  rotulo: Fortalecer a neoindustrialização e integrar política industrial, científica e comercial
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 50
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: 'No próximo ciclo governamental, nosso objetivo central será aprimorar e fortalecer a neoindustrialização, repensando o papel da indústria no Brasil a partir das prioridades da sociedade, de suas contribuições para a melhoria das condições de vida das pessoas, para a geração de empregos decentes e para a prosperidade econômica. O foco estratégico está na inovação, IA, minerais críticos e outros ativos capazes de colocar o Brasil de uma vez por todas como protagonista em áreas portadoras de futuro. Vamos continuar integrando as políticas industrial, científica, tecnológica, de inovação e de comércio exterior, combinando cinco objetivos centrais: elevar a produtividade, agregar valor às cadeias produtivas, fortalecer a soberania tecnológica, gerar empregos qualificados e descarbonizar a economia.'
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-009
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: crescimento-e-industria
+  rotulo: Instrumentos de apoio à indústria com preferência a empresas brasileiras
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 51
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: Seguiremos fortalecendo os instrumentos de apoio à indústria. Utilizaremos financiamento direcionado, com soluções inovadoras de parceria entre crédito público e privado, compras públicas, concessões, regulações e benefícios condicionados a conteúdo local, valor agregado nacional, margens de preferência com estímulos para empresas brasileiras.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-010
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: crescimento-e-industria
+  rotulo: Simplificar o ambiente de negócios e ampliar compras governamentais de pequenas empresas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 57
+    secao: Micro e pequenas empresas
+    literal: No próximo período, vamos simplificar ainda mais o ambiente de negócios, ampliar o acesso das pequenas empresas às compras governamentais, assegurar tratamento tributário justo na implementação da reforma tributária e estimular uma cultura de inovação tecnológica e inserção exportadora.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-011
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: tributacao
+  rotulo: Usar o Imposto Seletivo para desestimular produtos nocivos à saúde
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: Alimentação e saúde
+    literal: Ao regulamentar a reforma tributária, vamos, por meio do Imposto Seletivo, desestimular produtos nocivos à saúde.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-012
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: tributacao
+  rotulo: Reforma tributária do consumo e isenção do imposto de renda até R$ 5.000
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: Aprovamos a reforma tributária do consumo e isentamos de imposto de renda todos os que ganham até R$ 5.000, compromisso assumido na campanha de 2022, marcos do início do processo de redução da regressividade do sistema tributário brasileiro.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-013
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: crescimento-e-industria
+  rotulo: Financiamentos da Nova Indústria Brasil entre 2023 e 2026
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 50
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: Somente em financiamentos por meio do Plano Mais Produção (P+P), a NIB terá disponibilizado R$ 860 bilhões entre 2023 e 2026.
+  meta: null
+  condicionalidade: null
+- id: pt-economia-impostos-custo-de-vida-014
+  candidato: lula
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Política econômica assentada em cinco pilares
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 47
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos
+    literal: 'Fizemos uma política econômica assentada em cinco pilares: (i) a retomada do crescimento econômico e do emprego; (ii) o combate às desigualdades e a promoção da justiça social; (iii) inflação controlada e responsabilidade fiscal; (iv) a modernização produtiva, com a neoindustrialização e a transformação ecológica como eixos estruturantes; e (v) a reabertura do Brasil ao mundo, assegurando a soberania nacional.'
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-001
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: tributacao
+  rotulo: Rever a reforma tributária, reduzir o IVA e reduzir a carga sobre produção e consumo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 30
+    secao: Brasil Mais Barato > Menos imposto no que você consome
+    literal: 'Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo. Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto. Assim a reforma fica mais equilibrada, preservando a simplificação e a aderência às melhores práticas internacionais. O esforço de simplificação continuará: menos impostos, legislação unificada, desoneração das exportações e dos investimentos e redução das exceções, para que grupos parecidos paguem impostos parecidos.'
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-002
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: custo-de-vida
+  rotulo: Simplificar a conta de luz e reduzir impostos sobre energia elétrica e combustíveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 31
+    secao: Brasil Mais Barato > Conta de luz mais simples e mais barata
+    literal: 'Vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados, e promover a redução gradual da CDE e das fontes incentivadas, mantida a tarifa social para quem mais precisa dela. Vamos reduzir impostos sobre energia elétrica e combustíveis, buscar segurança energética ao menor preço possível para o consumidor e regular as diversas fontes com um único norte: o menor preço final para quem paga a conta.'
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-003
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: custo-de-vida
+  rotulo: Corredores Logísticos Inteligentes e ampliação do Seguro Rural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 31
+    secao: Brasil Mais Barato > Comida mais barata na prateleira
+    literal: 'Vamos criar os Corredores Logísticos Inteligentes, com foco direto na redução do custo de transporte, e ampliar o Seguro Rural, dando previsibilidade a quem planta: safra protegida é oferta garantida, e oferta garantida é preço estável.'
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-004
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: custo-de-vida
+  rotulo: Ampliar a capacidade de armazenamento das safras
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 31
+    secao: Brasil Mais Barato > Comida mais barata na prateleira
+    literal: Vamos também ampliar a capacidade de armazenamento das safras, hoje insuficiente para o que o país produz.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-005
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: custo-de-vida
+  rotulo: Apoiar a produção nacional de fertilizantes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 32
+    secao: Brasil Mais Barato > Comida mais barata na prateleira
+    literal: Vamos apoiar a produção nacional de fertilizantes, com os minerais que o Brasil possui, como o potássio e o fosfato, para que a mesa do brasileiro não dependa do que acontece do outro lado do mundo.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-006
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: custo-de-vida
+  rotulo: Proibir apostas com recursos de programas sociais e ampliar a orientação financeira
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 33
+    secao: Brasil Mais Barato > Crédito que não afunda a família
+    literal: Vamos proibir o uso dos recursos dos programas sociais para apostas, porque dinheiro destinado a pôr comida na mesa não pode escoar para a casa de apostas, e promover campanhas educativas e de conscientização sobre os riscos do endividamento com jogos. E vamos ampliar a orientação financeira, pela rede da CAIXA, para que o brasileiro aprenda a sair do vermelho, organizar o orçamento e começar a poupar.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-007
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Reduzir a dívida pública para aproximar os juros da média internacional
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 33
+    secao: Brasil Mais Barato > Crédito que não afunda a família
+    literal: Ao estabilizar e reduzir a dívida pública, nosso governo vai criar as condições para que os juros básicos fiquem em linha com a média internacional e para que a inflação volte ao centro da meta.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-008
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Reformular as regras fiscais, buscar superávits e limitar crédito subsidiado do Tesouro
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 71
+    secao: Brasil que Não Volta Atrás > Contas em ordem para juros e inflação menores
+    literal: 'Vamos fazer o oposto: faremos nossos gastos caberem no orçamento, o que permitirá cobrar menos impostos e não empurrará dívida para as próximas gerações. Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública conforme determina a Constituição. Vamos construir o equilíbrio fiscal duradouro, entregando superávits primários e limitando o crédito subsidiado com recursos do Tesouro, mitigando pressões inflacionárias. E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União.'
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-009
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: estado-e-gestao
+  rotulo: Choque de gestão, reforma do processo orçamentário e avaliação de políticas públicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 71
+    secao: Brasil que Não Volta Atrás > Contas em ordem para juros e inflação menores
+    literal: Junto disso, um choque de gestão vai colocar o patrimônio público a serviço da sociedade, com reforma do processo orçamentário e uma agenda permanente de transparência e avaliação de políticas públicas, identificando quem são os beneficiários de cada programa e medindo o impacto real de cada gasto.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-010
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: estado-e-gestao
+  rotulo: 'Tesouraço: cortar gastos e reduzir impostos sobre quem produz'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 68
+    secao: Brasil que Não Volta Atrás
+    literal: 'Nossa bandeira é um grande TESOURAÇO: um corte profundo e por todos os lados, que enxuga a máquina, coloca as contas em ordem e reduz os impostos que pesam sobre quem produz.'
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-011
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: estado-e-gestao
+  rotulo: Reforma administrativa e corte de no mínimo 10 ministérios
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 69
+    secao: Brasil que Não Volta Atrás > Enxugar a Máquina e Profissionalizar a Gestão Pública
+    literal: 'Daremos continuidade à reforma administrativa que já colocamos em discussão, para modernizar o funcionamento do Estado e a carreira do servidor. E faremos uma ampla revisão normativa infralegal, na gestão pública e nas áreas tributária, previdenciária e trabalhista, que elimine o excesso de regras que trava a economia e encarece a máquina. Isso inclui o corte de no mínimo 10 ministérios, a redução de cargos comissionados e de despesas administrativas e o combate aos penduricalhos e supersalários que corroem o orçamento, tudo com um objetivo: mais eficiência e racionalidade para servir à sociedade.'
+  meta:
+    valor: 10
+    unidade: ministérios a cortar (mínimo)
+    prazo: null
+    expressao_no_plano: no mínimo 10 ministérios
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-012
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: estado-e-gestao
+  rotulo: Revisar o pacto federativo e as regras do processo orçamentário
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 69
+    secao: Brasil que Não Volta Atrás > Mais Brasil e menos Brasília
+    literal: Promoveremos a revisão do pacto federativo e a redefinição das regras e dos processos orçamentários, e revisar a legislação para agilizar a aprovação, a liberação dos recursos e a prestação de contas.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-013
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: estado-e-gestao
+  rotulo: Retomar o Programa Nacional de Desestatização, caso a caso
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 70
+    secao: Brasil que Não Volta Atrás > Enxugar a Máquina e Profissionalizar a Gestão Pública
+    literal: E vamos retomar o Programa Nacional de Desestatização com critério, avaliando caso a caso onde a presença do Estado deixou de fazer sentido.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-014
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Redução da dívida em relação ao PIB durante a pandemia
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 29
+    secao: Brasil Mais Barato
+    literal: Nós já mostramos que o caminho é outro. Mesmo enfrentando a maior pandemia em cem anos, reduzimos em 4 pontos percentuais a relação entre a dívida e o PIB.
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-015
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: tributacao
+  rotulo: Redução de tributos e tarifas no governo Bolsonaro
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 29
+    secao: Brasil Mais Barato
+    literal: 'No governo Bolsonaro, a redução de tributos chegou ao dia a dia das famílias: caiu a conta de energia elétrica, caiu a conta de telefone, caiu o preço da gasolina e ficou mais barato comprar bens de consumo, de um fogão a uma geladeira. Também foi ali que nasceu o PIX, que tirou do brasileiro mais pobre o peso das tarifas bancárias.'
+  meta: null
+  condicionalidade: null
+- id: pl-economia-impostos-custo-de-vida-016
+  candidato: flavio-bolsonaro
+  eixo: economia-impostos-custo-de-vida
+  topico: fiscal-juros-inflacao
+  rotulo: Menor taxa média de juros desde o início do Plano Real
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 32
+    secao: Brasil Mais Barato > Crédito que não afunda a família
+    literal: 'Já quando as contas se organizam, o resultado aparece: o governo Bolsonaro praticou a menor taxa de juros média desde o início do Plano Real.'
+  meta: null
+  condicionalidade: null

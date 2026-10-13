@@ -6,13 +6,23 @@ ordem: 2
 paginas_nos_planos:
   plano-pt-2026:
   - 18-19
-  - 47-50
+  - 47-51
+  - '57'
+  - '59'
   plano-pl-2026:
   - 29-33
   - 68-72
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: fiscal-juros-inflacao
+  titulo: Contas públicas, juros e inflação
+- id: tributacao
+  titulo: Tributação
+- id: custo-de-vida
+  titulo: Preços, energia, alimentos e crédito
+- id: crescimento-e-industria
+  titulo: Crescimento, investimento e indústria
+- id: estado-e-gestao
+  titulo: Tamanho e gestão do Estado
 status:
   propostas: em_preparacao
   acoes: em_preparacao
