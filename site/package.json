@@ -1,0 +1,17 @@
+{
+  "name": "comparador-eleicoes-2026-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validar": "python3 -I ../scripts/validar.py",
+    "preparar": "node scripts/preparar.mjs",
+    "dev": "npm run preparar && PREVIEW=1 astro dev",
+    "build": "npm run validar && npm run preparar && astro build",
+    "build:preview": "npm run validar && npm run preparar && PREVIEW=1 astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "5.4.3",
+    "js-yaml": "4.1.0"
+  }
+}

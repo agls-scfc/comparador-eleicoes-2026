@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+import { eixos, visivel, totalCompromissos, CANDIDATOS } from "../lib/dados";
+const base = import.meta.env.BASE_URL;
+const lista = eixos();
+const prontos = (e: any) => visivel(e.status.propostas) && CANDIDATOS.every((c) => totalCompromissos(e, c.id) > 0);
+---
+<Base titulo="Eixos">
+  <h1>O que cada plano de governo propõe</h1>
+  <p class="lead">
+    Escolha um tema para ver, lado a lado, o que <strong>Flávio Bolsonaro</strong> e <strong>Lula</strong>
+    escreveram em seus planos de governo registrados no TSE. Cada trecho é uma cópia literal, com o link
+    para a página do documento.
+  </p>
+  <p>
+    Além das propostas, cada tema terá as falas dos candidatos e o que eles e seus partidos já fizeram,
+    incluindo votos no Congresso. O que ainda não está pronto aparece marcado como
+    <span class="chip aviso">em preparação</span>.
+  </p>
+
+  <ul class="grade">
+    {lista.map((e) => (
+      <li>
+        <a class="cartao" href={`${base}eixos/${e.id}/`}>
+          <span class="ordem">{String(e.ordem).padStart(2, "0")}</span>
+          <strong>{e.titulo}</strong>
+          <span class="desc">{e.descricao}</span>
+          <span class="estado">
+            {prontos(e)
+              ? <>{CANDIDATOS.map((c) => <span class="chip">{c.nome.split(" ")[0]}: {totalCompromissos(e, c.id)} propostas</span>)}</>
+              : <span class="chip aviso">em preparação</span>}
+          </span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>
+
+<style>
+  .grade { list-style: none; margin: 2rem 0 0; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); }
+  .cartao { display: flex; flex-direction: column; gap: .35rem; height: 100%; padding: 1rem 1.1rem; background: var(--papel); border: 1px solid var(--linha); border-radius: var(--raio); text-decoration: none; color: var(--texto); }
+  .cartao:hover { border-color: var(--tinta); }
+  .cartao strong { color: var(--tinta); font-size: 1.1rem; }
+  .ordem { font-size: .75rem; color: var(--texto-2); }
+  .desc { font-size: .9rem; color: var(--texto-2); flex: 1; }
+  .estado { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .4rem; }
+</style>

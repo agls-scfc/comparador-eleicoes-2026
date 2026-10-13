@@ -1,0 +1,80 @@
+---
+import Base from "../layouts/Base.astro";
+import { documentos } from "../lib/dados";
+const docs = Object.values(documentos());
+const base = import.meta.env.BASE_URL;
+---
+<Base titulo="Metodologia e fontes">
+  <h1>Metodologia e fontes</h1>
+  <p class="lead">
+    O objetivo é dar acesso a fatos que qualquer pessoa possa conferir. O site não recomenda voto
+    e não avalia se uma proposta é boa ou ruim.
+  </p>
+
+  <h2>De onde vêm as propostas</h2>
+  <p>
+    Das versões dos planos de governo disponíveis na página oficial do TSE. Cada proposta mostra o texto
+    <strong>exatamente como está no plano</strong>, a seção, o número da página e dois links: a página no
+    PDF e o arquivo original no TSE. Um programa de verificação confere, antes de qualquer publicação, que o
+    texto citado existe na página indicada. Se não existir, o site não é gerado.
+  </p>
+  <table>
+    <caption>Documentos usados</caption>
+    <thead><tr><th>Candidato</th><th>Documento</th><th>Páginas</th><th>Arquivo</th><th>Conferido com o TSE</th></tr></thead>
+    <tbody>
+      {docs.map((d) => (
+        <tr>
+          <td>{d.partido}</td>
+          <td>{d.titulo}</td>
+          <td>{d.paginas}</td>
+          <td>
+            <a href={`${base}fontes/${d.arquivo_publico}`}>PDF</a> ·
+            <a href={d.url_tse} rel="noopener">TSE</a><br />
+            <code title="SHA-256 do arquivo">{d.sha256.slice(0, 16)}…</code>
+          </td>
+          <td>{d.verificado_contra_tse ? "sim" : "ainda não (arquivo fornecido pelo mantenedor do projeto)"}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>O que aparece e o que não aparece</h2>
+  <ul>
+    <li><strong>Compromissos</strong>: o que o plano promete fazer. É isso que aparece lado a lado.</li>
+    <li><strong>“O que o plano diz que já foi feito”</strong>: afirmações do plano sobre o passado. Ficam em seção separada e <em>não verificadas</em>.</li>
+    <li><strong>Críticas ao adversário</strong>: não são propostas de governo e não são exibidas.</li>
+    <li>Trechos são frases inteiras. Quando um texto passa de uma página para a outra, aparecem dois trechos. Nada é cortado dentro de uma frase.</li>
+    <li>Rótulos curtos acima de cada trecho só descrevem a proposta, sem adjetivos de avaliação. Em caso de dúvida, vale o texto literal.</li>
+  </ul>
+
+  <h2>Falas e ações</h2>
+  <ul>
+    <li>Falas trazem data, veículo e link. O site <strong>não</strong> diz se uma fala é coerente ou contraditória com o plano.</li>
+    <li>Ações sempre dizem <strong>quem agiu</strong>: o próprio candidato, a bancada do partido, o governo chefiado pelo candidato ou autoria de projeto.</li>
+    <li>Votação simbólica, sem voto individual registrado, é apresentada como tal, nunca como “apoio”.</li>
+    <li>Não há “nota” ou índice de alinhamento. As votações mostradas partem das leis citadas pelos próprios planos, para os dois lados.</li>
+    <li>Nada é publicado para um candidato sem o equivalente para o outro.</li>
+  </ul>
+
+  <h2>Limites conhecidos</h2>
+  <ul>
+    <li>Partes marcadas <span class="chip aviso">em preparação</span> ainda não foram concluídas ou revisadas.</li>
+    <li>Os dados abertos da Câmara e do Senado têm lacunas (por exemplo, votações simbólicas sem voto individual). Elas serão indicadas em cada caso.</li>
+    <li>A ordem dos candidatos é alfabética e fixa; o botão “Inverter os lados” troca as colunas.</li>
+  </ul>
+
+  <h2>Corrigir um erro</h2>
+  <p>
+    Todo o código e os dados estão abertos no repositório do projeto. Se encontrar erro, indique o eixo, o
+    identificador da proposta (aparece abaixo de cada trecho) e a página do plano.
+  </p>
+</Base>
+
+<style>
+  table { width: 100%; border-collapse: collapse; background: var(--papel); font-size: .9rem; margin: 1rem 0; }
+  caption { text-align: left; font-weight: 600; padding-bottom: .4rem; }
+  th, td { border: 1px solid var(--linha); padding: .5rem .6rem; text-align: left; vertical-align: top; }
+  th { background: #eceff4; }
+  code { font-size: .75rem; }
+  ul { max-width: 48rem; }
+</style>

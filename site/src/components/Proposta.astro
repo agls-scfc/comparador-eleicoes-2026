@@ -1,0 +1,42 @@
+---
+import { linksDaPagina } from "../lib/dados";
+interface Props { proposta: any; docs: Record<string, any>; rotuloResultado?: boolean }
+const { proposta: p, docs } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const m = p.meta;
+---
+<article class="proposta" id={p.id}>
+  <h4>{p.rotulo}</h4>
+  {m && (
+    <p class="metas">
+      <span class="chip">Meta no plano: {m.expressao_no_plano}{m.prazo ? ` · prazo: ${m.prazo}` : ""}</span>
+    </p>
+  )}
+  {p.condicionalidade && (
+    <p class="metas"><span class="chip aviso">Condição no plano: “{p.condicionalidade}”</span></p>
+  )}
+  {p.trechos.map((t: any) => {
+    const d = docs[t.documento];
+    const l = linksDaPagina(d, t.pagina_impressa, base);
+    return (
+      <figure>
+        <blockquote lang="pt-BR">{t.literal}</blockquote>
+        <figcaption>
+          {d.titulo.split(":")[0]} · {t.secao} · <strong>p. {t.pagina_impressa}</strong>
+          — <a href={l.local}>ver a página no PDF</a> · <a href={l.tse} rel="noopener">original no TSE</a>
+        </figcaption>
+      </figure>
+    );
+  })}
+  <p class="id">{p.id}</p>
+</article>
+
+<style>
+  .proposta { background: var(--papel); border: 1px solid var(--linha); border-radius: var(--raio); padding: .9rem 1rem; margin: 0 0 .8rem; }
+  h4 { margin: 0 0 .4rem; font-size: 1rem; color: var(--tinta); line-height: 1.35; }
+  .metas { margin: 0 0 .4rem; }
+  figure { margin: .5rem 0 0; }
+  blockquote { margin: 0; padding: .1rem 0 .1rem .8rem; border-left: 3px solid var(--linha); font-size: .95rem; }
+  figcaption { font-size: .78rem; color: var(--texto-2); margin-top: .35rem; }
+  .id { margin: .5rem 0 0; font-size: .7rem; color: var(--texto-2); }
+</style>

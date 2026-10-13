@@ -47,9 +47,11 @@ Registro das decisões que definem o que o site mostra e como. Toda mudança de 
 2. Toda proposta tem pelo menos um trecho com documento, página impressa, seção e **literal**.
 3. O **validador** (`scripts/validar.py`) falha o build se: o literal não está na página citada; a página não existe; o documento é de outro candidato; falta fonte; `meta.expressao_no_plano` ou `condicionalidade` não aparece num literal; um eixo "publicado" não tem os dois candidatos.
 4. O casamento do literal ignora quebras de linha, espaços repetidos, aspas tipográficas e hifens de fim de linha. Quando só casa ignorando hifens, o validador emite **aviso** para revisão humana.
-5. Um literal cobre **uma página**. Trecho que atravessa páginas vira dois `trechos`. `[...]` marca omissão dentro da mesma página.
-6. `condicionalidade` é **trecho literal** do plano, não paráfrase.
-7. Dados brutos de votação são guardados **como vieram**, com data de coleta, em `data/votacoes/raw/`. A curadoria nunca altera o bruto.
+5. **Extração dupla:** cada página é extraída em dois modos (`pdftotext` padrão e `-layout`). O literal precisa casar em pelo menos um; se casar em só um, o validador emite **aviso** e a página deve ser conferida no PDF (caso real: PT p.28, texto justificado embaralhado no modo padrão).
+6. **Frases inteiras:** o literal é composto de frases completas, sem cortes internos; `[...]` só entre frases. Retórica ou crítica dentro de uma frase de compromisso permanece, porque é a palavra do plano. Mesmo critério para os dois lados.
+7. Um literal cobre **uma página**. Trecho que atravessa páginas vira dois `trechos`.
+8. `condicionalidade` é **trecho literal** do plano, não paráfrase.
+9. Dados brutos de votação são guardados **como vieram**, com data de coleta, em `data/votacoes/raw/`. A curadoria nunca altera o bruto.
 
 ## 5. Limitações conhecidas
 

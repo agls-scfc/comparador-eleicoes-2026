@@ -1,0 +1,72 @@
+---
+interface Props { titulo: string; descricao?: string }
+const { titulo, descricao = "Compare lado a lado as propostas de governo de Flávio Bolsonaro e Lula, com a página exata de cada trecho nos planos registrados no TSE." } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titulo} · Comparador de propostas 2026</title>
+    <meta name="description" content={descricao} />
+    <style is:global>
+      :root {
+        --tinta: #14213d;       /* cor dominante: azul-tinta escuro, sem relação com cor de partido */
+        --tinta-2: #3a4a6b;
+        --papel: #ffffff;
+        --fundo: #f5f6f8;
+        --linha: #d5d9e0;
+        --texto: #1b1f27;
+        --texto-2: #4a5160;
+        --destaque: #fff4cc;    /* só para sinalizar "em preparação" e avisos */
+        --lado-a: #5b6577;      /* marcadores neutros dos candidatos (sem cor partidária) */
+        --lado-b: #8a7a5c;
+        --raio: 8px;
+      }
+      * { box-sizing: border-box; }
+      html { font-size: 112.5%; }
+      body { margin: 0; background: var(--fundo); color: var(--texto); font-family: "Noto Sans", Arial, Helvetica, sans-serif; line-height: 1.6; }
+      a { color: var(--tinta); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+      a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid #1a73e8; outline-offset: 2px; }
+      .wrap { max-width: 72rem; margin: 0 auto; padding: 0 1rem; }
+      header.topo { background: var(--tinta); color: #fff; }
+      header.topo .wrap { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; align-items: center; justify-content: space-between; padding-top: .9rem; padding-bottom: .9rem; }
+      header.topo a { color: #fff; }
+      header.topo .marca { font-weight: 700; text-decoration: none; letter-spacing: .01em; }
+      header.topo nav { display: flex; gap: 1.25rem; font-size: .9rem; }
+      main { padding: 2rem 0 3rem; }
+      h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 .5rem; color: var(--tinta); }
+      h2 { font-size: 1.4rem; margin: 2.5rem 0 .75rem; color: var(--tinta); }
+      h3 { font-size: 1.1rem; margin: 0 0 .5rem; color: var(--tinta); }
+      .lead { font-size: 1.1rem; color: var(--texto-2); max-width: 46rem; }
+      .chip { display: inline-block; font-size: .75rem; padding: .1rem .55rem; border-radius: 99px; border: 1px solid var(--linha); background: var(--papel); color: var(--texto-2); }
+      .chip.aviso { background: var(--destaque); border-color: #e3c85a; color: #5a4600; }
+      .aviso-caixa { background: var(--destaque); border: 1px solid #e3c85a; border-radius: var(--raio); padding: .75rem 1rem; margin: 1rem 0; }
+      footer.rodape { border-top: 1px solid var(--linha); background: var(--papel); color: var(--texto-2); font-size: .85rem; padding: 1.5rem 0; }
+      .sr { position: absolute; left: -9999px; }
+      a.pular { position: absolute; left: -9999px; }
+      a.pular:focus { left: 1rem; top: 1rem; background: #fff; padding: .5rem 1rem; z-index: 10; }
+    </style>
+  </head>
+  <body>
+    <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+    <header class="topo">
+      <div class="wrap">
+        <a class="marca" href={base}>Comparador de propostas · Eleições 2026</a>
+        <nav aria-label="Principal">
+          <a href={base}>Eixos</a>
+          <a href={`${base}metodologia/`}>Metodologia e fontes</a>
+        </nav>
+      </div>
+    </header>
+    <main id="conteudo"><div class="wrap"><slot /></div></main>
+    <footer class="rodape">
+      <div class="wrap">
+        Projeto informativo, sem vínculo com candidatos, partidos ou campanhas. Não recomenda voto.
+        Todo trecho vem de documento oficial, com a página citada.
+        <a href={`${base}metodologia/`}>Como fazemos</a>.
+      </div>
+    </footer>
+  </body>
+</html>
