@@ -1,0 +1,460 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-educacao-001
+  candidato: lula
+  eixo: educacao
+  topico: professores-e-gestao
+  rotulo: Cumprir as metas do Plano Nacional de Educação 2026-2036
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 31
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: No novo mandato, a conciliação destes objetivos continuará orientando a ação federal, que será também pautada pelo compromisso em cumprir as metas do Plano Nacional de Educação 2026-2036.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-002
+  candidato: lula
+  eixo: educacao
+  topico: alfabetizacao-e-aprendizagem
+  rotulo: Chegar a 80% das crianças alfabetizadas na idade certa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 31
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.
+  meta:
+    valor: 80
+    unidade: '% das crianças alfabetizadas na idade certa'
+    prazo: null
+    expressao_no_plano: 80% das nossas crianças alfabetizadas na idade certa
+  condicionalidade: null
+- id: pt-educacao-003
+  candidato: lula
+  eixo: educacao
+  topico: alfabetizacao-e-aprendizagem
+  rotulo: Combater o analfabetismo adulto e instituir estratégia de recomposição das aprendizagens
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 31
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Ao mesmo tempo, continuaremos fortalecendo as políticas de enfrentamento do analfabetismo na população adulta e vamos instituir uma estratégia nacional permanente de recomposição e aceleração das aprendizagens, com atenção especial aos anos finais do ensino fundamental e ao ensino médio.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-004
+  candidato: lula
+  eixo: educacao
+  topico: creche-e-tempo-integral
+  rotulo: Ampliar o fomento a estados e municípios para creches e educação infantil
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 31
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Na segunda edição do Novo PAC, ampliaremos ainda mais o fomento a estados e municípios para juntos alcançarmos a metas do PNE.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-005
+  candidato: lula
+  eixo: educacao
+  topico: creche-e-tempo-integral
+  rotulo: Dar prioridade absoluta à expansão da educação em tempo integral
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 31
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: O fomento à expansão da educação em tempo integral terá absoluta prioridade no novo mandato.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-006
+  candidato: lula
+  eixo: educacao
+  topico: infraestrutura-e-tecnologia
+  rotulo: Manter o apoio do Novo PAC à infraestrutura escolar de estados e municípios
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 32
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Na segunda edição do Novo PAC, manteremos o apoio a estados e municípios.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-007
+  candidato: lula
+  eixo: educacao
+  topico: infraestrutura-e-tecnologia
+  rotulo: Universalizar a internet de qualidade nas escolas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 32
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Vamos universalizar este serviço no próximo mandato, garantindo acesso a essa dimensão cada vez mais central para a qualidade da educação.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-008
+  candidato: lula
+  eixo: educacao
+  topico: acesso-e-permanencia
+  rotulo: Continuar e fortalecer o Pé-de-Meia
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 32
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Vamos dar continuidade e fortalecer o Pé-de-Meia. Nenhum jovem em situação de pobreza ou vulnerabilidade social no Brasil deve deixar a escola por falta de renda.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-009
+  candidato: lula
+  eixo: educacao
+  topico: escola-e-curriculo
+  rotulo: Ampliar o acervo do MEC Livros e as línguas do MEC Idiomas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 32
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: No próximo mandato seguiremos ampliando o acervo do MEC Livros e incluindo novas línguas no MEC Idiomas.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-010
+  candidato: lula
+  eixo: educacao
+  topico: professores-e-gestao
+  rotulo: Apoio técnico a estados e municípios e compartilhamento de dados
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 32
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Continuaremos exercendo liderança estratégica, apoiando tecnicamente os estados, o Distrito Federal e os municípios para fortalecer a cooperação entre os entes e contribuir com a formação de gestores e equipes técnicas. Avançaremos com o compartilhamento de dados para eficiente execução das políticas educacionais.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-011
+  candidato: lula
+  eixo: educacao
+  topico: professores-e-gestao
+  rotulo: Manter o Piso do Magistério e apoiar a formação e a fixação de docentes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 33
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: O Piso Nacional do Magistério será mantido e daremos continuidade às medidas de apoio à formação docente, de elevação da atratividade das licenciaturas, por meio do Pé-de-Meia Licenciatura, e de fixação de docentes em regiões do país e áreas do conhecimento, por meio do Bolsa Mais Professores.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-012
+  candidato: lula
+  eixo: educacao
+  topico: ensino-medio-e-tecnico
+  rotulo: Mais 111 Institutos Federais, com campus em 106 municípios
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 33
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Por isto, retomamos a expansão da rede de institutos federais de educação técnica e tecnológica, os IFs. Serão mais 111 IFs, com novos campus em 106 municípios de todos os estados.
+  meta:
+    valor: 111
+    unidade: novos Institutos Federais
+    prazo: null
+    expressao_no_plano: mais 111 IFs
+  condicionalidade: null
+- id: pt-educacao-013
+  candidato: lula
+  eixo: educacao
+  topico: ensino-medio-e-tecnico
+  rotulo: Continuar a expansão dos Institutos Federais, priorizando interiorização e periferias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 33
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: No novo mandato, continuaremos a expansão da nossa rede de institutos federais, priorizando a interiorização, os vazios educacionais, as periferias urbanas e os municípios com baixa oferta de cursos técnicos.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-014
+  candidato: lula
+  eixo: educacao
+  topico: ensino-superior
+  rotulo: Concluir obras e novos campi e abrir novo ciclo de expansão do ensino superior público
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 33
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Daremos sequência ao fomento ao ensino superior no próximo mandato. Além de concluir as obras em curso, inclusive dos novos campi, será concluída a implantação da nova unidade do ITA, no Ceará, e da Universidade Indígena e da Universidade do Esporte. Haverá também novo ciclo expansão e interiorização da educação superior pública para superar os vazios educacionais e as assimetrias regionais. Adotaremos medidas para aperfeiçoar a assistência estudantil, para garantir a permanência e a conclusão dos cursos pelos estudantes nas instituições públicas.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-015
+  candidato: lula
+  eixo: educacao
+  topico: ensino-superior
+  rotulo: Investir na ampliação e na qualidade da pós-graduação
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 34
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Continuaremos a investir na ampliação e na melhoria da qualidade de pós-graduação nas áreas de conhecimento, nas regiões e nas localidades pouco ou não atendidas.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-016
+  candidato: lula
+  eixo: educacao
+  topico: alfabetizacao-e-aprendizagem
+  rotulo: 'Compromisso Criança Alfabetizada: 66% de alfabetizadas em 2025'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 31
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: O Compromisso Nacional Criança Alfabetizada instituiu uma estratégia nacional de cooperação federativa, cujos resultados – 66% das crianças alfabetizadas na idade certa em 2025 - superaram a meta prevista de 64%.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-017
+  candidato: lula
+  eixo: educacao
+  topico: creche-e-tempo-integral
+  rotulo: Novo PAC apoiou a construção de 3.562 creches e escolas infantis
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 31
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: O Novo PAC apoiou a construção de 3.562 creches e escolas de educação infantil em 2.360 municípios.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-018
+  candidato: lula
+  eixo: educacao
+  topico: acesso-e-permanencia
+  rotulo: Nova lei do ensino médio e criação do Pé-de-Meia
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 32
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Aprovamos a nova lei do ensino médio, buscando reequilibrar a formação geral básica e a formação profissional, e criamos o Pé-de-Meia, para enfrentar o desafio da evasão no ensino médio. O programa já beneficiou 7,3 milhões de jovens e mostrou ter impacto sobre os indicadores de permanência e de participação no Enem.
+  meta: null
+  condicionalidade: null
+- id: pt-educacao-019
+  candidato: lula
+  eixo: educacao
+  topico: ensino-superior
+  rotulo: Orçamento das universidades restaurado e obras do Novo PAC
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 33
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: O orçamento das universidades, para custeio e para investimento, foi restaurado. O Novo PAC destinou recursos para 10 novos campi da rede federal e para 367 obras na infraestrutura das universidades, tais como laboratórios, restaurantes, salas de aula, novas sedes.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-001
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: alfabetizacao-e-aprendizagem
+  rotulo: Priorizar o método fônico na alfabetização
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: O começo de tudo é alfabetizar direito. Vamos priorizar o método fônico, que é o de melhor resultado comprovado pela ciência, ensinando a criança a ligar cada som à sua letra, em vez das abordagens que fracassaram por décadas.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-002
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: alfabetizacao-e-aprendizagem
+  rotulo: 'Criar o Programa Acolher: reforço escolar remunerado entre alunos'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: 'E, para o aluno com dificuldade ao longo do ensino fundamental, vamos criar o Programa Acolher: um aluno com bom desempenho é remunerado para dar reforço aos colegas que precisam, de forma remota ou presencial. Todos ganham, quem precisa recebe ajuda de alguém próximo, que fala a sua língua, e quem ajuda ganha uma renda e aprende ainda mais ao ensinar. O objetivo é claro: ninguém avança de série sem ter aprendido.'
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-003
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: professores-e-gestao
+  rotulo: Gestão por indicadores e financiamento por resultados de aprendizagem
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem, sem abandonar regiões que enfrentam maiores dificuldades.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-004
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: professores-e-gestao
+  rotulo: Qualificação contínua de professores baseada em evidências científicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-005
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: escola-e-curriculo
+  rotulo: Educação livre de doutrinação político-partidária
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: A educação será orientada pelo conhecimento e livre de doutrinação político-partidária, respeitando a liberdade de consciência e o papel das famílias. Escola é lugar de aprender a pensar, não de aprender o que pensar, e quem decide sobre os valores que o filho recebe são os pais.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-006
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: escola-e-curriculo
+  rotulo: Ampliar as Escolas Cívico-Militares e implementar a política de altas habilidades
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: 'Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas, e garantir atendimento ao aluno com altas habilidades, que hoje se perde por falta de estímulo: a política nacional que trata do tema é lei mas segue sem implementação, e nós vamos tirá-la do papel.'
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-007
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: infraestrutura-e-tecnologia
+  rotulo: Levar robótica, computadores, tablets e internet às escolas e ensinar economia digital
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: Vamos ainda levar robótica, computadores, tablets e internet às escolas, e incluir no currículo competências para a economia digital, preparando o jovem para lidar com o próprio dinheiro, empreender e usar as novas tecnologias, entre elas a inteligência artificial.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-008
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: creche-e-tempo-integral
+  rotulo: Apoiar a escola em tempo integral e manter escolas abertas nas férias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 35
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: Apoiamos a escola em tempo integral, para que a criança tenha mais tempo de aprendizado, reforço e atividades formativas, e não fique entregue à própria sorte no contraturno. Manteremos as escolas abertas nas férias com o Escola
+  - documento: plano-pl-2026
+    pagina_impressa: 36
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: nas Férias, oferecendo esporte, arte, música e literatura em vez de deixar a criança ociosa.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-009
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: acesso-e-permanencia
+  rotulo: Voucher educacional onde faltar vaga na rede pública
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 36
+    secao: Brasil que Prepara > Ensinar de verdade
+    literal: E onde faltar vaga na rede pública, a família receberá um voucher educacional para matricular o filho em outra escola, porque a prioridade é a criança aprender, não a defesa de um sistema que falhou com ela.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-010
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: creche-e-tempo-integral
+  rotulo: Ampliar creches em período integral e criar o voucher-creche
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 21
+    secao: Brasil por Elas > Creche garantida para toda criança
+    literal: Vamos ampliar a oferta de creches para as crianças desde a primeira infância, em período integral, com alimentação digna e foco no desenvolvimento infantil. Onde não houver vaga na rede pública, a família receberá um voucher-creche para acesso à rede privada credenciada até a vaga pública surgir, para que nenhuma mulher deixe de trabalhar, estudar ou empreender por falta de creche.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-011
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: ensino-medio-e-tecnico
+  rotulo: Ampliar a educação técnica no ensino médio, em parceria com o setor produtivo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 36
+    secao: Brasil que Prepara > Preparar para o trabalho que existe
+    literal: Vamos ampliar a oferta de educação técnica para os alunos do ensino médio, para que o jovem saia da escola já com uma profissão na mão, e não apenas com um diploma. E vamos fazer essa formação técnica em parceria com o setor produtivo, com foco na inovação, de modo que quem forma o profissional converse diretamente com quem vai contratá-lo. Nessa parceria, o setor produtivo poderá custear bolsas de formação técnica, financiando a qualificação dos profissionais de que precisa.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-012
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: ensino-medio-e-tecnico
+  rotulo: Criar a Política Nacional de Formação de Talentos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 36
+    secao: Brasil que Prepara > Preparar para o trabalho que existe
+    literal: Vamos tratar a formação como vetor da transformação tecnológica, adequando o que se ensina às profissões do presente e do futuro, e criar a Política Nacional de Formação de Talentos, para identificar e desenvolver as habilidades que o mercado de trabalho vai exigir.
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-013
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: ensino-superior
+  rotulo: Unificar ciência e ensino superior no Ministério da Ciência e priorizar impacto produtivo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 36
+    secao: Brasil que Prepara > Preparar para o trabalho que existe
+    literal: No ensino superior, vamos transferir a governança para o Ministério da Ciência, Tecnologia e Inovações, unificando ciência e ensino superior sob o mesmo teto. A CAPES e o CNPq passarão a priorizar o impacto produtivo, a inovação e a transferência de tecnologia, para que a pesquisa feita na universidade chegue à indústria e vire produto, emprego e renda, em vez de ficar na estante. E os cursos de pós-graduação voltados ao mercado, o lato
+  - documento: plano-pl-2026
+    pagina_impressa: 37
+    secao: Brasil que Prepara > Preparar para o trabalho que existe
+    literal: 'sensu, vão aproximar empresas e universidades: as instituições de ensino poderão receber recursos em troca da formação dos profissionais de que o país precisa, premiando quem forma para o emprego que existe.'
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-014
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: ensino-superior
+  rotulo: Adotar o Empréstimo Contingente à Renda no financiamento estudantil
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 37
+    secao: Brasil que Prepara > Preparar para o trabalho que existe
+    literal: 'Vamos também aprimorar o financiamento estudantil. O modelo atual afasta o jovem de baixa renda, que desiste da faculdade com medo de terminar o curso afogado em dívida, antes mesmo do primeiro emprego. Em lugar dele, vamos adotar o Empréstimo Contingente à Renda: o estudante só começa a pagar quando estiver empregado e ganhando, o valor da parcela é proporcional ao que ele recebe e o prazo é bem mais longo.'
+  meta: null
+  condicionalidade: null
+- id: pl-educacao-015
+  candidato: flavio-bolsonaro
+  eixo: educacao
+  topico: escola-e-curriculo
+  rotulo: Família no centro das políticas e escola que ensina, no governo Bolsonaro
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 34
+    secao: Brasil que Prepara
+    literal: No governo Bolsonaro, voltamos a colocar a família no centro das políticas públicas e a defender uma escola que ensina, e não que doutrina, respeitando os valores que os pais passam em casa.
+  meta: null
+  condicionalidade: null

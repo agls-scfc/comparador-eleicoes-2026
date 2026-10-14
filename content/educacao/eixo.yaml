@@ -7,10 +7,25 @@ paginas_nos_planos:
   plano-pt-2026:
   - 30-34
   plano-pl-2026:
+  - '21'
   - 34-37
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: alfabetizacao-e-aprendizagem
+  titulo: Alfabetização e aprendizagem
+- id: creche-e-tempo-integral
+  titulo: Creche, educação infantil e tempo integral
+- id: escola-e-curriculo
+  titulo: Currículo, valores e modelos de escola
+- id: professores-e-gestao
+  titulo: Professores, gestão e cooperação federativa
+- id: ensino-medio-e-tecnico
+  titulo: Ensino médio e educação profissional
+- id: acesso-e-permanencia
+  titulo: Acesso, vagas e permanência
+- id: ensino-superior
+  titulo: Ensino superior, pós-graduação e financiamento estudantil
+- id: infraestrutura-e-tecnologia
+  titulo: Infraestrutura escolar e tecnologia
 status:
   propostas: em_preparacao
   acoes: em_preparacao
