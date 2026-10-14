@@ -3,12 +3,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "validar": "python3 -I ../scripts/validar.py",
-    "preparar": "node scripts/preparar.mjs",
-    "dev": "npm run preparar && PREVIEW=1 astro dev",
-    "build": "npm run validar && npm run preparar && astro build",
-    "build:preview": "npm run validar && npm run preparar && PREVIEW=1 astro build",
-    "preview": "astro preview"
+    "validar": "node scripts/tarefa.mjs validar",
+    "dev": "node scripts/tarefa.mjs dev",
+    "build": "node scripts/tarefa.mjs build",
+    "build:preview": "node scripts/tarefa.mjs build:preview",
+    "preview": "node scripts/tarefa.mjs preview",
+    "preparar": "node scripts/preparar.mjs"
   },
   "dependencies": {
     "astro": "5.4.3",

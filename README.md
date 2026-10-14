@@ -26,31 +26,56 @@ docs/               decisões e documentação
 
 ## Rodando localmente
 
-Requisitos: **Node.js 20+** (testado com 22), **Python 3.11+** e **git**.
+Requisitos: **Node.js 20+**, **Python 3.11+** e **git**. Os comandos abaixo são um por linha, para funcionar em qualquer terminal (inclusive o PowerShell do Windows, que não aceita `&&` nas versões antigas).
+
+**Windows (PowerShell)**
+
+```powershell
+git clone https://github.com/agls-scfc/comparador-eleicoes-2026.git
+cd comparador-eleicoes-2026
+py -3 -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+python scripts/validar.py
+python -m unittest discover -s tests
+cd site
+npm ci
+npm run dev
+```
+
+Se o PowerShell bloquear o `Activate.ps1`, rode antes `Set-ExecutionPolicy -Scope Process Bypass`. Se `py` não existir, use `python`.
+
+**macOS / Linux**
 
 ```bash
 git clone https://github.com/agls-scfc/comparador-eleicoes-2026.git
 cd comparador-eleicoes-2026
-
-# 1) validador e testes (Python)
-python3 -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
-python3 scripts/validar.py                            # esperado: "0 erro(s)"
+python3 scripts/validar.py
 python3 -m unittest discover -s tests
-
-# 2) site (Astro)
 cd site
 npm ci
-npm run dev                                           # abre em http://localhost:4321/
+npm run dev
 ```
 
-- `npm run dev` roda em **modo pré-visualização** (`PREVIEW=1`): mostra também o que ainda está “em preparação”, com um aviso na página. Alterou um YAML em `content/`? Recarregue a página.
-- Para testar o **build final** (o que será publicado): `npm run build && npm run preview`. Nesse modo, eixos e camadas ainda não marcados como `publicado` aparecem como “em preparação”, e a home só mostra contagem de propostas quando os dois candidatos têm conteúdo publicado.
-- Para testar o build completo, incluindo o que está em preparação: `npm run build:preview && npm run preview`.
-- Para simular a hospedagem em subpasta (ex.: GitHub Pages): `SITE_BASE=/comparador-eleicoes-2026/ npm run build && npm run preview` e abra `http://localhost:4321/comparador-eleicoes-2026/`.
-- O `build` roda o validador antes; se algum trecho citado não existir na página do plano, o build falha e mostra qual.
+O esperado é `0 erro(s)` no validador e o site em **http://localhost:4321/**.
 
-O que conferir antes do deploy: (1) a home lista os 14 eixos; (2) em um eixo, os dois lados aparecem com o mesmo critério e o botão “Inverter os lados” funciona; (3) cada trecho abre a página certa no PDF (“ver a página no PDF”); (4) a página Metodologia; (5) celular (reduza a janela ou use o modo responsivo do navegador).
+Comandos do site (rodar dentro de `site/`, iguais em todos os sistemas):
+
+| Comando | O que faz |
+|---|---|
+| `npm run dev` | Servidor local em **modo pré-visualização**: mostra também o que está “em preparação”, com aviso na página. Alterou um YAML em `content/`? Recarregue a página. |
+| `npm run build` e depois `npm run preview` | O que seria publicado hoje. Eixos e camadas ainda não marcados como `publicado` aparecem como “em preparação”. |
+| `npm run build:preview` e depois `npm run preview` | Site completo, incluindo o que está em preparação. |
+| `npm run validar` | Só o validador de trechos literais. |
+
+O `build` roda o validador antes; se algum trecho citado não existir na página do plano, o build falha e indica qual.
+
+Para simular a hospedagem em subpasta (como no GitHub Pages): no PowerShell, `$env:SITE_BASE="/comparador-eleicoes-2026/"` e depois `npm run build` e `npm run preview` (abra `http://localhost:4321/comparador-eleicoes-2026/`); no bash, `SITE_BASE=/comparador-eleicoes-2026/ npm run build`.
+
+O que conferir antes do deploy: (1) a home lista os 14 eixos; (2) em um eixo, os dois lados aparecem com o mesmo critério e o botão “Inverter os lados” funciona; (3) cada trecho abre a página certa no PDF (“ver a página no PDF”); (4) a página Metodologia; (5) celular (modo responsivo do navegador).
 
 ## Conferindo as fontes
 
