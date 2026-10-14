@@ -1,0 +1,776 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-saude-001
+  candidato: lula
+  eixo: saude
+  topico: atencao-basica-e-acesso
+  rotulo: Manter apoio às equipes de saúde da família, em especial as multiprofissionais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 34
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Seguiremos mantendo o apoio à expansão e qualificação das equipes de saúde
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: da família, em especial as equipes multiprofissionais, que serão peça central no cuidado à uma população que envelhece com velocidade. Fortaleceremos instrumentos de indução e de financiamento para adoção de parâmetros de qualidade no atendimento, em especial em territórios de maior vulnerabilidade social.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-002
+  candidato: lula
+  eixo: saude
+  topico: atencao-basica-e-acesso
+  rotulo: Mais exames e recursos diagnósticos na atenção básica
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: E vamos continuar investindo no aumento de oferta de exames e recursos diagnósticos, para aumentar a capacidade resolutiva das equipes e evitar encaminhamentos desnecessários à atenção especializada.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-003
+  candidato: lula
+  eixo: saude
+  topico: atencao-basica-e-acesso
+  rotulo: 'Mais Médicos: vinculação e fixação de profissionais'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: O Programa Mais Médicos, que dobrou de tamanho em nossa gestão, seguirá o caminho de vinculação e fixação de profissionais, valorizando a formação de especialistas em medicina de família e comunidade dentro do programa, para garantir a continuidade do cuidado nos municípios e áreas de maior vulnerabilidade.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-004
+  candidato: lula
+  eixo: saude
+  topico: atencao-basica-e-acesso
+  rotulo: Universalizar a oferta de saúde bucal nos municípios
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Manteremos o apoio aos municípios para que, conforme a lei aprovada em nosso mandato, universalizem a oferta de saúde bucal. Continuaremos, como na atual gestão, comprando e transferindo aos municípios os equipamentos necessários a esta universalização.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-005
+  candidato: lula
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Intensificar teleconsultas, teleorientação e teleacolhimento na rede básica
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Vamos intensificar o apoio ao uso de ferramentas de saúde digital, como teleconsultas, teleorientação e teleacolhimento na rede básica de saúde.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-006
+  candidato: lula
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Integrar atenção primária, vigilância, assistência farmacêutica e atenção especializada
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Um dos mais importantes avanços no sistema, que já começamos a implementar e ganhará velocidade e escala na próxima gestão, é a integração entre a Atenção Primária, a Vigilância em Saúde, a Assistência Farmacêutica e a Atenção Especializada, com prontuário compartilhado, fluxos claros de referência e contrarreferência e articulação com as Ofertas de Cuidados Integrados (OCI), propiciando o conhecimento e a articulação do cuidado ao longo de toda a trajetória do usuário na rede.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-007
+  candidato: lula
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Consolidar o prontuário único do cidadão (RNDS), com marcação e exames no celular
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Vamos acelerar os esforços na consolidação do prontuário único do cidadão, que já avança por meio da Rede Nacional de Dados em Saúde (RNDS). Essa integração dos sistemas de informação interfederativos permitirá disponibilizar diretamente no celular a marcação de consultas nas UBS e os resultados de exames, especialmente em regiões de vulnerabilidade e vazios assistenciais.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-008
+  candidato: lula
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Usar inteligência artificial em triagem, priorização, regulação e diagnóstico
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Vamos acelerar a utilização de inteligência artificial para a triagem, a priorização de casos graves, a regulação por risco clínico e o diagnóstico em áreas com escassez de especialistas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-009
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Novos hospitais universitários, articulados ao Agora tem Especialistas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 34
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: No próximo mandato, avançaremos na implantação de novos hospitais universitários e na sua articulação com o Agora tem Especialistas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-010
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Ampliar terceiro turno, Carretas da Saúde e mutirões do Agora tem Especialistas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 37
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: As ações do Agora Tem Especialistas serão ainda mais impulsionadas. A expansão do terceiro turno nos serviços de saúde, o reforço das Carretas da Saúde e dos mutirões de atendimento seguirão como estratégias centrais para ampliar a oferta de consultas, exames e cirurgias em todo o país.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-011
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Manter parceria com hospitais privados em troca de créditos ou dívidas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 37
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Daremos continuidade à parceria com hospitais privados para assegurar, em troca de créditos financeiros ou de dívidas, a oferta de exames e cirurgias para o SUS.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-012
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Ampliar e modernizar equipamentos e serviços de telessaúde e cirurgia
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 37
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Continuaremos investindo para garantir à rede pública equipamentos modernos e em número suficiente para atender a população. Será nossa diretriz continuar ampliando e modernizando equipamentos de hemodinâmica, tomografia,
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: ressonância magnética, radioterapia, PET-CT e salas completas de cirurgias, policlínicas e hospitais, investimentos já iniciados pelo Novo PAC. A modernização tecnológica iniciada no atual governo terá continuidade, com mais salas telessaúde, telecirurgia, cirurgia robótica e serviços e hospitais inteligentes.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-013
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Fila única digital ordenada por risco clínico, com transporte sanitário
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-014
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Consolidar a rede pública de cuidado ao câncer e ampliar UNACONS e CACONS
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Vamos consolidar, em todo o Brasil, a maior rede pública de cuidado ao câncer do mundo, com prevenção, diagnóstico e tratamento ao câncer com equipamentos e tratamentos modernos e atualização de novos medicamentos quimioterápicos e imunoterápicos. Consolidaremos o Supercentro Brasil de telediagnóstico do câncer, reduzindo o tempo para realização de diagnóstico das biopsias nas regiões remotas ou com déficit de profissionais. Ampliaremos os Centros Especializados de diagnóstico e tratamento do câncer (UNACONS e CACONS), com expansão de centros de radioterapia e cirurgias.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-015
+  candidato: lula
+  eixo: saude
+  topico: vacinacao-e-prevencao
+  rotulo: Ampliar acesso e adesão à vacinação, com campanhas nacionais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Vamos manter todos os esforços para continuar ampliando o acesso e a adesão da população à vacinação em todo o território nacional, com campanhas nacionais e ações em locais de fácil acesso e grande visibilidade.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-016
+  candidato: lula
+  eixo: saude
+  topico: vacinacao-e-prevencao
+  rotulo: Vacinação nas escolas como eixo prioritário; reforçar dengue e VSR
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: A vacinação nas escolas seguirá como eixo prioritário para recuperar coberturas vacinais e avançar na prevenção de doenças e no controle de diferentes tipos de câncer, com destaque para o HPV. Fortaleceremos a vacinação contra a dengue
+  - documento: plano-pt-2026
+    pagina_impressa: 37
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: para toda a população brasileira elegível, bem como a vacinação contra o Vírus Sincicial Respiratório (VSR), principal causador de bronquiolite em crianças pequenas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-017
+  candidato: lula
+  eixo: saude
+  topico: vacinacao-e-prevencao
+  rotulo: Continuar incorporando novas vacinas ao calendário do SUS
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 37
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Continuaremos incorporando novas vacinas ao calendário do SUS, como fizemos com a Pneumo 20, para crianças e com a bronquiolite, para gestantes.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-018
+  candidato: lula
+  eixo: saude
+  topico: medicamentos-e-farmacia-popular
+  rotulo: Manter o Farmácia Popular 100% gratuito, com revisão dos medicamentos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: O programa será mantido, 100% gratuito, assegurando contínua revisão dos medicamentos ofertados e a continuidade da distribuição de fraldas geriátricas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-019
+  candidato: lula
+  eixo: saude
+  topico: medicamentos-e-farmacia-popular
+  rotulo: Ampliar locais de retirada do Farmácia Popular nas periferias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Vamos continuar construindo parcerias para ampliar o número de locais de retirada nas periferias das grandes cidades e alternativas para onde não houver farmácia privada para conveniar.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-020
+  candidato: lula
+  eixo: saude
+  topico: medicamentos-e-farmacia-popular
+  rotulo: Incluir exames laboratoriais no Farmácia Popular
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Uma inovação do programa será incluir exames laboratoriais, de diagnóstico e de monitoramento de condições crônicas de saúde, que afetam parcela significativa da população, tais como hipertensão arterial e diabetes.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-021
+  candidato: lula
+  eixo: saude
+  topico: saude-da-mulher
+  rotulo: Reforçar exames e tratamento, incluindo câncer de mama, colo do útero e endometriose
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Permaneceremos comprometidos com a saúde integral das mulheres em todas as fases da vida. Continuaremos reforçando a cobertura de exames e tratamento, incluindo o diagnóstico precoce dos cânceres de mama e do colo do útero, bem como os cuidados para mulheres que sofrem de endometriose e outras condições ginecológicas crônicas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-022
+  candidato: lula
+  eixo: saude
+  topico: saude-da-mulher
+  rotulo: Ampliar contraceptivos modernos e de longa duração gratuitos no SUS
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Fortaleceremos o planejamento reprodutivo ampliando o acesso a métodos contraceptivos modernos e de longa duração, a serem distribuídos gratuitamente no SUS, como fizemos com o Implanom.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-023
+  candidato: lula
+  eixo: saude
+  topico: saude-da-mulher
+  rotulo: Fortalecer o Programa Dignidade Menstrual
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Fortaleceremos, também, o Programa Dignidade Menstrual, com acesso aos insumos essenciais para a saúde menstrual – absorventes e medicamentos.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-024
+  candidato: lula
+  eixo: saude
+  topico: saude-da-mulher
+  rotulo: 'Maternidade segura: reduzir mortalidade materna e fortalecer a Rede Alyne'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: A maternidade segura continuará sendo um compromisso central do SUS, com
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: intensificação da redução da mortalidade materna e atenção específica para mulheres negras, que seguem as mais afetadas por óbitos evitáveis. O acesso oportuno ao parto, especialmente para mulheres de áreas rurais, do campo, da floresta e das águas também será fortalecido. Fortaleceremos o Samu para atuação integrada com a Rede Alyne, as casas de gestantes próximas às maternidades, ambulância perinatal e enfermeiras obstétricas na Amazônia Legal.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-025
+  candidato: lula
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Ampliar investimentos na Rede de Atenção Psicossocial e nos CAPS
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Na saúde mental, ampliaremos os investimentos na Rede de Atenção Psicossocial e nos CAPS, ampliando a atenção a crianças, adolescentes e jovens.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-026
+  candidato: lula
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Fortalecer diagnóstico e acompanhamento de pessoas com TEA e neurodivergências
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Também fortaleceremos o diagnóstico e o acompanhamento de pessoas com TEA e outras neurodivergências, bem como o cuidado psicossocial a mulheres em situação de violência.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-027
+  candidato: lula
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Ampliar profissionais e estratégias para problemas ligados a jogos de apostas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Ampliaremos os profissionais e as estratégias voltadas às pessoas com problemas relacionados a jogos de apostas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-028
+  candidato: lula
+  eixo: saude
+  topico: financiamento-sus-e-industria
+  rotulo: Mobilizar instituições públicas e empresas nacionais; aperfeiçoar as PDPs
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: E, no próximo mandato, seguiremos mobilizando instituições públicas de saúde em articulação com empresas nacionais comprometidas com a inovação e com universidades e institutos de pesquisa. Continuaremos aperfeiçoando os instrumentos das PDPs para ampliar a absorção tecnológica, a inovação e o fortalecimento da indústria nacional.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-029
+  candidato: lula
+  eixo: saude
+  topico: financiamento-sus-e-industria
+  rotulo: Pesquisa de insumos farmacêuticos da biodiversidade e sequenciamento genômico
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Fortaleceremos a pesquisa e o desenvolvimento de insumos farmacêuticos ativos (IFAS) a partir da biodiversidade brasileira, com destaque para o potencial da Amazônia, e ampliaremos o sequenciamento genômico voltado ao estudo de variantes associadas à resistência ou à susceptibilidade a doenças infecciosas e crônicas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-030
+  candidato: lula
+  eixo: saude
+  topico: financiamento-sus-e-industria
+  rotulo: Fortalecer o SUS público e universal
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 40
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Nosso compromisso com o fortalecimento do SUS público e universal é inalienável.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-031
+  candidato: lula
+  eixo: saude
+  topico: atencao-basica-e-acesso
+  rotulo: 'Novo PAC: 2.734 UBS e 2.994 ambulâncias do SAMU'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 34
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Na atenção básica, com o Novo PAC, apoiamos a construção de 2.734 unidades básicas de saúde e adquirimos e distribuímos 10 mil combos com equipamentos. Renovamos e ampliamos a frota do SAMU, doando 2.994 ambulâncias para estados e municípios.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-032
+  candidato: lula
+  eixo: saude
+  topico: atencao-basica-e-acesso
+  rotulo: 'Brasil Sorridente: equipes de saúde bucal em 5.208 municípios'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: No Brasil Sorridente, há hoje quase 35 mil equipes de saúde bucal em 5.208 municípios, 23% a mais que em dezembro de 2022. Até o final de 2026 serão 1.228 centros de especialidades odontológicas e 1.324 Unidades Odontológicas Móveis – UOMs, esta última uma inovação do nosso mandato.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-033
+  candidato: lula
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: 5.257 kits de equipamentos para teleconsultas
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 35
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Avançamos na modernização, com a entrega de 5.257 kits de equipamentos para implantar teleconsultas.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-034
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: 'Hospitais universitários: 13 novas unidades'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 34
+    secao: 4. Garantir o Direito à Educação para Transformar Vidas e o País
+    literal: Ampliamos a rede de hospitais universitários com a criação de 13 novas unidades, inclusive onde esta infraestrutura não existia, como Acre e Rondônia.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-035
+  candidato: lula
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: 'Agora tem Especialistas: 15 milhões de cirurgias em 2025'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 37
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Em 2025, foram 15 milhões de cirurgias, maior volume na história do SUS; 31,4 milhões de consultas e 45 milhões de exames, 141% e 40% a mais que em 2022, respectivamente. Em 52 municípios de 21 estados, as filas de espera foram zeradas para procedimentos de saúde da mulher, exames de imagem e oftalmologia.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-036
+  candidato: lula
+  eixo: saude
+  topico: vacinacao-e-prevencao
+  rotulo: Cobertura ampliada em 15 das 16 principais vacinas infantis
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: O retrocesso foi revertido e ampliamos a cobertura em 15 das 16 principais vacinas infantis.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-037
+  candidato: lula
+  eixo: saude
+  topico: medicamentos-e-farmacia-popular
+  rotulo: 'Farmácia Popular retomado: 41 medicamentos gratuitos e 27,3 milhões de pessoas'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 36
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Retomamos o Farmácia Popular, ampliando para 41 o número de medicamentos gratuitos distribuídos. Chegamos, em 2025, a 27,3 milhões de pessoas atendidas, 32% mais que em 2022.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-038
+  candidato: lula
+  eixo: saude
+  topico: saude-da-mulher
+  rotulo: 39 maternidades, 27 Centros de Parto Normal e Implanom
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 38
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Com o Novo PAC, apoiamos a construção de 39 maternidades e 27 Centros de Parto Normal para dar maior segurança às gestantes. A Farmácia Popular passou a distribuir absorventes, garantindo a dignidade menstrual de 3,3 milhões de meninas e mulheres. Avançamos na oferta de anticoncepcionais no SUS com a disponibilidade do Implanom, que já disponibilizou 1,4 milhão de unidades.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-039
+  candidato: lula
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Novo PAC apoiou 336 novos CAPS
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: O Novo PAC apoiou a estruturação de 336 novos Centros de Atenção Psicossocial - CAPS.
+  meta: null
+  condicionalidade: null
+- id: pt-saude-040
+  candidato: lula
+  eixo: saude
+  topico: financiamento-sus-e-industria
+  rotulo: 31 PDPs, insulina nacional, fábrica da Hemobrás e lei do CEIS
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 39
+    secao: 5. Fortalecer a saúde com equidade, inovação e soberania
+    literal: Foram assinadas 31 parcerias para desenvolvimento produtivo a partir de 2024, entre as quais para a volta de produção nacional de insulina, e aprovados 54 Programas de Desenvolvimento e Inovação Local. Concluímos a fábrica Hemobrás, que nos coloca rumo a nacionalização completa da produção de hemoderivados, ampliando nossa soberania nesse tipo de insumo.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-001
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: financiamento-sus-e-industria
+  rotulo: Garantir a correção efetiva da tabela SUS
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 37
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: Vamos garantir as condições para que seja possível a correção efetiva da tabela SUS. A lei de reajuste já existe, mas, presa ao orçamento, não enfrentou a defasagem que asfixia hospitais, santas casas e clínicas, sobretudo no interior. Vamos assegurar uma remuneração que cubra o custo real do atendimento, para que o dinheiro público seja justo com quem atende e o cidadão tenha atendimento até onde hoje falta.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-002
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: atencao-basica-e-acesso
+  rotulo: Ampliar a Estratégia Saúde da Família e criar o Programa de Atendimento aos Idosos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 37
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: Vamos ampliar a Estratégia Saúde da Família, levando o cuidado para perto de casa, e criar o Programa de Atendimento aos Idosos, com atendimento facilitado e adequado a quem envelhece, para que o idoso não enfrente o mesmo percurso cansativo de sempre para se cuidar.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-003
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: vacinacao-e-prevencao
+  rotulo: Ampliar exames preventivos; manter imunização e incentivo à produção nacional de vacinas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 37
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: Vamos ainda ampliar o acesso a exames preventivos e manter a imunização e o incentivo à produção nacional de vacinas, porque prevenir é sempre mais barato e mais humano do que tratar tarde.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-004
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Contratar exames e serviços da rede privada nos horários ociosos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 37
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: 'Para usar bem o que já existe, vamos contratar serviços e exames na rede privada nos horários ociosos: há aparelho parado enquanto gente espera meses pelo mesmo exame, e aproveitar essa capacidade é atender mais sem'
+  - documento: plano-pl-2026
+    pagina_impressa: 38
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: construir do zero.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-005
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: filas-e-atencao-especializada
+  rotulo: Fortalecer a Rede Nacional de Hospitais Inteligentes (EBSERH)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 38
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: Vamos também fortalecer a Rede Nacional de Hospitais Inteligentes (EBSERH), modernizando os hospitais universitários federais.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-006
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Telessaúde e teleatendimento por aplicativo para regiões com filas longas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 38
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: Vamos também levar o atendimento até quem não consegue chegar até ele. Com a telessaúde e o teleatendimento por aplicativo, médicos de regiões com baixa demanda poderão atender pacientes onde as filas são longas, aproximando o cuidado de quem vive longe de um grande centro.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-007
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Inteligência artificial de apoio à prevenção
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 38
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: Com inteligência artificial de apoio à prevenção, o sistema poderá identificar quem corre maior risco de adoecer e chamar essa pessoa para se cuidar a tempo, em vez de esperar que ela chegue ao pronto-socorro quando já é grave.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-008
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Implantar o prontuário eletrônico único, vinculado ao CPF e ao Gov.br
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 26
+    secao: Brasil sem Fila > Saúde digital e prontuário eletrônico único
+    literal: Vamos implantar o prontuário eletrônico único, vinculado ao CPF e integrado ao Gov.br, interoperável entre as redes pública e privada, com histórico completo de consultas, exames, vacinas e prescrições, sempre observados o consentimento do paciente, a LGPD, o sigilo médico e os protocolos de segurança
+  meta: null
+  condicionalidade: null
+- id: pl-saude-009
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Completar a digitalização do SUS e usar IA no agendamento
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 26
+    secao: Brasil sem Fila > Saúde digital e prontuário eletrônico único
+    literal: Junto disso, vamos completar a digitalização do SUS e usar inteligência artificial para agilizar o agendamento de consultas e exames, ajudando a encaixar o paciente na primeira vaga disponível, para que ninguém mais fique meses aguardando uma marcação que poderia ser resolvida em muito menos tempo.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-010
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: medicamentos-e-farmacia-popular
+  rotulo: Sistema de entrega de remédio em domicílio
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 38
+    secao: Brasil que Prepara > Saúde que cuida antes de a doença chegar
+    literal: E um sistema de entrega de remédio em domicílio vai garantir que o idoso, a pessoa com deficiência e o doente crônico não precisem escolher entre buscar o tratamento e pagar o transporte.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-011
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-da-mulher
+  rotulo: Saúde da mulher preventiva, por telemedicina e com prontuário integrado
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 21
+    secao: Brasil por Elas > Saúde para Elas
+    literal: Vamos cuidar da saúde da mulher de forma preventiva, sem fila longa, com atendimento perto de casa e também pelo celular, por telemedicina ou em postos de saúde que vamos ampliar e construir. O prontuário eletrônico integrado garantirá rastreamento e acompanhamento ao longo da vida, através de um banco de dados da saúde que conectará médicos de diferentes especialidades, e a mulher não perderá mais o dia inteiro de trabalho para cuidar da própria saúde.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-012
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-da-mulher
+  rotulo: Ampliar exames preventivos para a mulher e criar Unidades Móveis de Saúde da Mulher
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 21
+    secao: Brasil por Elas > Saúde para Elas
+    literal: Vamos ampliar o acesso a exames preventivos, cuidando da mulher com câncer, na menopausa, na gestação ou que sofre de endometriose, por exemplo, e dar acesso também à saúde bucal. E teremos Unidades Móveis de Saúde da Mulher, ônibus ou caminhões adaptados que percorrerão o país, além de barcos adaptados para atender a população ribeirinha.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-013
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Casa Segura para Envelhecer e aplicativo de companhia para idosos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 39
+    secao: Brasil que Prepara > Cuidar de quem a gente ama
+    literal: Por isso, para a população idosa, vamos oferecer o programa Casa Segura para Envelhecer, com subsídio à acessibilidade domiciliar para famílias de menor renda. Desenvolveremos um aplicativo de companhia com alertas de perigo, para que o idoso tenha o amparo da tecnologia e o filho que mora longe tenha tranquilidade.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-014
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Ampliar as instituições de longa permanência para idosos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 39
+    secao: Brasil que Prepara > Cuidar de quem a gente ama
+    literal: E vamos ampliar as instituições de longa permanência para idosos, para que recebam proteção especial quando o cuidado familiar não for viável ou suficiente.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-015
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Políticas transversais para pessoas com deficiência, com Centros de Referência em TEA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 39
+    secao: Brasil que Prepara > Cuidar de quem a gente ama
+    literal: Nossas políticas serão transversais, atravessando todas as áreas do governo, voltadas a ações concretas de garantia de direitos, inclusão e integração social, entre elas a implantação de Centros de Referência em Transtorno do Espectro Autista.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-016
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: 'Fortalecer a atenção à saúde mental: TDAH, depressão, ansiedade e Alzheimer'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 39
+    secao: Brasil que Prepara > Cuidar de quem a gente ama
+    literal: 'Vamos fortalecer e ampliar a atenção à saúde mental, chegando às famílias que muitas vezes enfrentam tudo sozinhas: o diagnóstico precoce e o apoio às crianças com TDAH; a atenção à depressão e à ansiedade; e o cuidado com os idosos que enfrentam o Alzheimer e outras doenças neurológicas, e com quem cuida deles.'
+  meta: null
+  condicionalidade: null
+- id: pl-saude-017
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-mental-e-cuidado
+  rotulo: Estruturar a Rede Nacional de Cuidado com centros-dia e atendimento domiciliar
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 21
+    secao: Brasil por Elas > Creche garantida para toda criança
+    literal: Também estruturaremos uma Rede Nacional de Cuidado, ampliando o apoio a idosos e pessoas com deficiência, com centros-dia e atendimento domiciliar em parcerias público privado com estados, municípios e organizações sociais.
+  meta: null
+  condicionalidade: null
+- id: pl-saude-018
+  candidato: flavio-bolsonaro
+  eixo: saude
+  topico: saude-digital-e-prontuario
+  rotulo: Governo Bolsonaro criou o Conecte SUS e a rede nacional de dados de saúde
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 26
+    secao: Brasil sem Fila > Saúde digital e prontuário eletrônico único
+    literal: 'Esse trabalho foi iniciado no Governo Bolsonaro: criamos o Conecte SUS e a rede nacional que deu ao cidadão acesso ao seu histórico e começou a conectar os sistemas de saúde do país.'
+  meta: null
+  condicionalidade: null
