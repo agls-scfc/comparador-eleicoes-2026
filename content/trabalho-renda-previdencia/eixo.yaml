@@ -12,8 +12,16 @@ paginas_nos_planos:
   - 42-46
   - 72-73
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: protecao-social-e-renda
+  titulo: Proteção social e renda
+- id: emprego-e-qualificacao
+  titulo: Emprego e qualificação
+- id: jornada-e-relacoes-de-trabalho
+  titulo: Jornada e relações de trabalho
+- id: empreendedorismo-e-economia-popular
+  titulo: Empreendedorismo e economia popular
+- id: previdencia-e-inss
+  titulo: Previdência e INSS
 status:
   propostas: em_preparacao
   acoes: em_preparacao

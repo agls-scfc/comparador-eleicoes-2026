@@ -1,0 +1,619 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-trabalho-renda-previdencia-001
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: protecao-social-e-renda
+  rotulo: Manter, aperfeiçoar e ampliar as políticas de proteção social
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 18
+    secao: 2. Combater as desigualdades
+    literal: Por isso, devemos manter, aperfeiçoar e ampliar as políticas de proteção social para quem mais necessita.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-002
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: protecao-social-e-renda
+  rotulo: Continuar a política de valorização do salário mínimo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 74
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Por isto, o novo mandato de Lula dará continuidade à política de valorização do salário mínimo como meio estratégico de distribuição de renda, combate à pobreza e promoção do desenvolvimento econômico e social.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-003
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Integrar crédito público, assistência técnica e compras públicas a metas de emprego
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 74
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Buscará ainda integrar a oferta de crédito público, assistência técnica, incentivos fiscais e a política de compras governamentais a compromissos com a geração de empregos de qualidade.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-004
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Fortalecer o Sistema Público de Emprego e ampliar a qualificação profissional
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 74
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Começamos a reconstruir o Sistema Público de Emprego, Trabalho, Renda, objetivo que será fortalecido. Vamos integrar e ampliar as políticas de qualificação profissional, reforçando sua articulação com os objetivos do desenvolvimento econômico, novas competências e demandas do setor produtivo e do serviço público.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-005
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Expandir na rede SINE a Plataforma Pública Nacional de Empregabilidade com IA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 74
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos expandir, na rede SINE, a Plataforma Pública Nacional de Empregabilidade com IA, para integrar vagas, cursos, certificações e serviços de orientação profissional.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-006
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Estimular ocupações sociais em atividades de interesse coletivo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 74
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos buscar estimular ocupações sociais, criando oportunidades de trabalho em atividades de interesse coletivo, socialmente úteis como conservação ambiental, cultura, preservação do patrimônio, esporte e economia do cuidado.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-007
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Combater a pejotização espúria e fortalecer a inspeção do trabalho
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 74
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos continuar combatendo a pejotização espúria, com fiscalização, regras que inibam migrações fraudulentas, equiparando responsabilidades administrativas e previdenciárias e fortalecendo a inspeção do trabalho.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-008
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Sistema de proteção para trabalhadores de plataformas digitais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 74
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Queremos consolidar um sistema de proteção aos trabalhadores na economia
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: digital e de plataformas, que normatize de forma adequada a atividade empresarial e estabeleça as regras para definir a relação de trabalho, a remuneração, condições de trabalho, proteções e direitos laborais e previdenciários, transparência algorítmica. Buscaremos também implementar políticas públicas para relação virtuosa entre tecnologia, inovação e trabalho e proteção a categorias afetadas com requalificação e inserção ocupacional.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-009
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Fim da escala 6x1 e jornada de 40 horas, sem redução salarial
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.
+  meta:
+    valor: 40
+    unidade: horas de jornada de trabalho
+    prazo: null
+    expressao_no_plano: 40 horas
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-010
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Aprimorar a legislação trabalhista e retomar a assistência sindical nas rescisões
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos aprimorar a legislação trabalhista, alterando regras que induzem a precarização das condições de trabalho, os marcos regressivos contidos na legislação, as fraudes presentes em muitas terceirizações, e retomando assistência sindical nas homologações de rescisão do contrato de trabalho.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-011
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Inclusão produtiva de pessoas com deficiência; erradicar trabalho escravo e infantil
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Seguiremos com as políticas de inclusão produtiva das pessoas com deficiência, privadas das oportunidades de trabalho em decorrência do capacitismo, e fortalecer as políticas de erradicação do trabalho análogo ao escravo e do trabalho infantil, em todas as suas formas e espaços de ocorrência, incluindo o meio rural, urbano e as plataformas digitais.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-012
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: 'Igualdade salarial: planos de ação obrigatórios nas empresas com desigualdades'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos avançar na efetiva equivalência remuneratória entre mulheres e homens, fortalecendo a implementação da Lei de Igualdade Salarial, sancionada no atual mandato do Presidente Lula. A execução dos Planos de Ação nas empresas com desigualdades identificadas será tornada obrigatória, com metas progressivas de redução das disparidades salariais e ampliação da presença de mulheres, especialmente negras e pessoas com deficiência.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-013
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Combater discriminações no acesso ao trabalho e acolher migrantes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos continuar combatendo a xenofobia, o capacitismo e as discriminações racial, étnica, LGBTQIAP+ e de classe no acesso ao trabalho decente, com atenção especial ao acolhimento de migrantes.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-014
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Fortalecer a negociação coletiva e atualizar o sistema sindical
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 76
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Reafirmamos nosso compromisso com o fortalecimento da negociação coletiva e com a atualização do sistema sindical de representação coletiva de interesse. Vamos continuar fomentando o diálogo social e estimular a contratação coletiva em diferentes âmbitos (local, regional, setorial, cadeia produtiva, temático e nacional), desenvolver políticas e ferramentas que apoiem a negociação coletiva (formação, documentação, mediação e arbitragem, entre outros) e regras que favoreçam o processo negocial.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-015
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Regulamentar a negociação coletiva no setor público
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 76
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos implementar a regulamentação do direito de negociação coletiva no setor público e apoiar um processo de atualização sindical que democratize o sistema
+  - documento: plano-pt-2026
+    pagina_impressa: 77
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: de relações de trabalho no setor público e no setor privado, urbano e rural.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-016
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: Fortalecer a Economia Popular e Solidária, com cooperativas, crédito e compras públicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos fortalecer a Economia Popular e Solidária com prioridade à inclusão produtiva de empreendedores populares, ocupações informais,
+  - documento: plano-pt-2026
+    pagina_impressa: 76
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: catadores, agricultores familiares e da cultura e economia do cuidado de base comunitária e demais segmentos da economia popular. Vamos seguir com as ações de constituição e fortalecimento de cooperativas populares; com a criação de redes territoriais de produção e comercialização; o investimento e inovação para agregação de valor e escala; a assistência técnica permanente, incubação de empreendimentos econômicos solidários; o acesso ao crédito produtivo orientado; e a integração aos sistemas de compras públicas.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-017
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: Ampliar políticas para autônomos e pequenos empreendedores, com proteção social
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 76
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Vamos ampliar e aprimorar políticas para os trabalhadores autônomos e pequenos empreendedores, com acesso ao crédito produtivo, programas de qualificação e assistência técnica, apoio à inovação na agregação de valor, produção e escala e planos de comercialização, inclusão digital, simplificação tributária, além da cobertura da proteção social, especialmente em relação à previdência, à proteção diante de acidentes, doenças e períodos de interrupção da atividade laboral em garantia da estabilidade, produtividade e segurança econômica.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-018
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Fortalecer a Previdência Social e ampliar o acesso
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 77
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Estamos comprometidos com o fortalecimento e a ampliação do acesso à Previdência Social, garantidora de direitos e proteção de renda.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-019
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Voltar a avisar o trabalhador por carta quando completar os requisitos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 77
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Estamos trabalhando para voltar à situação em que, quando completava os requisitos, o trabalhador recebia uma carta, em casa, avisando de seus direitos.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-020
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Concluir a modernização do INSS e rever a base de financiamento da Previdência
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 77
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Estamos seguros de que, no próximo mandato, concluiremos o processo de modernização e aprimoramento da prestação dos serviços previdenciários. Vamos continuar, em diálogo com a sociedade, a aprimorar a política de acesso e buscar reestruturar a base de financiamento da Previdência, buscando a diversidade das fontes de custeio. Queremos construir mecanismos contributivos mais flexíveis, capazes de acompanhar trajetórias ocupacionais descontínuas e múltiplas, permitindo que a pessoa que trabalha mantenha sua proteção ao longo de toda a vida laboral.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-021
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Incluir financiamento da previdência na regulação do trabalho por plataforma
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 77
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Buscaremos inserir na regulação do trabalho mediado por plataforma o financiamento da previdência social e a cobertura adequada para aposentadoria, incapacidade temporária, acidentes, maternidade ou demais contingências sociais.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-022
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: protecao-social-e-renda
+  rotulo: Bolsa Família recriado e valorização do salário-mínimo reinstituída
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: Recriamos e expandimos o Bolsa Família. Reinstituímos a política de valorização do salário-mínimo, que assegurou ganhos reais para trabalhadores, aposentados e beneficiários do BPC.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-023
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: 8,0 milhões de empregos gerados entre 2023 e junho de 2026
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 73
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: O Brasil chegou às mais baixas taxas de desemprego da história e gerou 8,0 milhões de empregos entre 2023 e junho de 2026.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-024
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: Secretaria de Economia Solidária recriada e Lei Paul Singer aprovada
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 75
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: No atual mandato, recriamos a Secretaria Nacional de Economia Solidária, aprovamos a Lei Paul Singer e iniciamos a reconstrução das políticas de fomento a este segmento.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-025
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: Crédito para MEI e pequenos negócios, Contrata+ Brasil e nova faixa do MEI
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 76
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Reconhecendo a importância do trabalho autônomo e do empreendedorismo no Brasil, o atual mandato do Presidente Lula criou linhas de crédito com juros mais baixos e garantia para os empreendedores individuais e para os micro e pequenos negócios. Criou o Contrata+ Brasil, plataforma que permite a estes trabalhadores participarem do mercado de compras públicas. Elevou a faixa de faturamento para o MEI e criou linhas de crédito para que trabalhadores de transporte por aplicativos consigam adquirir veículos e motos.
+  meta: null
+  condicionalidade: null
+- id: pt-trabalho-renda-previdencia-026
+  candidato: lula
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Poder de compra dos aposentados e enfrentamento das filas do INSS
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 77
+    secao: 12. Valorizar o Trabalho em suas Múltiplas Formas
+    literal: Com a política de valorização do salário-mínimo, elevamos o poder de compra de aposentados e pensionistas. Estamos enfrentando as filas do INSS, e diminuindo o tempo de espera por benefícios.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-001
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: protecao-social-e-renda
+  rotulo: Manter os programas sociais existentes, com gestão melhor e combate às fraudes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 42
+    secao: Brasil que Prospera > Da proteção à autonomia
+    literal: 'Por isso, o compromisso é claro e vem em primeiro lugar: vamos manter os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes. Quem depende hoje da ajuda do Estado para pôr comida na mesa não vai ter essa ajuda tirada.'
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-002
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: protecao-social-e-renda
+  rotulo: Prioridade de beneficiários em primeiro emprego, qualificação e intermediação
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 43
+    secao: Brasil que Prospera > Da proteção à autonomia
+    literal: 'Por isso, o beneficiário de programa social terá prioridade em todas as ações do Estado voltadas ao trabalho: prioridade nos programas de primeiro emprego, nas ações de qualificação profissional e na intermediação de mão de obra. Criaremos uma trilha de qualificação e intermediação desenhada especialmente para quem recebe o benefício, para que a saída não seja um salto no escuro, mas um caminho com apoio em cada passo.'
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-003
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: protecao-social-e-renda
+  rotulo: Retorno imediato e sem fila ao benefício após o seguro-desemprego
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 43
+    secao: Brasil que Prospera > Da proteção à autonomia
+    literal: E garantiremos o retorno imediato e sem fila ao benefício após o seguro-desemprego, mantidas as condições de elegibilidade, para que ninguém tenha medo de tentar um emprego e acabar desamparado se não der certo.
+  meta: null
+  condicionalidade: mantidas as condições de elegibilidade
+- id: pl-trabalho-renda-previdencia-004
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Reduzir gradualmente o custo do trabalho, sem retirar direitos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 43
+    secao: Brasil que Prospera > Trabalho que compensa
+    literal: Vamos reduzir gradualmente o custo do trabalho, sem retirar direitos, para que mais brasileiros tenham carteira assinada e a proteção que vem com ela.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-005
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Contrato de primeiro emprego para jovens de 18 a 24 anos, com menor custo na folha
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 43
+    secao: Brasil que Prospera > Trabalho que compensa
+    literal: Para o jovem, vamos criar um contrato de
+  - documento: plano-pl-2026
+    pagina_impressa: 44
+    secao: Brasil que Prospera > Trabalho que compensa
+    literal: trabalho para os 18 a 24 anos em busca do primeiro emprego, com menor custo na folha, para que a empresa tenha estímulo a dar a primeira oportunidade e o jovem consiga a experiência que hoje lhe é cobrada e negada ao mesmo tempo.
+  meta:
+    valor: null
+    unidade: 'faixa etária do contrato: 18 a 24 anos'
+    prazo: null
+    expressao_no_plano: 18 a 24 anos
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-006
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Contrato mais atrativo para quem tem 50 anos ou mais e está desempregado há 12 meses
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 44
+    secao: Brasil que Prospera > Trabalho que compensa
+    literal: 'Para quem tem mais idade, vamos criar um contrato mais atrativo para a contratação de pessoas com 50 anos ou mais desempregadas há pelo menos 12 meses: quem chega à meia-idade com uma vida inteira de trabalho não pode ser tratado como descartável.'
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-007
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: emprego-e-qualificacao
+  rotulo: Banco nacional de vagas conectado ao RH das empresas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 44
+    secao: Brasil que Prospera > Trabalho que compensa
+    literal: Por isso vamos modernizar a intermediação de mão de obra, com um banco nacional de vagas conectado ao RH das empresas, para aproximar de forma rápida e direta quem procura trabalho de quem procura trabalhador, no lugar do sistema lento e desconectado de hoje.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-008
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Jornada flexível e negociado sobre o legislado
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 44
+    secao: Brasil que Prospera > Trabalho que compensa
+    literal: Vamos também dar mais liberdade a quem trabalha, com jornada flexível que caiba na vida de mães, jovens e de quem tem mais dificuldade de entrar no mercado. Por isso defendemos o negociado sobre o legislado, ou seja, permitir que trabalhador e empresa combinem diretamente as condições de trabalho que funcionam para os dois, dentro da lei, em vez de seguir uma regra única imposta a todos.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-009
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: jornada-e-relacoes-de-trabalho
+  rotulo: Manter o trabalho por aplicativos, com proteção social e previdenciária
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 45
+    secao: Brasil que Prospera > O trabalhador em primeiro lugar, não o sindicato
+    literal: Nosso projeto garante a manutenção das oportunidades de renda e de trabalho trazidas pelo trabalho por aplicativos. Nada pode estar à frente dos interesses de quem trabalha, dos usuários e da efetiva proteção social e previdenciária a eles assegurada. Esses trabalhadores serão protegidos, sem os interesses de dirigentes sindicais a frente do processo.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-010
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: Criar o Minha Primeira Empresa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 45
+    secao: Brasil que Prospera > Negócio próprio
+    literal: 'Para quem está começando, vamos criar o Minha Primeira Empresa: menos burocracia para abrir e formalizar o negócio, capacitação e orientação pelo Sistema S, para que o empreendedor aprenda a gerir o que criou, e uma esteira de crédito e serviços da CAIXA ao seu alcance, que o acompanhe do primeiro balcão ao primeiro faturamento.'
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-011
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: Crédito e orientação pela CAIXA; internacionalização de pequenas empresas via BNDES e Apex
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 45
+    secao: Brasil que Prospera > Negócio próprio
+    literal: Vamos apoiar o pequeno negócio com crédito para empreender e orientação, pela rede da CAIXA, e apoiar a internacionalização de pequenas
+  - documento: plano-pl-2026
+    pagina_impressa: 46
+    secao: Brasil que Prospera > Negócio próprio
+    literal: e médias empresas via BNDES e Apex-Brasil, para que o produto brasileiro chegue mais longe.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-012
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: Transformar a CAIXA no Banco da Prosperidade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 46
+    secao: Brasil que Prospera > A CAIXA como Banco da Prosperidade
+    literal: A CAIXA deixará de ser apenas a operadora de benefícios para se tornar o Banco da Prosperidade.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-013
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: empreendedorismo-e-economia-popular
+  rotulo: 'Criar o Ganha-Ganha: histórico positivo para acesso a crédito e juros menores'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 46
+    secao: Brasil que Prospera > A CAIXA como Banco da Prosperidade
+    literal: 'A grande inovação será o Ganha-Ganha, um programa em que o Estado reconhece quem faz a sua parte. De adesão voluntária, ele permite que atitudes como concluir um curso de qualificação, formalizar um negócio, conseguir um emprego ou manter as contas em dia formem um histórico positivo que trabalha a favor do cidadão: acesso a crédito, juros menores e cashback para quem hoje é invisível ao sistema financeiro.'
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-014
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Digitalizar os processos do INSS e profissionalizar a gestão
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 26
+    secao: Brasil sem Fila > INSS sem fila
+    literal: Vamos investir em tecnologia e digitalizar os processos do INSS, dando continuidade ao caminho do Meu INSS, e profissionalizar a gestão do órgão.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-015
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Reeditar pacote antifraude na Previdência
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 72
+    secao: 'Brasil que Não Volta Atrás > O lado dos aposentados: fim das fraudes'
+    literal: Vamos retomar esse combate com prioridade máxima. Reeditaremos um pacote antifraude na Previdência, nos moldes do que fizemos em 2019, e não pouparemos esforços para coibir qualquer nova tentativa de roubar o dinheiro de quem já deu sua contribuição ao país.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-016
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Mudar a governança do consignado do INSS, com dupla checagem
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 72
+    secao: 'Brasil que Não Volta Atrás > O lado dos aposentados: fim das fraudes'
+    literal: Vamos mudar a governança do consignado para que a fraude não se repita, revendo quem opera esses descontos e como são autorizados, com mais transparência e mais
+  - documento: plano-pl-2026
+    pagina_impressa: 73
+    secao: 'Brasil que Não Volta Atrás > O lado dos aposentados: fim das fraudes'
+    literal: controle, incluindo dupla checagem que impede que tirem do benefício o que não foi autorizado.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-017
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: protecao-social-e-renda
+  rotulo: Auxílio Emergencial em 2020 e criação do Auxílio Brasil
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 42
+    secao: Brasil que Prospera > Da proteção à autonomia
+    literal: 'Em 2020, no auge da maior pandemia em cem anos, a extrema pobreza no Brasil caiu para a menor marca da história — apenas 1,95% da população, graças ao Auxílio Emergencial. Não foi discurso: foi a proteção chegando a quem mais precisava, no pior momento possível. E não paramos aí: criamos o Auxílio Brasil, que triplicou o valor pago às famílias.'
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-018
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: MP Antifraudes de 2019 sobre descontos associativos
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 72
+    secao: 'Brasil que Não Volta Atrás > O lado dos aposentados: fim das fraudes'
+    literal: Em janeiro de 2019, a primeira medida do nosso governo, logo após a redução dos ministérios, foi a MP Antifraudes (MP nº 871/2019), que exigiu a revalidação anual dos descontos associativos na aposentadoria, cancelando qualquer desconto feito sem o consentimento do aposentado.
+  meta: null
+  condicionalidade: null
+- id: pl-trabalho-renda-previdencia-019
+  candidato: flavio-bolsonaro
+  eixo: trabalho-renda-previdencia
+  topico: previdencia-e-inss
+  rotulo: Fim dos descontos associativos aprovado em novembro de 2025
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 72
+    secao: 'Brasil que Não Volta Atrás > O lado dos aposentados: fim das fraudes'
+    literal: 'Mesmo depois de deixarmos o governo, seguimos a luta pelo aposentado a partir do Congresso: foi a mobilização da oposição, após a CPMI do INSS e contra a resistência do governo Lula, que conseguimos aprovar o fim definitivo dos descontos associativos, em novembro de 2025.'
+  meta: null
+  condicionalidade: null
