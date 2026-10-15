@@ -9,8 +9,18 @@ paginas_nos_planos:
   plano-pl-2026:
   - 65-70
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: democracia-e-reforma-politica
+  titulo: Democracia, participação e reforma política
+- id: judiciario-e-poderes
+  titulo: Judiciário e relação entre os Poderes
+- id: liberdade-de-expressao-e-redes
+  titulo: Liberdade de expressão e redes sociais
+- id: orcamento-e-emendas
+  titulo: Orçamento e emendas parlamentares
+- id: integridade-e-transparencia
+  titulo: Integridade, transparência e estatais
+- id: gestao-publica-e-federacao
+  titulo: Gestão pública e federação
 status:
   propostas: em_preparacao
   acoes: em_preparacao

@@ -1,0 +1,430 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-instituicoes-democracia-judiciario-001
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: Reforma política e eleitoral
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 15
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: A reforma política e eleitoral é inadiável para superar a dissociação entre a representação política e a composição real da sociedade brasileira, para fortalecer a democracia brasileira, e recuperar a confiança da sociedade no sistema político.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-002
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Diálogo permanente entre os Poderes e entre os entes da Federação
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 15
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Uma das dimensões importantes de fortalecimento de nossa democracia é a relação entre os poderes da República e entre os entes da Federação. Nosso compromisso é manter diálogo permanente, respeitoso e construtivo em torno dos interesses nacionais.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-003
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: Aprofundar a participação e o controle social e continuar as conferências nacionais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 15
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Vamos aprofundar a participação. o controle social nas políticas públicas e continuaremos realizando conferências para implantar e aprimorar políticas e programas sob responsabilidade federal.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-004
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: PPA 2028-2031 mais participativo e participação social no ciclo orçamentário
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 15
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Queremos que o PPA 2028-2031 seja ainda mais participativo e que o ciclo orçamentário federal brasileiro também seja objeto de participação social.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-005
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: orcamento-e-emendas
+  rotulo: Enfrentar a distorção do sistema de emendas parlamentares e debater o tema com a sociedade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 15
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Propomos ainda enfrentar uma grave distorção na elaboração e gestão do orçamento federal – o atual sistema de emendas parlamentares.
+  - documento: plano-pt-2026
+    pagina_impressa: 16
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: É preciso que o tema das emendas parlamentares seja debatido com a sociedade.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-006
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: liberdade-de-expressao-e-redes
+  rotulo: Avançar na regulação democrática das redes sociais e plataformas digitais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 16
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: É parte da reafirmação da democracia avançar ainda mais na regulação democrática das redes sociais e das plataformas digitais, de modo a impedir que elas difundam desinformação, acolham campanhas de ódio e outras formas de comunicação nocivas para a democracia. Nenhuma democracia sobrevive sem uma opinião pública plural e sem a garantia plena da liberdade de expressão.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-007
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Continuar o diálogo com o Judiciário para aperfeiçoar o sistema de Justiça
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 16
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Nesse sentido, propomos a continuidade do diálogo permanente com os atores do judiciário, respeitada a autonomia dos Poderes, para estimular o aperfeiçoamento do sistema de Justiça.
+  meta: null
+  condicionalidade: respeitada a autonomia dos Poderes
+- id: pt-instituicoes-democracia-judiciario-008
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: gestao-publica-e-federacao
+  rotulo: Aprofundar a valorização dos servidores pela Mesa Nacional de Negociação Permanente
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 16
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Vamos aprofundar este processo, a partir da Mesa Nacional de Negociação Permanente, que foi reaberta em nosso mandato.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-009
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: gestao-publica-e-federacao
+  rotulo: Aprimorar o compartilhamento de serviços de suporte entre ministérios
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Aprimoraremos o modelo de centralização e compartilhamento de serviços de suporte (gestão de pessoas, orçamento, contratações etc.) entre ministérios e órgãos do Executivo federal, que tanto contribui para racionalizar o uso dos recursos e conferir mais qualidade ao gasto público.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-010
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: gestao-publica-e-federacao
+  rotulo: Aprimorar o poder de compra do Estado e descentralizar contratações (Contrata+ Brasil)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: No próximo mandato, vamos aprimorar os mecanismos de utilização do poder de compra do Estado em todos os níveis da federação, estimulando o desenvolvimento nos territórios e a descentralização das contratações públicas por meio de plataformas como o Contrata+ Brasil.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-011
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: gestao-publica-e-federacao
+  rotulo: Fortalecer a cooperação e a governança federativa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 18
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Para superar a desigualdade na capacidade dos estados e municípios de prestar melhores serviços à população, buscaremos fortalecer ainda mais a cooperação e a governança federativa, por meio de instrumentos como compartilhamento de infraestrutura pública digital, formação de servidores e elaboração de estratégias nacionais. Como já fizemos na atual gestão, esta cooperação persistirá, orientada pelo princípio republicano.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-012
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: integridade-e-transparencia
+  rotulo: Aprofundar o Plano de Integridade e Combate à Corrupção 2025–2027
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 18
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Vamos dar sequência às medidas de controle e integridade da administração pública e ao combate à corrupção. O Plano de Integridade e Combate à Corrupção 2025–2027 representa um avanço institucional que será aprofundado, fortalecendo a prevenção, a investigação e a responsabilização de corruptos e corruptores, inclusive os do andar de cima, com pleno respeito à independência das instituições.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-013
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: integridade-e-transparencia
+  rotulo: Investir no Portal da Transparência, com dados abertos e inteligência artificial
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 18
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Persistiremos, como no atual mandato, aprimorando as políticas e medidas de transparência. O Portal da Transparência receberá investimentos para evoluir para uma plataforma inteligente baseada em dados abertos e inteligência artificial.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-014
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: integridade-e-transparencia
+  rotulo: Fortalecer a Ouvidoria-Geral da União e as consultas públicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 18
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Fortaleceremos ainda mais organismos como a Ouvidoria-Geral da União e as consultas públicas, em laboratórios de inovação cívica, consultas digitais, uso de inteligência artificial, observatórios temáticos, fortalecendo uma nova cultura democrática baseada na participação da sociedade no combate à corrupção.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-015
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: Conselhos recriados, 28 conferências nacionais desde 2023 e Sistema de Participação Social
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 15
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Consistente com o compromisso com a democracia participativa, o atual mandato do Presidente Lula recriou os conselhos de políticas públicas, retomou as conferências nacionais – foram realizadas 28 conferências desde 2023 – e instituiu o Sistema de Participação Social.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-016
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: PPA participativo, com mais de 1,4 milhão de participantes
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 15
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado
+    literal: Construímos, na atual gestão, o PPA mais participativo da história, com plenárias em todos os estados e municípios e mais de 1,4 milhão de participantes na plataforma Brasil Participativo.
+  meta: null
+  condicionalidade: null
+- id: pt-instituicoes-democracia-judiciario-017
+  candidato: lula
+  eixo: instituicoes-democracia-judiciario
+  topico: gestao-publica-e-federacao
+  rotulo: Reestruturação da gestão de pessoas do governo federal e diálogo com servidores
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 16
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Houve a maior reestruturação na gestão de pessoas do governo federal em um único mandato nas últimas três décadas e a retomada da política de valorização e diálogo com servidores.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-001
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Fim das competências criminais originárias do STF
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 65
+    secao: 'Brasil que Cumpre a Constituição > Reforma do Judiciário: o STF como Corte Constitucional'
+    literal: Fim das competências criminais originárias do STF, permitindo que parlamentares sejam julgados por instâncias inferiores, como o STJ ou os TRFs, para que exerçam seus mandatos com mais altivez, sem que isso represente qualquer contrapartida de impunidade.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-002
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Limitar decisões monocráticas do STF e presumir constitucional o processo legislativo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 65
+    secao: 'Brasil que Cumpre a Constituição > Reforma do Judiciário: o STF como Corte Constitucional'
+    literal: Limitação das decisões monocráticas do STF, privilegiando as decisões colegiadas e presumindo a constitucionalidade do processo legislativo, para que a caneta de um só ministro não se sobreponha ao trabalho de todo o Congresso.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-003
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Rever o escopo e os legitimados de ADPFs, ADIs e ADCs
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 65
+    secao: 'Brasil que Cumpre a Constituição > Reforma do Judiciário: o STF como Corte Constitucional'
+    literal: Revisão do escopo das ADPFs e dos legitimados ativos para a proposição de ADPFs, ADIs e ADCs.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-004
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Quarentena de 1 ano para Ministros de Estado serem indicados ao STF
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 65
+    secao: 'Brasil que Cumpre a Constituição > Reforma do Judiciário: o STF como Corte Constitucional'
+    literal: Quarentena de 1 ano para que Ministros de Estado possam ser indicados ao STF.
+  meta:
+    valor: 1
+    unidade: ano de quarentena
+    prazo: null
+    expressao_no_plano: Quarentena de 1 ano
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-005
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Impedir que parentes de até terceiro grau atuem no tribunal do magistrado
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 66
+    secao: 'Brasil que Cumpre a Constituição > Reforma do Judiciário: o STF como Corte Constitucional'
+    literal: Impedimento de parentes de até terceiro grau, e respectivo escritório, para atuar no tribunal do respectivo magistrado.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-006
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: judiciario-e-poderes
+  rotulo: Mais sociedade civil no CNJ e CNMP e limite à sua atuação de natureza legislativa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 66
+    secao: 'Brasil que Cumpre a Constituição > Reforma do Judiciário: o STF como Corte Constitucional'
+    literal: Ampliação da participação da sociedade civil no CNJ e CNMP, e redefinição de suas competências para limitar sua atuação de natureza legislativa.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-007
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: Reforma política como prioridade, com foco em representatividade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 66
+    secao: Brasil que Cumpre a Constituição > Reforma política
+    literal: A reforma política é urgente e será prioridade. [...] O foco deve ser a representatividade e a proximidade entre o eleitor e o eleito, superando o sistema atual em que a desconexão perdura ao longo de toda a legislatura de quatro anos.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-008
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: Fim da reeleição para Presidente da República
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 66
+    secao: Brasil que Cumpre a Constituição > Reforma política
+    literal: E propomos o fim da reeleição para o cargo de Presidente da República.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-009
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: liberdade-de-expressao-e-redes
+  rotulo: 'Tesouraço da Censura: acabar com estruturas tipo “Ministério da Verdade” e revogar atos'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 66
+    secao: Brasil que Cumpre a Constituição > Tesouraço na Censura
+    literal: 'Vamos fazer um Tesouraço da Censura: acabar com qualquer estrutura estatal que funcione como um “Ministério da Verdade", encarregada de vigiar, rotular ou punir o que as pessoas dizem. E vamos revogar todos os atos que o atual governo produziu para silenciar seus críticos, para que a censura já praticada'
+  - documento: plano-pl-2026
+    pagina_impressa: 67
+    secao: Brasil que Cumpre a Constituição > Tesouraço na Censura
+    literal: não deixe herança.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-010
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: orcamento-e-emendas
+  rotulo: Mais transparência e rastreabilidade às emendas, priorizando políticas do PPA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 69
+    secao: Brasil que Não Volta Atrás > Mais Brasil e menos Brasília
+    literal: No mesmo esforço de organizar melhor o orçamento, daremos mais transparência, controle e rastreabilidade às emendas parlamentares, priorizando sua alocação em políticas públicas prioritárias do Plano Plurianual, aprovado pelo parlamento.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-011
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: gestao-publica-e-federacao
+  rotulo: Profissionalizar as agências reguladoras, com critérios técnicos e revogaço regulatório
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 69
+    secao: Brasil que Não Volta Atrás > Enxugar a Máquina e Profissionalizar a Gestão Pública
+    literal: Vamos também profissionalizar as agências reguladoras, fortalecendo os critérios técnicos na indicação de seus dirigentes, com avaliações periódicas e um amplo revogaço regulatório, preservada a segurança jurídica.
+  meta: null
+  condicionalidade: preservada a segurança jurídica
+- id: pl-instituicoes-democracia-judiciario-012
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: integridade-e-transparencia
+  rotulo: Fortalecer a Lei das Estatais e recrutar dirigentes de estatais com regras de mercado
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 70
+    secao: Brasil que Não Volta Atrás > Enxugar a Máquina e Profissionalizar a Gestão Pública
+    literal: 'Tentaram enfraquecê-la; nós vamos fortalecê-la. E vamos além: sempre que possível, o comando das estatais e dos cargos de direção será preenchido por recrutamento com regras de mercado, com busca ativa de profissionais qualificados, como fazem as empresas privadas quando procuram seus executivos, escolhendo pela competência comprovada, e não pela conveniência política.'
+  meta: null
+  condicionalidade: sempre que possível
+- id: pl-instituicoes-democracia-judiciario-013
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: integridade-e-transparencia
+  rotulo: Blindar os fundos de pensão das estatais da indicação política
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 70
+    secao: Brasil que Não Volta Atrás > Enxugar a Máquina e Profissionalizar a Gestão Pública
+    literal: Vamos blindar os fundos de pensão das estatais da indicação política, porque a aposentadoria do trabalhador não pode virar cofre de projeto de poder.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-014
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: democracia-e-reforma-politica
+  rotulo: PEC do fim da reeleição protocolada no Senado, de autoria de Flávio Bolsonaro
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 66
+    secao: Brasil que Cumpre a Constituição > Reforma política
+    literal: Já existe uma PEC protocolada no Senado Federal com essa proposta, de autoria do senador e futuro presidente do Brasil, Flávio Bolsonaro.
+  meta: null
+  condicionalidade: null
+- id: pl-instituicoes-democracia-judiciario-015
+  candidato: flavio-bolsonaro
+  eixo: instituicoes-democracia-judiciario
+  topico: gestao-publica-e-federacao
+  rotulo: Socorro federativo a estados e municípios durante a pandemia
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 68
+    secao: Brasil que Não Volta Atrás > Mais Brasil e menos Brasília
+    literal: E quando a pandemia ameaçou quebrar estados e municípios, foi o governo Bolsonaro que garantiu o socorro federativo, entregue diretamente ao poder local para manter a saúde, o funcionalismo e os serviços de pé, no momento mais difícil.
+  meta: null
+  condicionalidade: null
