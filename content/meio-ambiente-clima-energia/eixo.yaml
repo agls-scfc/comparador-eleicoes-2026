@@ -10,8 +10,20 @@ paginas_nos_planos:
   - 52-53
   - 57-59
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: matriz-e-transicao-energetica
+  titulo: Matriz elétrica e transição energética
+- id: petroleo-gas-e-biocombustiveis
+  titulo: Petróleo, gás e biocombustíveis
+- id: tarifas-e-pobreza-energetica
+  titulo: Tarifas e pobreza energética
+- id: desmatamento-e-fiscalizacao
+  titulo: Desmatamento e fiscalização ambiental
+- id: clima-e-adaptacao
+  titulo: Clima, financiamento e adaptação
+- id: seguranca-hidrica
+  titulo: Segurança hídrica e eventos extremos
+- id: biodiversidade-e-economia-verde
+  titulo: Biodiversidade, bioeconomia e proteção animal
 status:
   propostas: em_preparacao
   acoes: em_preparacao

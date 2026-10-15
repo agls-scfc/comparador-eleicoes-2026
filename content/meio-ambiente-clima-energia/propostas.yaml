@@ -1,0 +1,818 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-meio-ambiente-clima-energia-001
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Assegurar segurança energética, transição justa e combate à pobreza energética
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 64
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: No próximo mandato, continuaremos atuando para, em simultâneo, assegurar segurança energética, avançar na transição energética justa e combater a pobreza energética. Com planejamento e coordenação estratégica, o Brasil garantirá a energia necessária a seu desenvolvimento.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-002
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Mais renováveis, armazenamento e substituição progressiva de combustíveis fósseis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 64
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Daremos sequência à estratégia de incrementar a participação de fontes renováveis, ampliar os investimentos em armazenamento e flexibilidade do sistema elétrico, e acelerar a substituição progressiva de combustíveis fósseis por biocombustíveis e combustíveis de baixa intensidade de carbono, incluindo derivados de hidrogênio.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-003
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Neoindustrialização da transição energética e eletrificação do transporte coletivo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 64
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: A transição energética permitirá avançar no programa de neoindustrialização do País, agregando valor às cadeias de baterias e armazenamento, hidrogênio de baixa emissão, petroquímica verde, bioprodutos, fertilizantes e reatores nucleares modulares. Assim como, continuaremos fomentando a descarbonização do transporte público coletivo com eletrificação de frotas de ônibus e a expansão de trens e metrô.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-004
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Riscos climáticos obrigatórios no planejamento energético e expansão integrada da rede
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 65
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: A promoção da resiliência do sistema energético frente às mudanças climáticas constitui prioridade estratégica, exigindo a incorporação de riscos climáticos como variável obrigatória no planejamento. Será fundamental expandir de forma coordenada e integrada a transmissão, a geração e o desenvolvimento regional, incentivando o aumento da demanda industrial em outras regiões de modo a reduzir restrições operativas e aumentar o aproveitamento dos recursos renováveis.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-005
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Expandir hidrelétricas por critérios socioambientais e acelerar a redução do carvão
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 65
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Vamos seguir expandindo a geração hidrelétrica por critérios socioambientais, de segurança energética e flexibilidade do sistema à integração das renováveis e acelerar a redução da produção de carvão. No caso das hidrelétricas, seguiremos buscando soluções para a repotenciação do parque existente.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-006
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Continuar leilões de transmissão e abrir nova fronteira de investimentos em baterias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 65
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Daremos continuidade aos leilões de transmissão e vamos abrir uma nova fronteira de investimentos em baterias para melhorar a oferta de energia e a robustez do sistema.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-007
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Preservar a competência nuclear para uso pacífico e avançar no ciclo do combustível
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 68
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: A competência nuclear brasileira, como política de Estado, será preservada para uso exclusivamente pacífico, valorizando sua base científica, tecnológica e industrial e suas aplicações em energia, saúde, pesquisa, indústria e segurança radiológica. Avançaremos na autonomia do ciclo do combustível nuclear e aproveitaremos de forma responsável as reservas nacionais de urânio, sempre condicionado à viabilidade técnica, econômica, ambiental e social.
+  meta: null
+  condicionalidade: sempre condicionado à viabilidade técnica, econômica, ambiental e social
+- id: pt-meio-ambiente-clima-energia-008
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Ampliar biocombustíveis e aproveitar subprodutos da agroindústria para bioenergia
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 63
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Continuaremos ampliando e fortalecendo a produção de biocombustíveis, como etanol de milho e cana, biodiesel e combustível sustentável de aviação (SAF). Fomentaremos o aproveitamento de subprodutos da agroindústria para a geração de bioenergia e biogás, fortalecendo a bioeconomia e a integração sustentável entre a produção de alimentos, fibras e energia.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-009
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Mitigar a volatilidade dos preços internacionais de combustíveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 66
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Continuaremos a atuar para mitigar a volatilidade dos preços internacionais, garantindo que os brasileiros não fiquem expostos a choques externos.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-010
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Estimular gás natural e biometano e expandir a infraestrutura de gás
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 66
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: O papel do gás natural e do biometano, como fontes complementares às energias renováveis, continuará sendo estimulado, ampliando a segurança energética, a flexibilidade do sistema elétrico e a competitividade da economia brasileira. A infraestrutura de gás natural continuará sendo expandida e integrada para
+  - documento: plano-pt-2026
+    pagina_impressa: 67
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: ampliar a oferta, interiorizar as malhas de transporte e distribuição e fortalecer a integração gasífera sul-americana.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-011
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: 'Petrobras: mais exploração, volta à distribuição de combustíveis e logística de GNL'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 67
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Entendemos que a Petrobras continuará ampliando investimentos em exploração onshore e offshore, para recuperar participação no controle de reservas nacionais, e deverá expandir investimentos em revitalização de campos maduros. As novas reservas serão exploradas com cuidados socioambientais ainda maiores e visão estratégica. A Petrobras deverá retornar ao segmento de distribuição de combustíveis, expandindo sua capacidade de refino e ampliando a atuação da Transpetro para logística de GNL.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-012
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Petrobras na transição energética e readequação do marco legal do REPETRO
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 67
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Defendemos ainda que a Petrobras continue também a orientar para a transição energética, alinhados ao Acordo de Paris e NDC brasileira, com investimentos em fontes de baixo carbono e redução efetiva de emissões operacionais. Vamos readequar o marco legal do REPETRO às necessidades de descarbonização.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-013
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Manter regras de conteúdo local para a indústria naval
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 67
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Asseguraremos que os investimentos da Petrobras continuem estimulando a indústria naval, com reafirmação de regras de conteúdo local.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-014
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Aprimorar o RenovaBio e fortalecer a Petrobras Biocombustíveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 68
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: A Política Nacional de Biocombustíveis (RenovaBio) continuará sendo aprimorada, incorporando diretrizes para desenvolvimento de 2ª e 3ª geração, bem como seus encadeamentos com a indústria nacional. A participação da Petrobras em biocombustíveis, de forma integrada à Petrobras Biocombustíveis (Pbio), será fortalecida.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-015
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Expandir combustíveis sustentáveis e políticas bioenergéticas integradas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 68
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Também daremos sequência aos esforços de desenvolvimento tecnológico e expansão dos combustíveis sustentáveis (SAF, biometano e combustíveis marítimos), acelerando a implementação de políticas de descarbonização
+  - documento: plano-pt-2026
+    pagina_impressa: 68
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Diante do papel crescente da biomassa em nossa matriz energética, será preciso avançar em políticas bioenergéticas integradas para as cadeias produtivas de grãos e proteínas, considerando também seus impactos sobre o uso do solo, da água e dos fertilizantes.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-016
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: tarifas-e-pobreza-energetica
+  rotulo: Promover debate sobre o barateamento da energia elétrica e a justiça tarifária
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 65
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Um debate importante a ser promovido no próximo período refere-se ao barateamento da energia elétrica para os consumidores residenciais e as
+  - documento: plano-pt-2026
+    pagina_impressa: 66
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: empresas, buscando garantir justiça tarifária e a preservar a sustentabilidade econômico-financeira do setor.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-017
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Desmatamento líquido zero até 2030
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 70
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030, meta que reafirmamos. Para isto, todas as instâncias do governo persistirão atuando de forma integrada na implementação dos planos de controle e prevenção do desmatamento e na implementação plena do Plano Nacional de Manejo Integrado do Fogo.
+  meta:
+    valor: 0
+    unidade: desmatamento líquido
+    prazo: '2030'
+    expressao_no_plano: desmatamento líquido zero até 2030
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-018
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Efetivar o Código Florestal e a Lei da Mata Atlântica; destinar terras públicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 70
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Continuaremos mobilizando políticas para assegurar a efetividade do Código Florestal e da Lei da Mata Atlântica. Vamos avançar na destinação das terras públicas para unidades de conservação, territórios indígenas e quilombolas ou assentamentos, e reforçar a regularização fundiária.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-019
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Fortalecer a fiscalização, com rastreabilidade nas cadeias e satélite e IA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 72
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Seguiremos fortalecendo e aprimorando as ações de fiscalização. Buscaremos dialogar com o setor produtivo nacional para estabelecer mecanismos de rastreabilidade e devida diligência nas cadeias produtivas. Vamos expandir monitoramento satelital e uso de inteligência artificial no combate a crimes ambientais.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-020
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Contribuir para o mapa do caminho global de eliminação do desmatamento
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 71
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Vamos contribuir, no contexto internacional, para implementar o mapa do caminho para eliminação global do desmatamento, articulando instrumentos nacionais com compromissos internacionais.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-021
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Mobilizar todos os atores para cumprir a nova NDC
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 71
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Articularemos as políticas e mobilizaremos todos os atores governamentais, privados e da sociedade civil para que cumpramos a nossa nova NDC.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-022
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Participar do debate sobre um mapa do caminho global para longe dos combustíveis fósseis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 71
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Continuaremos acompanhando e participando do debate internacional sobre a construção de um mapa do caminho global para longe dos combustíveis fósseis, preservando soberania e segurança energéticas, responsabilidade ambiental e social e previsibilidade regulatória.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-023
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: 'Ampliar instrumentos de financiamento climático: Fundo Clima, Eco Invest e TFFF'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 71
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Seguiremos ampliando os instrumentos necessários para o financiamento climático. O Fundo Clima e o Eco Invest continuarão a ser instrumentos fundamentais para o financiar a descarbonização da economia. O Fundo Florestas Tropicais para Sempre implementará suas estruturas de governança para que os investimentos possam começar a ocorrer.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-024
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Caatinga como ativo estratégico e financiamento climático permanente para o Semiárido
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 72
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: No próximo mandato, avançaremos na inclusão da Caatinga como ativo estratégico para a adaptação às mudanças do clima e para a mitigação das emissões de gases de efeito estufa. O governo deverá continuar estruturando mecanismos permanentes de financiamento climático para o Semiárido brasileiro, reconhecendo que adaptação climática, combate à desertificação e restauração ecológica constituem investimentos estratégicos para o desenvolvimento nacional.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-025
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Adaptação climática como eixo permanente do planejamento e planos contra calor extremo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 72
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Continuaremos a ampliar o investimento em políticas de prevenção e redução de riscos de desastres. Institucionalizaremos a adaptação climática como eixo
+  - documento: plano-pt-2026
+    pagina_impressa: 73
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: permanente do planejamento público, assegurando continuidade e fortalecimento do Plano Nacional de Adaptação à Mudança do Clima e estimulando a criação de planos estaduais e municipais de enfrentamento ao calor extremo e fortalecimento da capacidade de prevenção e resposta a eventos climáticos extremos.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-026
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Mobilizar financiamento e inovação para transformar desafios climáticos em oportunidades
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 73
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Avançaremos na agenda ecológica com a mobilização de financiamento, inovação tecnológica e cooperação entre governos, setor privado e sociedade civil para transformar os desafios ambientais e climáticos em oportunidades de desenvolvimento sustentável, consolidando o Brasil como uma referência global na construção de um futuro mais justo, resiliente e ambientalmente responsável.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-027
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: seguranca-hidrica
+  rotulo: Revitalizar bacias hidrográficas e ampliar a infraestrutura de segurança hídrica
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 72
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Frente aos riscos associados às mudanças climáticas, vamos avançar nos investimentos para revitalizar as bacias hidrográficas e ampliar as infraestruturas para Segurança hídrica, garantindo água de qualidade para beber e produzir e proteção contra cheias e enchentes
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-028
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: 'Preservar a biodiversidade: RPPNs e valorização dos 75 parques nacionais'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 71
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Vamos seguir fortalecendo instrumentos e equipamentos que assegurem a preservação de nossa biodiversidade, sem abdicar de seu potencial para o desenvolvimento do país. Incentivaremos a criação de Reservas Particulares do Patrimônio Natural (RPPNs) e buscaremos avançar em uma política de valorização dos 75 parques nacionais, integrando conservação ambiental, turismo sustentável, desenvolvimento regional e educação ambiental.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-029
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: Aprimorar o Pagamento por Serviços Ambientais e reconhecer a restauração biocultural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 72
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Vamos aprimorar a implementação de programas de Pagamento por Serviços Ambientais (PSA) voltados à biodiversidade e reconhecer legalmente a restauração biocultural como estratégia de Estado, distinta e complementar à restauração florestal convencional.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-030
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: Ampliar o ProPatinhas e manter o SinPatinhas (cadastro de cães e gatos)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 71
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: A proteção ambiental continuará caminhando ao lado da defesa dos direitos animais. Vamos ampliar o ProPatinhas, fortalecendo as caravanas de castração, e dar continuidade ao SinPatinhas, cadastro nacional de cães e gatos.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-031
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: Fortalecer o combate aos maus-tratos a animais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 72
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Seguiremos fortalecendo o combate aos maus-tratos, com penas que assegurem que essas práticas não se repitam, avançando nesta agenda com prioridade e participação social.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-032
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: 'Novo PAC: 31.289 MW de capacidade e 89% de renováveis na matriz elétrica'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 64
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: No segmento de geração de energia elétrica, o Novo PAC impulsionou uma expansão sem precedentes da capacidade instalada do país, com a incorporação de 31.289 MW ao sistema elétrico nacional, volume equivalente a aproximadamente duas usinas de Itaipu.
+  - documento: plano-pt-2026
+    pagina_impressa: 64
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: O avanço foi liderado pelas fontes renováveis, que responderam por 80% da nova capacidade instalada, consolidando a posição do Brasil como uma das economias mais limpas do mundo, com 89% de participação de fontes renováveis na matriz elétrica, frente a 31% na OCDE.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-033
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: tarifas-e-pobreza-energetica
+  rotulo: 'Luz do Povo: conta de luz gratuita para famílias do Cadastro Único até 80 kWh/mês'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 65
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: O combate à pobreza energética se deu por meio do Luz do Povo, que reviu a política de Tarifa Social de energia, e ampliou a gratuidade da conta de luz para famílias do Cadastro Único com consumo até 80 kWh/mês, com alcance de mais de 60 milhões de pessoas.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-034
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: 'Petrobras: recorde de produção e investimento 79% maior no triênio 2023–2025'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 66
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: No final de 2025 o país alcançou o recorde de 4.897 milhões de barris de óleo equivalente por dia e os investimentos da Petrobras cresceram 79% no triênio 2023–2025 em relação a 2019–2021.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-035
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: tarifas-e-pobreza-energetica
+  rotulo: 'Gás do Povo: recarga gratuita de GLP para mais de 15 milhões de famílias'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 66
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Com o Gás do Povo, o governo substituiu e ampliou o antigo Auxílio Gás, oferecendo recarga gratuita do botijão de GLP de 13 kg para famílias de baixa renda. O programa atende mais de 15 milhões de famílias, cerca de 50 milhões de pessoas.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-036
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Mistura obrigatória ampliada para E32 e B15
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 68
+    secao: 10. Ampliar a Segurança Energética e liderar a transição para uma economia de baixo carbono
+    literal: Além disso, o mandato de mistura obrigatória de biocombustíveis foi ampliado de 27% para 32% de etanol na gasolina (E32) e de 10% para 15% de biodiesel no diesel (B15), fortalecendo a demanda por biocombustíveis, tornando o Brasil referência na descarbonização dos transportes e ampliando a segurança energética do país.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-037
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Manejo do Fogo, unidades de conservação, restauração e concessões florestais
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 69
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Aprovamos a Política Nacional de Manejo Integrado do Fogo e mobilizamos mais de meio bilhão de reais do Fundo Amazônia para fortalecer a capacidade operacional dos Estados. Incorporamos mais 308 mil hectares às unidades de conservação. Há 3,4 milhões de hectares em processo de restauração florestal e fizemos concessões florestais em um total de 1,6 milhão de hectares.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-038
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Nova NDC (59% a 67% até 2035) e Plano Clima
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 69
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: A nova NDC, entregue em Baku durante a COP29, estabeleceu uma meta de redução de 59% a 67% das emissões líquidas de gases de efeito estufa até 2035, em relação a 2005. O Plano Clima passou a orientar a política climática brasileira até 2035, com 8 planos de mitigação, 16 planos de adaptação e 5 estratégias transversais para ação climática.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-039
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Mercado regulado de carbono (SBCE) instituído
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 70
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: Promovemos uma das principais reformas da política climática nacional ao instituir o mercado regulado de carbono, com a lei que criou o Sistema Brasileiro de Comércio de Emissões (SBCE).
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-040
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: clima-e-adaptacao
+  rotulo: Fundo Clima e Eco Invest mobilizaram R$ 179 bilhões desde 2023
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 70
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: O Fundo Clima e o Eco Invest mobilizaram R$ 179 bilhões desde 2023.
+  meta: null
+  condicionalidade: null
+- id: pt-meio-ambiente-clima-energia-041
+  candidato: lula
+  eixo: meio-ambiente-clima-energia
+  topico: seguranca-hidrica
+  rotulo: 'Novo PAC: R$ 15 bilhões em obras da transposição do São Francisco e cisternas'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 72
+    secao: 11. Promover a Sustentabilidade Ambiental e Climática
+    literal: O Novo PAC retomou os investimentos de segurança hídrica, investindo R$ 15 bilhões em obras complementares da transposição do São Francisco e em 2.800 km de canais e adutoras, 2,2 milhões de m³ em novos reservatórios, recuperação de 162 barragens e construção de 172,4 mil cisternas.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-001
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: seguranca-hidrica
+  rotulo: Concluir e iniciar obras hídricas no Nordeste (Ramal do Apodi, Adutora do Seridó e outras)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 52
+    secao: Brasil que Cresce > Segurança hídrica
+    literal: Vamos retomar essa mesma eficiência para tocar as próximas obras. Iremos concluir, iniciar, executar estruturas como o Ramal do Apodi, o Ramal do Salgado, a Adutora do Seridó, o Canal do Xingó, o Ramal do Piancó, os Canais do Sertão Baiano, Piauiense e Alagoano, o CAC e a duplicação do Eixão das Águas do Ceará, sem o abandono de obras que marcou gestões anteriores.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-002
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: seguranca-hidrica
+  rotulo: Ampliar a infraestrutura contra eventos extremos e reforçar a Defesa Civil
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 52
+    secao: Brasil que Cresce > Segurança hídrica
+    literal: E vamos ampliar a infraestrutura de prevenção a eventos climáticos extremos, com barragens de usos múltiplos, reservatórios de controle de cheias, diques, canais e obras de drenagem e macrodrenagem, além do fortalecimento do monitoramento, alerta e resposta da Defesa Civil.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-003
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Programa Nacional de Segurança Energética, com exploração de gás não convencional
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 52
+    secao: Brasil que Cresce > Energia
+    literal: Nosso objetivo é a segurança energética total ao menor preço possível para o consumidor. O Programa Nacional de Segurança Energética deverá ter foco em refino, processamento, escoamento e transporte de combustíveis e gás, permitir a exploração do gás não convencional (fracking) com responsabilidade ambiental e cumprindo a lei, e expandir e modernizar a rede de transmissão, integrando novas fontes renováveis e reduzindo congestionamentos.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-004
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Expandir a rede de escoamento e transporte de gás, com regras estáveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 52
+    secao: Brasil que Cresce > Energia
+    literal: Vamos dar continuidade a esse caminho,
+  - documento: plano-pl-2026
+    pagina_impressa: 53
+    secao: Brasil que Cresce > Energia
+    literal: 'destravando os investimentos em infraestrutura que o país precisa: o Brasil produz cada vez mais gás no pré-sal, mas desperdiça parte dele por falta de escoamento, enquanto importa gás caro do exterior. Vamos apoiar a expansão da rede de escoamento e transporte de gás conforme a demanda, com segurança jurídica e regras estáveis que atraiam o investimento privado, para integrar à malha os estados hoje desconectados e baratear a energia da indústria e da família.'
+  meta: null
+  condicionalidade: conforme a demanda
+- id: pl-meio-ambiente-clima-energia-005
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Modernizar o refino, baratear o escoamento de combustível e fazer fertilizantes do gás
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 53
+    secao: Brasil que Cresce > Energia
+    literal: Com o mesmo princípio, vamos estimular a modernização do refino rumo ao aproveitamento do petróleo nacional, incentivar o escoamento de combustível ao Centro-Oeste por modais mais baratos que o caminhão, e favorecer a produção nacional de fertilizantes a partir do gás, para reduzir a dependência externa que fragiliza o agronegócio e a nossa segurança alimentar.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-006
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: tarifas-e-pobreza-energetica
+  rotulo: Simplificar a conta de luz e reduzir gradualmente a CDE e as fontes incentivadas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 53
+    secao: Brasil que Cresce > Energia
+    literal: Na energia elétrica, vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados, e promover a redução gradual da CDE e das fontes incentivadas, mantida a tarifa social.
+  meta: null
+  condicionalidade: mantida a tarifa social
+- id: pl-meio-ambiente-clima-energia-007
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: matriz-e-transicao-energetica
+  rotulo: Regular as fontes pelo menor preço, programa de armazenamento e data centers sustentáveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 53
+    secao: Brasil que Cresce > Energia
+    literal: Vamos regular as diversas fontes buscando o menor preço ao consumidor final, implantar um programa de armazenamento de energia, com baterias de grande porte e outras tecnologias, e transformar o país em polo global de data centers sustentáveis, aproveitando a matriz elétrica renovável.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-008
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Potência de biocombustíveis, financiamento ao biogás e Renovabio no exterior
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 53
+    secao: Brasil que Cresce > Energia
+    literal: 'E vamos transformar o Brasil em potência de biocombustíveis: etanol, biodiesel, HVO, SAF e biogás, fomentando a aplicação da Lei do Combustível do Futuro e oferecendo linhas especiais de financiamento para empresas de biogás, que transformam resíduos em energia. Vamos fortalecer e ampliar o Programa Renovabio para o exterior, permitindo que o Brasil venda créditos de carbono ao mundo.'
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-009
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: Consolidar o mercado regulado de carbono e impulsionar a bioeconomia
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 57
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil'
+    literal: E vamos consolidar o mercado regulado de carbono com segurança jurídica, posicionando o Brasil como fornecedor global de ativos ambientais, e impulsionar a bioeconomia, com biotecnologia, fármacos, cosméticos e novos materiais a partir da biodiversidade.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-010
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: Incentivo econômico à preservação e ampliação do pagamento por serviços ambientais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 57
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil'
+    literal: Vamos criar mecanismos de incentivo econômico à preservação, ampliando o pagamento por serviços ambientais e desenvolvendo instrumentos capazes de remunerar produtores, comunidades e proprietários rurais que conservam a vegetação nativa, recuperam áreas degradadas e protegem os recursos hídricos.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-011
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: Uso responsável dos recursos naturais, com segurança jurídica, assistência e crédito
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 58
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil'
+    literal: Garantiremos o uso responsável e sustentável dos recursos naturais, com segurança jurídica e respeito às peculiaridades de cada região, e faremos da tecnologia, da assistência técnica, da capacitação e do crédito os instrumentos que transformam conservação em desenvolvimento e renda.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-012
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Zerar o desmatamento ilegal até 2029 e combater queimadas ilegais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 58
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil > Proteção dos biomas e combate ao crime ambiental'
+    literal: Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo, e combateremos as queimadas ilegais, fortalecendo a prevenção, o monitoramento, a fiscalização e o combate aos crimes ambientais, com ferramentas aperfeiçoadas por inteligência artificial, bancos de dados em tempo real, imagens de satélite e ação coordenada das agências do Estado.
+  meta:
+    valor: 0
+    unidade: desmatamento ilegal
+    prazo: '2029'
+    expressao_no_plano: zerar o desmatamento ilegal até 2029
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-013
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Integrar bases de dados contra grilagem e desmatamento ilegal, sem novos custos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 58
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil > Proteção dos biomas e combate ao crime ambiental'
+    literal: Vamos integrar e aprimorar os sistemas e bases de dados já existentes, utilizando informações fundiárias e ambientais e monitoramento por satélite para tornar a fiscalização mais eficiente e direcionada. O foco será identificar e combater a grilagem de terras, a ocupação ilegal de áreas públicas e os responsáveis pelo desmatamento ilegal, sem criar novas obrigações ou custos desnecessários para o produtor rural que atua dentro da lei.
+  meta: null
+  condicionalidade: sem criar novas obrigações ou custos desnecessários para o produtor rural que atua dentro da lei
+- id: pl-meio-ambiente-clima-energia-014
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: 'Amazônia: fiscalização priorizada e cooperação com vizinhos contra crimes ambientais'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 58
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil > Amazônia: soberania e oportunidade'
+    literal: Vamos fortalecer a fiscalização ambiental, com prioridade para as áreas de maior pressão de desmatamento e queimadas, usando inteligência, satélite e atuação coordenada dos órgãos federais para identificar as áreas críticas com mais rapidez. Vamos ampliar a cooperação com os países vizinhos contra os crimes ambientais transfronteiriços e reforçar o combate às organizações criminosas envolvidas
+  - documento: plano-pl-2026
+    pagina_impressa: 59
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil > Amazônia: soberania e oportunidade'
+    literal: em desmatamento, extração ilegal de madeira, garimpo ilegal e ocupação irregular de terras públicas.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-015
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Não tratar o morador da floresta como criminoso; orientação, regularização e oportunidade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 59
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil > Amazônia: soberania e oportunidade'
+    literal: O morador da Amazônia, o ribeirinho, o pequeno produtor, o extrativista, não será tratado como criminoso por tirar da terra o seu sustento. A ele, o Estado deve orientação e apoio para o bom uso e preservação dos recursos naturais, e não a perseguição que hoje pesa sobre quem menos tem. Vamos acabar com a política que criminaliza o morador da floresta, substituindo a punição cega por um caminho de orientação, regularização e oportunidade.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-016
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: biodiversidade-e-economia-verde
+  rotulo: Ampliar alternativas de renda a partir da floresta preservada
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 59
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil > Amazônia: soberania e oportunidade'
+    literal: E, ao mesmo tempo, vamos ampliar as alternativas de renda a partir da floresta preservada, apoiando cadeias produtivas sustentáveis, manejo responsável, bioeconomia e agregação de valor aos produtos da biodiversidade.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-017
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: desmatamento-e-fiscalizacao
+  rotulo: Eliminar superposições entre Ibama, Funai e ICMBio e exigir transparência das ONGs
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 59
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil > Amazônia: soberania e oportunidade'
+    literal: Vamos eliminar superposições entre Ibama, Funai e ICMBio, dando eficiência à fiscalização, e exigir transparência de financiadores e de projetos das ONGs que recebem recursos internacionais e judicializam ações contra a União, porque onde há dinheiro estrangeiro movendo decisões sobre o território brasileiro há riscos ao interesse nacional, sobre os quais o cidadão brasileiro deve estar informado.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-018
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: seguranca-hidrica
+  rotulo: Eixo Norte da Transposição do São Francisco concluído no governo Bolsonaro
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 52
+    secao: Brasil que Cresce > Segurança hídrica
+    literal: O Eixo Norte da Transposição do Rio São Francisco, foi concluído no governo Bolsonaro, e as águas do Velho Chico finalmente chegaram ao Ceará, à Paraíba e ao Rio Grande do Norte, levando segurança hídrica a milhões de nordestinos.
+  meta: null
+  condicionalidade: null
+- id: pl-meio-ambiente-clima-energia-019
+  candidato: flavio-bolsonaro
+  eixo: meio-ambiente-clima-energia
+  topico: petroleo-gas-e-biocombustiveis
+  rotulo: Nova Lei do Gás sancionada em 2021
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 52
+    secao: Brasil que Cresce > Energia
+    literal: Foi o governo Bolsonaro que sancionou a Nova Lei do Gás, em 2021, quebrando o monopólio, abrindo o setor à concorrência e criando as condições para o preço do gás cair.
+  meta: null
+  condicionalidade: null
