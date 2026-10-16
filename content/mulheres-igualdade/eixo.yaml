@@ -5,12 +5,27 @@ fase: fase2
 ordem: 9
 paginas_nos_planos:
   plano-pt-2026:
-  - 18-26
+  - 19-26
   plano-pl-2026:
   - 17-22
+  - '50'
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: politicas-e-servicos-para-mulheres
+  titulo: Políticas e serviços para mulheres
+- id: violencia-contra-a-mulher
+  titulo: Violência contra a mulher
+- id: autonomia-economica-das-mulheres
+  titulo: Autonomia econômica das mulheres
+- id: cuidados-e-assistencia-social
+  titulo: Cuidados e assistência social
+- id: igualdade-racial-e-diversidade
+  titulo: Igualdade racial, diversidade e combate à discriminação
+- id: povos-indigenas-e-quilombolas
+  titulo: Povos indígenas e quilombolas
+- id: pessoas-idosas-e-com-deficiencia
+  titulo: Pessoas idosas e pessoas com deficiência
+- id: infancia-e-juventude
+  titulo: Infância e juventude
 status:
   propostas: em_preparacao
   acoes: em_preparacao

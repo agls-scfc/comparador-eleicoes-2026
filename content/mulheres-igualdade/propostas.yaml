@@ -1,0 +1,953 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-mulheres-igualdade-001
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Ampliar a proteção às mulheres, combater o feminicídio e garantir direitos reprodutivos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: É preciso ampliar as políticas de proteção às mulheres, combater o machismo, o sexismo e o feminicídio, promover a autonomia econômica, assegurar igualdade de oportunidades e garantir os direitos sexuais e reprodutivos.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-002
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Avançar com a sociedade em medidas de respeito às meninas e mulheres
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: Queremos também, no próximo mandato, avançar, junto com a sociedade, em medidas que mudem e ampliem, cultural e estruturalmente, o respeito às meninas e mulheres.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-003
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Reorganização das redes de proteção e de autonomia das mulheres
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: Reorganizamos as redes de proteção para enfrentar a violência contra as mulheres e de fomento à autonomia das mulheres.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-004
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Manter o Pacto de Enfrentamento ao Feminicídio como guia da estratégia
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: O Pacto de Enfrentamento ao Feminicídio permanecerá como guia central de nossa estratégia de enfrentamento à violência contra mulheres.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-005
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Concluir 30 Casas da Mulher Brasileira e 15 Centros de Referência da Mulher Brasileira
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: Vamos dar sequência ao Pacto, ampliando a rede de proteção às mulheres – concluiremos as 30 Casas da Mulher Brasileira e os 15 Centros de Referência da Mulher Brasileira.
+  meta:
+    valor: 30
+    unidade: Casas da Mulher Brasileira concluídas
+    prazo: null
+    expressao_no_plano: 30 Casas da Mulher Brasileira
+  condicionalidade: null
+- id: pt-mulheres-igualdade-006
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Ampliar as Salas Lilás e distribuir aos estados kits de monitoramento de agressores
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: Ampliaremos as Salas Lilás e vamos adquirir e distribuir aos Estados kits para aprimorar o monitoramento de agressores.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-007
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Capacitar as forças de segurança para o atendimento a mulheres vítimas de violência
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: Seguiremos fomentando a capacitação das forças de segurança para qualificar o atendimento às mulheres vítimas de violência e a punição aos que infligirem a violência.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-008
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Leis e decretos do Pacto, Centro Integrado Mulher Segura e prazo de medidas protetivas
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: Com a parceria dos três poderes da República, em menos de seis meses de vigência do pacto, já foram sancionadas dez leis e editados cinco decretos para ampliar a capacidade do Estado de enfrentar a violência contra a mulher. Criamos o Centro Integrado Mulher Segura e aceleramos o tempo para expedição de Medidas Protetivas de Urgência, que caiu de 16 para 3 dias. Em parceria com estados, executamos operações Mulher Segura, com resultados extraordinários.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-009
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: Crédito no Pronaf, Mulheres Mil, empreendedorismo feminino e mulheres na ciência
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: 'Persistiremos buscando assegurar políticas que apoiem as mulheres em sua inserção no mundo do trabalho, com linhas de crédito mais favorecidas para agricultoras e extrativistas no âmbito do Pronaf; com programas de qualificação específicos, como o Mulheres Mil, que foi retomado no atual mandato: com programas de fomento ao'
+  - documento: plano-pt-2026
+    pagina_impressa: 22
+    secao: 2. Combater as desigualdades
+    literal: empreendedorismo feminino; de apoio à participação das mulheres na ciência e na pesquisa.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-010
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: cuidados-e-assistencia-social
+  rotulo: Fortalecer e dar escala às ações da Política Nacional de Cuidados
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 26
+    secao: 2. Combater as desigualdades
+    literal: Começamos a implementar as ações no âmbito desta política, que, no novo mandato, serão fortalecidas, e ganharão escala e sustentabilidade.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-011
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: cuidados-e-assistencia-social
+  rotulo: Apoiar as Cuidotecas, espaços de acolhida de crianças de 3 a 12 anos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 26
+    secao: 2. Combater as desigualdades
+    literal: Apoiaremos as Cuidotecas, espaços de acolhida de crianças de 3 a 12 anos, que liberam o tempo das mulheres responsáveis pelo cuidado das crianças.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-012
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: cuidados-e-assistencia-social
+  rotulo: Fomentar lavanderias públicas, cozinhas solidárias e restaurantes populares
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 26
+    secao: 2. Combater as desigualdades
+    literal: Fomentaremos a construção de infraestruturas que ampliam os cuidados indiretos e comunitários, como as lavanderias públicas, as cozinhas solidárias e os restaurantes populares.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-013
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: cuidados-e-assistencia-social
+  rotulo: Instituir programa de capacitação de cuidadores
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 26
+    secao: 2. Combater as desigualdades
+    literal: Vamos instituir um programa visando a capacitação de cuidadores com currículos inclusivos, para fazer frente à potencialmente forte expansão da demanda por estes trabalhadores.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-014
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: cuidados-e-assistencia-social
+  rotulo: Fortalecer a Proteção Social Básica e Especial do SUAS, com mais recursos e rede
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 25
+    secao: 2. Combater as desigualdades
+    literal: No próximo mandato, avançaremos ainda mais no fortalecimento da Proteção Social Básica e da Proteção Social Especial de média e alta complexidade, seja com mais recursos para atendimento às populações, seja por meio da expansão e modernização da rede de atendimento.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-015
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: cuidados-e-assistencia-social
+  rotulo: Proteção social para povos tradicionais e integrar o SUAS à agenda climática
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 25
+    secao: 2. Combater as desigualdades
+    literal: Buscaremos também consolidar uma agenda nacional de proteção social para povos e comunidades tradicionais e integrar o SUAS à agenda de enfrentamento das mudanças climáticas e dos desastres, para amplificar a capacidade de o Estado proteger famílias atingidas por eventos extremos.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-016
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: cuidados-e-assistencia-social
+  rotulo: Instituição da Política Nacional de Cuidados
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 25
+    secao: 2. Combater as desigualdades
+    literal: Por isso, o governo Lula instituiu a Política Nacional de Cuidados, que
+  - documento: plano-pt-2026
+    pagina_impressa: 26
+    secao: 2. Combater as desigualdades
+    literal: reconhece o cuidado como um direito universal (a receber cuidados, a cuidar e ao autocuidado), a ser garantido pelo Estado, por meio da corresponsabilização social e entre homens e mulheres pela sua provisão.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-017
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: igualdade-racial-e-diversidade
+  rotulo: Manter o combate ao racismo no centro da estratégia de desenvolvimento
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: Manteremos o combate ao racismo no centro de nossa estratégia de desenvolvimento, pois não é possível compreender nem superar as desigualdades brasileiras sem enfrentar a questão racial como dimensão estruturante da sociedade.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-018
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: igualdade-racial-e-diversidade
+  rotulo: Implementar as deliberações da 5ª Conferência Nacional de Promoção da Igualdade Racial
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: Vamos continuar engajados na implementação das deliberações da 5ª Conferência Nacional de Promoção da Igualdade Racial (V CONAPIR), realizada em 2025, após um intervalo de sete anos.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-019
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: igualdade-racial-e-diversidade
+  rotulo: Avançar na regulamentação do Estatuto da Igualdade Racial
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: Avançaremos ainda mais na regulamentação do Estatuto da Igualdade Racial para a consolidação da equidade como política de Estado.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-020
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: igualdade-racial-e-diversidade
+  rotulo: Continuar o fomento à participação da população negra no serviço público, com cotas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: As políticas de fomento à participação da população negra no funcionalismo público, especialmente nos espaços superiores da gestão governamental, terão continuidade, alinhadas à política de cotas no serviço público que aprimoramos no atual mandato.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-021
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: igualdade-racial-e-diversidade
+  rotulo: Acelerar a implementação da PNEERQ (educação para as relações étnico-raciais)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: Vamos acelerar a implementação da Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (PNEERQ).
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-022
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: igualdade-racial-e-diversidade
+  rotulo: Considerar gênero, orientação sexual e raça nas políticas, incluindo pessoas LGBTQIAP+
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: Continuaremos a planejar e construir políticas e ações levando em conta as dimensões de gênero, identidade, orientação sexual, étnico-raciais e classe social assim como as demais desigualdades sociais, de modo a garantir capacidade de o Estado atender, de forma adequada, justa e inclusiva, às pessoas LGBTQIAP+ e todas as suas especificidades.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-023
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: igualdade-racial-e-diversidade
+  rotulo: Perfil dos estudantes de graduação com a política de cotas e reserva para quilombolas
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: 'Com a política de cotas, a universidade brasileira mudou de rosto: entre os'
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: estudantes de graduação que declaram cor ou raça, 45,5% identificam-se como pretos, pardos ou indígenas, e três em cada quatro ingressantes vêm da escola pública. Neste mandato, a política de cotas foi aperfeiçoada, com a inclusão de reserva para quilombolas.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-024
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Continuar e acelerar o reconhecimento de territórios quilombolas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: Vamos dar continuidade a este processo de reconhecimento do direito ao território, buscando acelerar os procedimentos e garantir que sejam acompanhados de políticas de desenvolvimento territorial.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-025
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Implantar outros campi quilombo dos Institutos Federais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: Implantamos o primeiro campus quilombo dos Institutos Federais, em Minas Nova, e teremos outros mais.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-026
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Proteger territórios indígenas com demarcação e desintrusão de terras
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: Reafirmamos igualmente o compromisso com a proteção dos povos indígenas, de seus territórios, culturas e modos de vida. Persistiremos, garantindo proteção a seus territórios, com ações para demarcação e desintrusão de terras sempre que necessárias.
+  meta: null
+  condicionalidade: sempre que necessárias
+- id: pt-mulheres-igualdade-027
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Basear a educação escolar indígena na autonomia, interculturalidade e multilinguismo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: Persistiremos, assegurando que as políticas de educação escolar indígena estejam fundamentadas no respeito à autonomia dos povos indígenas, na interculturalidade, no multilinguismo e nas formas próprias de produção e difusão de conhecimentos.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-028
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Manter esforços pela qualidade de vida e direitos dos povos, com atenção aos yanomamis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: Manteremos nossos esforços para a elevação da qualidade de vida e da preservação dos direitos de todos os povos, com atenção especial aos yanomamis, submetidos na gestão anterior a um verdadeiro genocídio, cuja
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: reversão dos impactos ainda está em curso.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-029
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Manter atenção diferenciada à saúde indígena, com participação indígena na gestão
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 21
+    secao: 2. Combater as desigualdades
+    literal: A saúde indígena continuará merecendo atenção diferenciada, com os indígenas tendo participação efetiva em sua gestão.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-030
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Titulações de territórios quilombolas e decretos de desapropriação desde 2023
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: Temos orgulho da retomada do processo de titulação de territórios quilombolas, que permitiu, desde 2023, a expedição de 65 titulações e assinatura de 72 decretos de desapropriação por interesse social, recorde histórico.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-031
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Ministério dos Povos Indígenas, homologação de terras e desintrusões
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 20
+    secao: 2. Combater as desigualdades
+    literal: A criação do inédito Ministério dos Povos Indígenas retomou o compromisso do Estado com os povos indígenas. Homologamos 20 novas terras indígenas, somando cerca de 3,2 milhões de hectares de terras protegidas em 11 estados. Publicamos 21 Portarias declaratórias terras indígenas. Realizamos desintrusão em 9 terras, retirando invasores e asseguro o usofruto dos povos indígenas. Na terra Yanomami enfrentamos a emergência em saúde e combatemos o garimpo ilegal, que foi reduzido em 99%.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-032
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Garantia de direitos e territórios a povos e comunidades tradicionais
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 19
+    secao: 2. Combater as desigualdades
+    literal: Voltamos a assegurar aos povos e comunidades tradicionais – indígenas, quilombolas e ribeirinhos – seus direitos, inclusive em relação a seus territórios.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-033
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Intensificar a promoção da autonomia e a garantia do cuidado das pessoas idosas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 22
+    secao: 2. Combater as desigualdades
+    literal: No próximo mandato, intensificaremos tanto as ações de promoção da autonomia das pessoas idosas, voltadas para aquelas pessoas com baixo grau de dependência, quanto medidas centradas na garantia do cuidado para aquelas pessoas com maior dependência.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-034
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Organizar o atendimento a idosos em serviços de convivência e atendimento domiciliar
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 22
+    secao: 2. Combater as desigualdades
+    literal: As estratégias de atendimento serão organizadas a partir de dois eixos. Um centrado no fomento a serviços de atendimento com foco em saúde, lazer, convivência, esporte, assistência social e proteção contra violações de direitos humanos e maus tratos. O outro para atendimento domiciliar, de 'porta em porta', em que o Estado vai até pessoas idosas com dificuldades de locomoção ou que vivam em regiões distantes da rede de proteção social.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-035
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Ampliar o apoio aos municípios para a rede de Centros-Dia e equipamentos para idosos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 22
+    secao: 2. Combater as desigualdades
+    literal: Vamos ampliar o apoio aos municípios para expandir e qualificar a rede de atendimento dos Centros-Dia e outros equipamentos para promoção do envelhecimento saudável e ativo, como academias públicas, praças, espaços de leitura, entre outros.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-036
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Ampliar vagas públicas em ILPIs e aperfeiçoar a fiscalização
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 22
+    secao: 2. Combater as desigualdades
+    literal: Seguiremos apoiando a ampliação das vagas públicas em Instituições de Longa Permanência - ILPIS e aperfeiçoando os mecanismos de fiscalização desses estabelecimentos para garantir condições adequadas de funcionamento e identificar eventuais casos de violações de direitos humanos e maus tratos.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-037
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Levar o PADI Brasil (atenção domiciliar ao idoso) a todo o território nacional
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 22
+    secao: 2. Combater as desigualdades
+    literal: Vamos dar escala a esse programa do SUS para que idosos tenham acesso a esse direito em todo território nacional.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-038
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Ampliar parcerias privadas para qualificar e contratar pessoas com mais de 60 anos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: Vamos ampliar as parcerias com iniciativa privada para qualificação e contratação de pessoas com mais de 60 anos, assim como medidas de valorização dos saberes das pessoas idosas no mercado de trabalho.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-039
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Fortalecer o letramento digital de idosos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: Seguiremos fortalecendo iniciativas de letramento digital buscando ampliar o acesso dos idosos aos serviços públicos digitais e reduzir sua vulnerabilidade a fraudes e crimes cibernéticos.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-040
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Manter o Viver sem Limites e aplicar a legislação de acessibilidade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: Manteremos a implementação do Viver sem Limites. Continuaremos promovendo ambientes inclusivos, com a aplicação rigorosa da legislação de acessibilidade.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-041
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Fortalecer a fiscalização das cotas de contratação de pessoas com deficiência
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: A fiscalização do cumprimento das cotas de contratação de pessoas com deficiência no mercado de trabalho será fortalecida, ampliando a política de inclusão econômica.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-042
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Manter apoio federal à educação inclusiva e à educação bilíngue de surdos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: A educação inclusiva e a educação bilíngue de surdos continuarão recebendo apoio federal, para ampliar a acessibilidade nas escolas, com tecnologia assistiva como recurso individual, estruturar as redes de serviços, ofertar materiais visando à redução de desigualdades regionais e territoriais e atender estudantes em situação de vulnerabilidade de várias ordens.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-043
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Ampliar os Centros Especializados em Reabilitação e as Oficinas Ortopédicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: Na saúde, ampliaremos ainda mais o número de Centros Especializados em Reabilitação e Oficinas Ortopédicas.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-044
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Implantação do PADI Brasil em 2.655 municípios
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 22
+    secao: 2. Combater as desigualdades
+    literal: O Programa de Atenção Domiciliar ao Idoso – PADI Brasil, voltado ao atendimento domiciliar multiprofissional às pessoas idosas com limitações funcionais, condições crônicas e fragilidades clínicas, já está implantado em 2.655 municípios.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-045
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: pessoas-idosas-e-com-deficiencia
+  rotulo: Educação bilíngue de surdos, Viver sem Limites e Centros de Reabilitação no Novo PAC
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 23
+    secao: 2. Combater as desigualdades
+    literal: Lançamos a Política Nacional de Educação Bilingue de surdos estabelecendo a libras como primeira língua e o português escrito como segunda língua em todo o País. Retomamos e ampliamos o Viver sem Limites que reúne medidas e políticas para assegurar e promover os direitos das pessoas com deficiência. O Novo PAC apoiou 52 Centros Especializados em Reabilitação e 17 Oficinas Ortopédicas.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-046
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: 'Ampliar políticas para crianças: pobreza infantil, acesso a políticas e direito ao brincar'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 24
+    secao: 2. Combater as desigualdades
+    literal: Continuaremos buscando ampliar e fortalecer as políticas para nossas crianças, por meio do enfrentamento da pobreza infantil, da garantia de acesso às políticas públicas e do direito ao brincar.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-047
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: Manter o combate à pedofilia e agilizar investigações de crimes contra crianças
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 24
+    secao: 2. Combater as desigualdades
+    literal: O combate à pedofilia continuará prioritário e persistirá sendo executado, envolvendo diferentes esferas governamentais e sociais. Reforçaremos ações de inteligência e justiça para agilizar as investigações e a punição de crimes contra crianças e adolescentes.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-048
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: Ampliar para os jovens o acesso a lazer, cultura, esporte e desenvolvimento profissional
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 24
+    secao: 2. Combater as desigualdades
+    literal: Estamos comprometidos em ampliar, para os jovens, além de mais oportunidades na educação, o acesso ao lazer, à cultura, ao esporte, ao descanso e às oportunidades de desenvolvimento pessoal e profissional.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-049
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: Manter investimentos na rede nacional de cursinhos populares (CPop)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 24
+    secao: 2. Combater as desigualdades
+    literal: Manteremos os investimentos na rede nacional de cursinhos populares (CPop), de modo a facilitar o acesso da juventude ao ensino superior.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-050
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: Dar atenção adicional à política de aprendizagem para o trabalho
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 24
+    secao: 2. Combater as desigualdades
+    literal: A política de aprendizagem para o trabalho, aprimorada no atual mandato, receberá atenção adicional, como mecanismo de estímulo à inserção no mundo do trabalho.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-051
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: Fomentar o empreendedorismo jovem e apoiar a juventude rural com crédito
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 25
+    secao: 2. Combater as desigualdades
+    literal: Persistiremos também criando políticas de fomento ao empreendedorismo entre os jovens e apoiando a juventude rural com crédito e ações específicas para seu perfil.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-052
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: Aprimorar a política de saúde mental para a juventude
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 25
+    secao: 2. Combater as desigualdades
+    literal: Aprimorar a política de saúde mental para a juventude é um de nossos compromissos, com foco na Política Nacional de Atenção Psicossocial, na redução de danos e na desconstrução de preconceitos nas comunidades escolares e universitárias.
+  meta: null
+  condicionalidade: null
+- id: pt-mulheres-igualdade-053
+  candidato: lula
+  eixo: mulheres-igualdade
+  topico: infancia-e-juventude
+  rotulo: Ampliar a participação da juventude nos espaços de decisão
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 25
+    secao: 2. Combater as desigualdades
+    literal: Queremos participação ainda maior da juventude nos espaços de decisão, para que o Estado se torne ainda mais responsivo às suas demandas.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-001
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: 'Programa Brasil por Elas: garantir escolha às mulheres com informação, proteção e renda'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 17
+    secao: Brasil por Elas
+    literal: O Brasil por Elas foi criado para garantir que nenhuma mulher deixe de ter escolha por falta de informação, de proteção, de renda ou de oportunidade.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-002
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Abrir Centrais da Mulher em todo o país, reunindo proteção, saúde, emprego e crédito
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 17
+    secao: Brasil por Elas > Central da Mulher
+    literal: A Central da Mulher será um espaço físico onde a mulher resolve a vida sem perder tempo nem percorrer a cidade inteira. Nela, encontrará acolhimento e proteção, orientação jurídica e apoio psicológico, saúde preventiva, qualificação e cadastramento, a possibilidade de se candidatar a vagas de emprego, orientação para abrir o próprio negócio, crédito, renegociação de dívidas, regularização da casa e acesso a benefícios. Vamos abrir essas centrais em todo o Brasil, em parceria com estados e municípios, em imóveis da União e em conjunto com o Sistema S e instituições públicas e privadas.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-003
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Criar unidades itinerantes da Central da Mulher em caminhões e barcos adaptados
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 17
+    secao: Brasil por Elas > Central da Mulher
+    literal: E teremos unidades itinerantes, como caminhões adaptados que percorrerão o país de ponta a ponta e, onde for preciso, barcos adaptados para atender a população ribeirinha e mais distante.
+  meta: null
+  condicionalidade: onde for preciso
+- id: pl-mulheres-igualdade-004
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Oferecer no aplicativo Central da Mulher todos os serviços das centrais físicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 18
+    secao: Brasil por Elas > Aplicativo Central da Mulher
+    literal: O mesmo lugar que existe perto de casa também estará dentro do celular. Todos os serviços oferecidos nos espaços físicos estarão disponíveis no aplicativo, que vai conectar as mulheres de todo o Brasil, oferecendo trilhas de proteção e de capacitação e o acompanhamento personalizado de toda a jornada.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-005
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Garantir pacotes de internet para mulheres
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 18
+    secao: Brasil por Elas > Bônus de internet
+    literal: Garantiremos pacotes de internet para que nenhuma mulher deixe de estudar, se capacitar, buscar emprego, empreender ou pedir ajuda por falta de conexão.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-006
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: politicas-e-servicos-para-mulheres
+  rotulo: Criar a ClarIA, assistente virtual de orientação e encaminhamento para mulheres
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 18
+    secao: Brasil por Elas > ClarIA
+    literal: A ClarIA estará ao lado da mulher em cada passo. Sempre que surgir uma dúvida ou um problema, ela será a guia, oferecendo atendimento personalizado, orientação e encaminhamento imediato, como ter uma amiga disponível 24 horas por dia.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-007
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Integrar Ligue 180, delegacias online e botão de emergência em uma plataforma
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 18
+    secao: Brasil por Elas > Denúncia facilitada
+    literal: Vamos modernizar e integrar os canais de denúncia, reunindo o Ligue 180, as delegacias online, o botão de
+  - documento: plano-pl-2026
+    pagina_impressa: 19
+    secao: Brasil por Elas > Denúncia facilitada
+    literal: emergência e as centrais de monitoramento em uma plataforma inteligente de resposta rápida. Pelo chat da ClarIA será possível registrar ocorrência, pedir medida protetiva e receber orientação e acolhimento.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-008
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Implantar sistema nacional de avaliação de risco para denúncias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 19
+    secao: Brasil por Elas > Denúncia facilitada
+    literal: Vamos implantar um sistema nacional de avaliação de risco, para que cada denúncia receba atendimento proporcional ao nível da ameaça, priorizando os casos mais graves.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-009
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Monitorar por tornozeleira agressores sob medida protetiva de maior risco
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 19
+    secao: Brasil por Elas > Denúncia facilitada
+    literal: E vamos monitorar por tornozeleira eletrônica os agressores sob medida protetiva de maior risco, alertando de imediato as autoridades e a vítima em caso de descumprimento da ordem judicial ou de aproximação indevida.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-010
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: violencia-contra-a-mulher
+  rotulo: Ampliar os espaços de acolhimento para mulheres em situação de violência
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 20
+    secao: Brasil por Elas > Casa Segura
+    literal: Vamos ampliar os espaços de acolhimento para mulheres em situação de violência, porque nenhuma mulher deve continuar ao lado do agressor por não ter para onde ir.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-011
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: Oferecer orientação financeira a mulheres, incluindo endividamento e apostas online
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 19
+    secao: Brasil por Elas > Orientação financeira
+    literal: 'Vamos oferecer orientação financeira, do primeiro salário ao primeiro patrimônio, com programas para organizar a vida financeira: cuidar do orçamento doméstico, sair do endividamento, criar poupança e se proteger do impacto das apostas online sobre a família.'
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-012
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: 'Criar o Ganha, Ganha: pontos por atitudes convertidos em juros menores e crédito'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 19
+    secao: Brasil por Elas > Ganha, Ganha
+    literal: 'Com o Ganha, Ganha, atitudes como concluir cursos de capacitação, trabalhar de forma regular, poupar e pagar as contas em dia passarão a gerar pontuação positiva. Esses pontos poderão ser convertidos em benefícios concretos: juros menores, cashback, acesso facilitado ao crédito, descontos em serviços e incentivo à poupança.'
+  - documento: plano-pl-2026
+    pagina_impressa: 20
+    secao: Brasil por Elas > Ganha, Ganha
+    literal: 'A participação será totalmente voluntária e as regras, transparentes: ninguém perde direitos ou benefícios por não aderir.'
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-013
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: Ampliar o CAIXA Pra Elas com CAIXA, Banco da Amazônia e Banco do Nordeste
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 20
+    secao: Brasil por Elas > Ganha, Ganha
+    literal: A CAIXA Econômica Federal, o Banco da Amazônia e o Banco do Nordeste serão motores dessa prosperidade, ampliando o programa CAIXA Pra Elas e ajudando milhões de mulheres a construir reputação financeira e formar patrimônio ao longo da vida.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-014
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: Assessorar a mulher a obter a escritura da casa própria no seu nome
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 20
+    secao: Brasil por Elas > Casa Segura
+    literal: 'E vamos assessorar a mulher a obter a escritura da casa própria no seu nome, uma das formas mais sólidas de autonomia e de proteção contra a violência doméstica: um patrimônio que é dela e que um dia passará aos filhos, aconteça o que acontecer.'
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-015
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: Criar a Escola Brasil por Elas, programa gratuito de capacitação feminina
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 20
+    secao: Brasil por Elas > Escola Brasil por Elas
+    literal: A Escola Brasil por Elas será o maior programa gratuito de capacitação feminina da América Latina, integrado aos cursos do Sistema S e a parcerias público-privadas. Para quem quer empreender, trabalhar de casa ou conseguir um emprego melhor, ela oferecerá formação em inteligência artificial, programação, marketing digital, finanças, idiomas e muito mais. Todos os cursos, online ou presenciais, terão certificado ao final e conexão com vagas de emprego e trilhas para quem deseja abrir o próprio negócio.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-016
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: Criar sistema integrado de vagas e banco de dados com RH de empresas para mulheres
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 20
+    secao: Brasil por Elas > Mais Trabalho para Elas
+    literal: Vamos criar um sistema que integre vagas de emprego, qualificação, abertura simplificada de empresa, apoio ao pequeno negócio e intermediação de mão de obra. E vamos montar um grande banco de dados conectado ao RH de empresas de todo o país, para impulsionar de forma mais segura a colocação de mais mulheres no mercado de trabalho.
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-017
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: autonomia-economica-das-mulheres
+  rotulo: Títulos de propriedade rural destinados a mulheres no governo Bolsonaro
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 20
+    secao: Brasil por Elas > Casa Segura
+    literal: 'Essa é uma agenda que já mostrou resultado: durante o governo Bolsonaro, dos cerca de 450 mil títulos de propriedade rural entregues, 90% foram destinados a mulheres.'
+  meta: null
+  condicionalidade: null
+- id: pl-mulheres-igualdade-018
+  candidato: flavio-bolsonaro
+  eixo: mulheres-igualdade
+  topico: povos-indigenas-e-quilombolas
+  rotulo: Dar autonomia a indígenas e quilombolas para decidir atividades produtivas nas terras
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 50
+    secao: 'Brasil que Cresce > Segurança jurídica: a regra do início é a regra do fim'
+    literal: Será conferida autonomia aos povos indígenas e quilombolas para decidir sobre atividades produtivas em suas terras, com respeito ao desenvolvimento sustentável e às regras ambientais, e com indenização de eventuais restrições ao usufruto e mecanismos de compensação, para que quem vive na terra possa dela tirar o próprio sustento.
+  meta: null
+  condicionalidade: null
