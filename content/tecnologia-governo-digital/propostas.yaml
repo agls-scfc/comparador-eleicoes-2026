@@ -1,0 +1,594 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-tecnologia-governo-digital-001
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Universalizar serviços públicos digitais e construir infraestruturas públicas digitais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Vamos continuar investindo na universalização dos serviços públicos digitais de qualidade, e na construção de infraestruturas públicas digitais que deem suporte à personalização dos serviços.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-002
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Criar iniciativas para melhorar a experiência de uso de plataformas públicas como o Gov.br
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Vamos buscar alavancar novas iniciativas que melhorem e facilitem a experiência de uso de plataformas públicas, como o Gov. br, que já reúne mais de 5 mil serviços públicos federais.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-003
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: conectividade-inclusao-digital
+  rotulo: Instituir uma Política Nacional de Letramento Digital
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Instituiremos uma Política Nacional de Letramento Digital, estruturada para capacitar cidadãos de todas as idades a navegar criticamente na rede, combater a desinformação, proteger sua privacidade e transformar o ecossistema digital em um espaço de geração de renda, educação continuada e pleno exercício da cidadania.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-004
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: conectividade-inclusao-digital
+  rotulo: Reduzir o déficit de fibra óptica e ampliar o 5G no campo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Ao mesmo tempo, avançaremos ainda mais na oferta de conectividade significativa. Vamos reduzir o déficit de fibra óptica que ainda atinge 11% dos municípios e ampliar o 5G no campo, com prioridade para Norte, Nordeste e periferias.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-005
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: conectividade-inclusao-digital
+  rotulo: Manter o uso do FUST para apoiar investimentos em conectividade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Manteremos o uso do FUST, que voltou a operar depois de mais de duas décadas, como instrumentos de apoio a investimentos em conectividade em todo o país.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-006
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Desenvolver modelos de linguagem em português apoiados em plataforma nacional de dados
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Vamos desenvolver e sustentar modelos de linguagem em português e outras línguas, voltados aos problemas do País, apoiados numa plataforma nacional de dados para treinamento e avaliação.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-007
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Acelerar a difusão da IA no setor produtivo, com foco em agro, saúde e finanças
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Vamos acelerar a difusão da inteligência artificial no setor produtivo, com foco em agro, saúde e serviços financeiros.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-008
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Investir em instituições públicas de P&D em IA e na indústria de hardware e software
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Vamos investir em instituições públicas de pesquisa e desenvolvimento que já desenvolvem IA e na indústria que produz tecnologia de hardware e software de alto desempenho no país.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-009
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Levar a transformação digital à pequena empresa e à economia popular
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: E vamos levar essa transformação digital à pequena empresa e à economia popular.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-010
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: infraestrutura-digital-data-centers
+  rotulo: Fomentar o ecossistema nacional de tecnologia digital, de datacenters a nuvem e IA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 54
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: No próximo ciclo, vamos fomentar o desenvolvimento do ecossistema nacional de tecnologia digital, desde a cadeia de datacenters até os serviços de nuvem, com destaque para o fortalecimento da inteligência artificial desenvolvida por empresas brasileiras. Mobilizaremos investimentos, inovação, compras governamentais e sinergias entre empresas públicas e privadas, universidades e centros de pesquisa, fortalecendo a capacidade nacional nas cadeias digitais.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-011
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: infraestrutura-digital-data-centers
+  rotulo: Avançar numa infraestrutura computacional soberana, com supercomputadores nacionais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 54
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Vamos avançar numa infraestrutura computacional soberana, com supercomputadores desenvolvidos e operados por instituições nacionais.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-012
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: infraestrutura-digital-data-centers
+  rotulo: Exigir salvaguardas socioambientais na expansão de data centers e infraestruturas de IA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 54
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Vamos assegurar que a expansão de data centers e infraestruturas de inteligência artificial seja acompanhada de salvaguardas socioambientais obrigatórias,
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: exigindo eficiência energética, utilização progressiva de fontes 100% renováveis e avaliação de impactos sobre o sistema elétrico, hídrico e populações locais.
+  meta:
+    valor: 100
+    unidade: '% de fontes renováveis (uso progressivo) em data centers'
+    prazo: null
+    expressao_no_plano: fontes 100% renováveis
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-013
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: infraestrutura-digital-data-centers
+  rotulo: Exigir contrapartidas de conteúdo local e capacidade computacional de datacenters
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Além disso, a instalação dos datacenters em solo brasileiro deve prever contrapartidas de conteúdo local e capacidade computacional para o mercado interno.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-014
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: ciencia-tecnologia-inovacao
+  rotulo: Fortalecer e ampliar os investimentos em ciência, tecnologia e inovação
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 50
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: O governo seguirá fortalecendo e ampliando os investimentos em ciência, tecnologia e inovação, área fundamental para fomentar pesquisas que sustentam o desenvolvimento produtivo do país.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-015
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: ciencia-tecnologia-inovacao
+  rotulo: Dar sequência ao Programa Conhecimento Brasil de repatriação de cientistas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 50
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: Começamos a enfrentar o desafio da repatriação e fixação de talentos científicos,
+  - documento: plano-pt-2026
+    pagina_impressa: 51
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: com o Programa Conhecimento Brasil. Já temos 599 pesquisadores aprovados de 2.500 que demonstraram interesse. Daremos sequência a esta ação, para que cientistas brasileiros possam permanecer ou retornar ao Brasil, contribuindo para o desenvolvimento tecnológico e inovação no País.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-016
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: ciencia-tecnologia-inovacao
+  rotulo: Manter o uso estratégico do FNDCT
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 51
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: Asseguraremos ainda a continuidade do uso estratégico do FNDCT, que sustentou o maior ciclo de investimentos de sua história e deixou de ter seus recursos contingenciados.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-017
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: ciencia-tecnologia-inovacao
+  rotulo: Formar talentos para um hub nacional de competências digitais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Também formaremos talentos para consolidar um hub nacional de competências digitais, reforçando a articulação entre polos de inovação, universidades, centros de pesquisa e setor produtivo.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-018
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Criar um Conselho Nacional pela Soberania Digital, com participação da sociedade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Propomos a criação de um Conselho Nacional pela Soberania Digital, com participação da sociedade.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-019
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Garantir a soberania digital e submeter o ambiente digital às leis brasileiras
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 54
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Garantiremos a soberania digital para que o Brasil e os brasileiros tenham capacidade de desenvolver, operar, regular e governar tecnologias estratégicas e as infraestruturas críticas das quais dependem a economia, os serviços públicos, a ciência, a defesa e a democracia. Isso também significa assegurar que o ambiente digital esteja submetido às leis brasileiras, proteja os direitos fundamentais e sirva ao interesse público.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-020
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Estabelecer regras e infraestrutura para uma economia de dados
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Junto disso, estabeleceremos regras e infraestrutura para uma economia de dados.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-021
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Consolidar a transparência algorítmica e a rastreabilidade de conteúdo sintético
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 55
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Economia digital
+    literal: Vamos consolidar a transparência algorítmica e a rastreabilidade de conteúdo sintético, ancoradas no Centro Nacional de Transparência Algorítmica – porque democracia não convive com decisão automatizada que ninguém pode examinar.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-022
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Aprimorar o ECA Digital e regulamentar telas por faixa etária e plataformas de jogos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 24
+    secao: 2. Combater as desigualdades
+    literal: Não recuaremos um passo sequer na proteção digital de crianças e adolescentes, com aprimoramento do ECA Digital, regulamentação do uso de telas por faixa etária, promoção do uso seguro das tecnologias e regulamentação das plataformas de jogos e dos ambientes digitais.
+  meta: null
+  condicionalidade: null
+- id: pt-tecnologia-governo-digital-023
+  candidato: lula
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Dados tratados como ativos estratégicos e Base de Dados do Brasil
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Com Lula, o governo passou a tratar os dados dos brasileiros e brasileiras como ativos estratégicos. A infraestrutura nacional de dados – a Base de Dados do Brasil – vem avançando na estruturação de ecossistemas de dados para tornar as políticas públicas mais eficazes e criar oportunidades de inovação e maior eficiência.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-001
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Criar um Tesouraço da Burocracia para reduzir o tempo gasto com o Estado
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 24
+    secao: Brasil sem Fila
+    literal: 'Agora vamos concluir esse trabalho, com um Tesouraço da Burocracia que corta pela raiz o que faz o cidadão e o empreendedor perderem tempo. Nosso governo vai inverter de vez a lógica: o Estado passa a ser um só para quem procura por ele, e o tempo do brasileiro volta a ser dele.'
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-002
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Digitalizar 100% dos serviços federais passíveis e não pedir documentos já existentes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 25
+    secao: 'Brasil sem Fila > Estado Digital: todos os serviços na palma da mão'
+    literal: Vamos digitalizar 100% dos serviços públicos do Governo Federal passíveis de digitalização, sob o princípio do digital by design, e eliminar a exigência de reapresentar documentos que o Estado já possui.
+  meta:
+    valor: 100
+    unidade: '% dos serviços públicos federais passíveis de digitalização'
+    prazo: null
+    expressao_no_plano: 100% dos serviços públicos do Governo Federal passíveis de digitalização
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-003
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Criar identidade digital única integrada ao Gov.br, com trilha de serviços por cidadão
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 25
+    secao: 'Brasil sem Fila > Estado Digital: todos os serviços na palma da mão'
+    literal: A identidade digital única, com autenticação integrada ao Gov.br, permitirá que assistentes automatizados montem a trilha de serviços de cada cidadão, inclusive por comando de voz, o que facilita a vida de quem tem mais idade ou menos familiaridade com tecnologia.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-004
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Assegurar serviços digitais simples, intuitivos e acessíveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 25
+    secao: 'Brasil sem Fila > Estado Digital: todos os serviços na palma da mão'
+    literal: Vamos assegurar que esses serviços sejam simples, intuitivos e acessíveis a qualquer cidadão.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-005
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Ampliar o governo digital até que nenhum serviço exija sair de casa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 25
+    secao: 'Brasil sem Fila > Estado Digital: todos os serviços na palma da mão'
+    literal: Vamos aprofundar essa liderança e fazê-la chegar a cada brasileiro, onde quer que ele viva, até que nenhum serviço público exija sair de casa ou perder o dia de trabalho.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-006
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: conectividade-inclusao-digital
+  rotulo: Garantir pacotes de conexão à internet, com prioridade para mulheres do Brasil por Elas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 24
+    secao: Brasil sem Fila > Internet como infraestrutura
+    literal: Vamos garantir pacotes de conexão para que nenhum brasileiro deixe de estudar, se capacitar, buscar emprego, empreender ou pedir ajuda por falta de internet, com prioridade para as mulheres alcançadas pelo Brasil por Elas.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-007
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: conectividade-inclusao-digital
+  rotulo: Levar conectividade a localidades de baixa cobertura, priorizando escolas e áreas rurais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 24
+    secao: Brasil sem Fila > Internet como infraestrutura
+    literal: E vamos levar conectividade às localidades de baixa cobertura, priorizando escolas, áreas rurais e regiões de fronteira, dando continuidade ao trabalho que, no governo Bolsonaro, já havia conectado mais de 11 milhões de pessoas, por meio da instalação de mais de 21.000 pontos de inclusão digital pelo Programa Wi-Fi Brasil.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-008
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Usar assistentes automatizados para indicar serviços e benefícios a cada cidadão
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 25
+    secao: Brasil sem Fila > Inteligência artificial a serviço do cidadão
+    literal: Assistentes automatizados vão indicar a cada brasileiro os serviços e benefícios a que ele tem direito e o caminho para obtê-los, sem que ele precise descobrir sozinho a qual órgão recorrer.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-009
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Usar a assistente ClarIA para acompanhar cada cidadão em sua jornada
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 25
+    secao: Brasil sem Fila > Inteligência artificial a serviço do cidadão
+    literal: A ClarIA, apresentada no Brasil por Elas, acompanhará cada cidadão em sua jornada.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-010
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Oferecer aplicativo de companhia e alerta para idosos que vivem sozinhos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 25
+    secao: Brasil sem Fila > Inteligência artificial a serviço do cidadão
+    literal: E um aplicativo de companhia e alerta dará mais segurança a quem vive sozinho na terceira idade.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-011
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Difundir a IA para micro, pequenas e médias empresas pela Estratégia Nacional de IA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 56
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: A Estratégia Nacional de Inteligência Artificial vai difundir a IA para as micro, pequenas e médias empresas em larga escala, com prioridade para indústria, agronegócio, saúde e logística.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-012
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: inteligencia-artificial
+  rotulo: Induzir a tecnologia por compras públicas e GovTech e elevar patentes de IA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 56
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: Para isso, o Estado atuará como indutor, pelas compras públicas, pelo GovTech e pelo investimento em pesquisa, e vamos elevar a participação brasileira nas patentes de inteligência artificial.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-013
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: infraestrutura-digital-data-centers
+  rotulo: Tornar o Brasil desenvolvedor e produtor de tecnologia, além de consumidor
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 56
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: 'Não seremos apenas consumidores de tecnologia: seremos também seus desenvolvedores e produtores.'
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-014
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: ciencia-tecnologia-inovacao
+  rotulo: Dar alta prioridade à pesquisa e ao desenvolvimento
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 56
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: Daremos alta prioridade à pesquisa e ao desenvolvimento, que são a base da inovação.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-015
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: ciencia-tecnologia-inovacao
+  rotulo: Fortalecer parques tecnológicos, incubadoras e startups e aproximar universidade e empresa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 57
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: 'E vamos construir o ambiente onde a inovação nasce: fortalecer os parques tecnológicos, expandir as incubadoras, apoiar as startups de base tecnológica e aproximar universidades e empresas, com a gestão das universidades integrada à ciência e à tecnologia.'
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-016
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Propor legislação voltada à liberdade de criar e inovar
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 56
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: Proporemos uma legislação voltada à liberdade de criar e inovar, inspirada nas melhores práticas internacionais, para que a tecnologia seja desenvolvida aqui sem entraves, em vez de
+  - documento: plano-pl-2026
+    pagina_impressa: 57
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: sufocada por regras que afugentam o investimento.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-017
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Tratar os dados do cidadão com privacidade e segurança
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 57
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: Os dados do cidadão são dele, não do governo, e serão tratados com privacidade e segurança.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-018
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: soberania-regulacao-dados
+  rotulo: Fortalecer a defesa cibernética e garantir o uso da IA a serviço das pessoas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 57
+    secao: Brasil que Cresce > Tecnologia e inovação
+    literal: Vamos fortalecer a defesa cibernética do país, protegendo serviços públicos, infraestrutura crítica e cidadãos contra ataques e fraudes, e garantir que a inteligência artificial seja usada a serviço das pessoas, não contra elas.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-019
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: Gov.br com 4,9 mil serviços e país em 7º lugar em governo digital (Banco Mundial)
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 23
+    secao: Brasil sem Fila
+    literal: 'O governo do Presidente Jair Bolsonaro transformou o Brasil em uma referência mundial em governo digital: o Banco Mundial classificou o país como o sétimo do mundo em maturidade de governo digital, à frente de todas as nações das Américas, incluindo Estados Unidos e Canadá. A plataforma Gov.br chegou a 4,9 mil serviços do Governo Federal, com 75% deles totalmente digitalizados.'
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-020
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: servicos-publicos-digitais
+  rotulo: PIX, Carteira de Trabalho Digital, prova de vida pelo celular e registros on-line
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 23
+    secao: Brasil sem Fila
+    literal: O PIX deu a milhões de brasileiros um meio de pagamento instantâneo e gratuito, dispensando taxas bancárias. A Carteira de Trabalho Digital foi baixada por 65 milhões de brasileiros, e o seguro-desemprego passou a ser solicitado pelo próprio aplicativo. O idoso passou a fazer prova de vida pelo celular, sem sair de casa. E o Sistema Eletrônico dos Registros Públicos abriu caminho para que registros e consultas em cartório sejam feitos pela internet.
+  meta: null
+  condicionalidade: null
+- id: pl-tecnologia-governo-digital-021
+  candidato: flavio-bolsonaro
+  eixo: tecnologia-governo-digital
+  topico: conectividade-inclusao-digital
+  rotulo: Leilão do 5G realizado no governo Bolsonaro
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 23
+    secao: Brasil sem Fila
+    literal: Foi também o governo Bolsonaro que realizou o leilão do 5G, um dos maiores do mundo, trazendo ao país a rede de nova geração sobre a qual todos esses serviços passam a funcionar.
+  meta: null
+  condicionalidade: null

@@ -5,14 +5,25 @@ fase: fase2
 ordem: 13
 paginas_nos_planos:
   plano-pt-2026:
-  - 16-17
+  - '17'
+  - 50-51
   - 54-55
   plano-pl-2026:
-  - 23-26
+  - 23-25
   - 56-57
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: servicos-publicos-digitais
+  titulo: Serviços públicos digitais e Gov.br
+- id: conectividade-inclusao-digital
+  titulo: Conectividade e inclusão digital
+- id: inteligencia-artificial
+  titulo: Inteligência artificial
+- id: infraestrutura-digital-data-centers
+  titulo: Infraestrutura digital e data centers
+- id: ciencia-tecnologia-inovacao
+  titulo: Ciência, pesquisa e inovação
+- id: soberania-regulacao-dados
+  titulo: Soberania digital, regulação e proteção de dados
 status:
   propostas: em_preparacao
   acoes: em_preparacao
