@@ -1,0 +1,719 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-agro-seguranca-alimentar-001
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: Fortalecer instâncias de participação e governança em segurança alimentar
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 58
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Para o próximo mandato, vamos continuar fortalecendo as instâncias de participação e governança na área da segurança alimentar e da produção de alimentos.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-002
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: Manter iniciativas internacionais contra a fome e avançar em alimentação saudável
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 58
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Daremos seguimento a estas iniciativas no âmbito internacional e, internamente, vamos avançar ainda mais na garantia de alimentação saudável
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: para nossa população.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-003
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: Apoiar estados e municípios a cumprir os percentuais da alimentação escolar
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: No próximo mandato, continuaremos apoiando estados e municípios para cumprirem estes percentuais, inclusive por meio de soluções tecnológicas, como a plataforma Contrata+Brasil.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-004
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: Manter regras de publicidade contra a indução ao consumo de produtos nocivos à saúde
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Vamos também manter regras de publicidade que evitem a indução do consumo de produtos nocivos à saúde.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-005
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: Manter a ampliação do PAA, priorizando alimentos frescos da agricultura familiar
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: A ampliação do PAA será mantida, priorizando a compra de alimentos frescos e
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: diversificados da agricultura familiar e da sociobiodiversidade para equipamentos públicos e famílias vulneráveis.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-006
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: Saída do Mapa da Fome e menor percentual de insegurança alimentar severa
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 58
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: O Brasil saiu do Mapa da Fome – cumprimos um dos mais importantes compromissos políticos assumidos na eleição de 2022. Temos, hoje, o menor percentual de pessoas em insegurança alimentar severa da história.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-007
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: 'Alimentação escolar: 45% da agricultura familiar e 80% de alimentos in natura'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Já ampliamos para 45% o percentual da alimentação escolar a ser comprada da agricultura familiar. E elevamos para 80% a parcela da alimentação escolar composta por alimentos in natura ou minimamente processados.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-008
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Expandir o Plano Safra da Agricultura Familiar, com prioridade para a cesta básica
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Vamos continuar expandindo o Plano Safra da Agricultura Familiar, com juros compatíveis com o perfil do agricultor e tipo de produto, com prioridade para produção de alimentos da cesta básica.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-009
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Reforçar crédito para agroecologia, orgânicos, sociobiodiversidade e máquinas adaptadas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Reforçaremos ainda mais as linhas de crédito específicas para agroecologia, produção orgânica e sociobiodiversidade, a inovação e a introdução de tecnologias e máquinas adaptadas.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-010
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Manter crédito diferenciado para jovens, mulheres agricultoras e cooperativas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Manteremos linhas de crédito diferenciadas para jovens agricultores, promovendo a sucessão familiar e reduzindo o êxodo rural; para mulheres agricultoras, e para cooperativas e associações.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-011
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Simplificar o acesso ao crédito com soluções digitais como o Meu Imóvel Rural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Simplificaremos o acesso ao crédito, escalando soluções digitais, como o aplicativo Meu Imóvel Rural, e tornando processos menos burocráticos.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-012
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Ampliar a Assistência Técnica e Extensão Rural (ATER)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Continuaremos ampliando a oferta de Assistência Técnica e Extensão Rural (ATER).
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-013
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Aperfeiçoar a segurança agropecuária para agroindústrias familiares
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Avançaremos no aperfeiçoamento da segurança agropecuária para agroindústrias familiares, facilitando a comercialização interestadual.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-014
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Fortalecer o Mais Alimentos e a mecanização adaptada às pequenas propriedades
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Retomamos o programa Mais Alimentos e o acesso da agricultura familiar à mecanização adaptada às pequenas propriedades voltou a receber apoio, estratégia fundamental para elevação da produtividade, que será fortalecida.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-015
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Fomentar pesca artesanal e aquicultura familiar pelo Plano Nacional da Pesca Artesanal
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: No novo mandato, manteremos nosso compromisso com o fomento à pesca artesanal e à aquicultura familiar, com a implementação das diretrizes e prioridades estabelecidas no Plano Nacional da Pesca Artesanal (PNPA). Fortaleceremos a promoção da proteção dos territórios pesqueiros, da sociobiodiversidade e dos modos de vida das comunidades das águas como dimensão estratégica do desenvolvimento nacional.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-016
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: agricultura-familiar
+  rotulo: Crédito do Pronaf recorde a cada ano
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 59
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: O crédito disponibilizado por meio do Pronaf foi, ano após ano, recorde, e buscou atender às diferentes necessidades da agricultura familiar.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-017
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Fortalecer o Garantia-Safra e ampliar o seguro rural da agricultura familiar
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Frente à maior frequência da ocorrência de eventos climáticos extremos, daremos especial atenção ao fortalecimento do Programa Garantia-Safra e à ampliação do acesso ao seguro rural da agricultura familiar.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-018
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Ampliar recursos do Plano Safra com juros compatíveis com a rentabilidade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Continuaremos fortalecendo o crédito rural, ampliando os recursos do Plano Safra e assegurando juros compatíveis com a rentabilidade da atividade agropecuária.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-019
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Priorizar no crédito rural máquinas, equipamentos, irrigação e tecnologia
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Queremos consolidar o crédito como instrumento de modernização, priorizando o financiamento de máquinas, equipamentos, sistemas de irrigação e tecnologias para o aumento da produtividade.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-020
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Diversificar o financiamento com mercado de capitais e títulos do agronegócio
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Buscaremos também continuar diversificando as fontes de financiamento, estimulando o mercado de capitais e títulos do agronegócio.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-021
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Simplificar o acesso ao crédito rural com critérios claros
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Haverá medidas para simplificar ainda mais o acesso ao crédito, com processos menos burocráticos e critérios claros.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-022
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Fortalecer o seguro rural e criar instrumento para perdas sistêmicas de safra
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Daremos especial atenção ao fortalecimento da política de seguro rural. Estabeleceremos diálogo com o setor produtivo para viabilizar um instrumento de mitigação dos efeitos das catástrofes para cobrir perdas sistêmicas decorrentes de quebras severas de safra e para promover a educação em gestão de riscos, integrando o seguro rural a instrumentos de comercialização e proteção financeira.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-023
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Recordes de produção de grãos com crédito rural crescente
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: No atual mandato, foram batidos recordes de produção de grãos, graças a uma oferta crescente de crédito rural, em condições adequadas à produção agrícola.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-024
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: terra-e-titulacao
+  rotulo: Avançar na reforma agrária e no crédito fundiário; regularização fundiária no Norte
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Continuaremos a avançar na política de reforma agrária, assentando as famílias acampadas, estruturando os assentamentos e ampliando o acesso ao crédito fundiário. A regularização fundiária, especialmente na região Norte, também é essencial para a segurança jurídica dos produtores rurais e incentivo aos investimentos.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-025
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: 'Priorizar produção sustentável: PLANAPO, Florestas Produtivas e agroflorestas'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: A produção sustentável da agricultura familiar será priorizada. O Plano Nacional de Agroecologia e Produção Orgânica (PLANAPO) vai avançar ainda mais. Vamos ampliar o Programa Nacional de Florestas Produtivas e os sistemas agroflorestais.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-026
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Incentivar agricultores familiares a recuperar áreas degradadas e nascentes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Haverá incentivos para os agricultores familiares recuperarem áreas degradadas e conservar nascentes.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-027
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Programa nacional de resiliência climática no campo, com mais áreas irrigadas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Frente ao crescente risco associado às mudanças climáticas, buscaremos implementar um programa nacional de resiliência climática no campo, ampliando as áreas irrigadas, promovendo a conservação dos solos, incentivando a agricultura de precisão e o plantio direto, além de modernizar ainda mais o monitoramento meteorológico e os sistemas de alerta precoce para os produtores.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-028
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Aprimorar o fomento à Integração Lavoura-Pecuária-Floresta (ILPF)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Aprimoraremos os instrumentos de fomento a sistemas produtivos integrados,
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: como a Integração Lavoura-Pecuária-Floresta (ILPF), para aumentar a retenção de água no solo, reduzir o estresse térmico das culturas e do rebanho e fortalecer a gestão do risco climático como fator de competitividade e continuidade da produção.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-029
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Recuperar pastagens degradadas e apoiar melhoramento genético do rebanho
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Reafirmamos nosso compromisso em fortalecer a pecuária sustentável. Vamos dar sequência ao ousado programa de recuperação de pastagens degradadas, ampliando a eficiência produtiva e a sustentabilidade da pecuária. Continuaremos apoiando o melhoramento genético do rebanho e a nutrição animal de precisão para reduzir o ciclo de abate e as emissões de gases de efeito estufa por quilo de carne produzida.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-030
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fertilizantes-e-tecnologia
+  rotulo: Acelerar a produção nacional de fertilizantes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 63
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: No próximo governo, seguiremos acelerando a produção nacional de fertilizantes.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-031
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fertilizantes-e-tecnologia
+  rotulo: Ampliar o fomento a bioinsumos para reduzir a importação de fertilizantes
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Vamos ampliar o fomento à produção nacional de bioinsumos para reduzir a dependência de fertilizantes químicos importados.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-032
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fertilizantes-e-tecnologia
+  rotulo: Fortalecer a Embrapa com investimentos em biotecnologia e edição genômica
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Devemos acelerar a modernização da agricultura e da pecuária sustentáveis. A Embrapa será fortalecida para consolidar a liderança do Brasil em tecnologia agropecuária tropical, com investimentos em biotecnologia, edição genômica e cultivares mais resistentes a pragas e secas.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-033
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fertilizantes-e-tecnologia
+  rotulo: Expandir a conectividade no meio rural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Fomentaremos a expansão da conectividade no mundo rural, para elevar a produtividade e facilitar a gestão das propriedades.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-034
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: fertilizantes-e-tecnologia
+  rotulo: Petrobras retomou produção de fertilizantes em 3 unidades e obra em MS
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 63
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Os conflitos internacionais evidenciaram a importância da autossuficiência em fertilizantes. Por isso a Petrobras retomou a produção com 3 unidades em Sergipe, Bahia, Paraná e as obras da unidade do Mato Grosso do Sul foram reiniciadas.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-035
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: mercados-e-rastreabilidade
+  rotulo: Fortalecer diplomacia comercial, adidos agrícolas e missões comerciais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Vamos continuar neste caminho, fortalecendo a diplomacia comercial, promovendo a imagem do agronegócio e reforçando a atuação dos adidos agrícolas em mercados estratégicos, além de ampliar as missões comerciais.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-036
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: mercados-e-rastreabilidade
+  rotulo: Apoiar a rastreabilidade individual do rebanho para mercados internacionais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Os produtores serão apoiados na implementação de sistemas de rastreabilidade individual do rebanho, do nascimento ao abate, para atender às exigências dos mercados internacionais.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-037
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: mercados-e-rastreabilidade
+  rotulo: 656 novos mercados abertos para a produção agropecuária
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 62
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: No atual mandato, foram abertos 656 novos mercados para a produção agrícola e pecuária brasileira, permitindo diversificar destinos para nossos produtos e proteger nosso país e produtores das incertezas geopolíticas.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-038
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: trabalho-e-vida-no-campo
+  rotulo: Ampliar o PRONERA, com ensino técnico e superior no campo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Ampliaremos o Programa Nacional de Educação na Reforma Agrária (PRONERA), garantindo acesso ao ensino técnico e superior às populações do campo.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-039
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: trabalho-e-vida-no-campo
+  rotulo: Ampliar o Programa Cisternas em regiões com estresse hídrico
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Ampliaremos o Programa Cisternas em regiões com estresse hídrico, garantindo água para consumo e produção.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-040
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: trabalho-e-vida-no-campo
+  rotulo: Buscar a universalização da energia elétrica no campo, com fontes renováveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Será buscada a universalização do acesso à energia elétrica no campo, priorizando fontes
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: renováveis, como solar e eólica.
+  meta: null
+  condicionalidade: null
+- id: pt-agro-seguranca-alimentar-041
+  candidato: lula
+  eixo: agro-seguranca-alimentar
+  topico: trabalho-e-vida-no-campo
+  rotulo: Fortalecer a prevenção e o combate à violência no campo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 61
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Fortaleceremos políticas de prevenção e combate à violência no campo, assegurando a proteção de quem vive no campo e dos defensores dos direitos humanos e ambientais.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-001
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: fome-e-alimentacao
+  rotulo: Ampliar armazenagem de safras e buscar saídas diplomáticas contra sanções
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: Vamos ampliar a capacidade de armazenamento das safras, para garantir melhores preços ao produtor e oferta contínua à população, e buscar soluções diplomáticas eficazes contra sanções dos Estados Unidos, da China e da Europa aos produtos nacionais.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-002
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: credito-seguro-e-dividas
+  rotulo: Ampliar o Seguro Rural e securitizar e reorganizar dívidas do setor
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: Vamos ampliar o Seguro Rural e trazer ferramentas de securitização e reorganização das dívidas do setor, dando ao produtor o horizonte de mais de um ano que ele precisa para planejar.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-003
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: terra-e-titulacao
+  rotulo: Promover regularização e titulação do pequeno proprietário rural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 27
+    secao: Brasil sem Fila > Menos burocracia no campo
+    literal: Vamos simplificar as outorgas de irrigação e acelerar a regularização fundiária e a titulação do pequeno proprietário rural, retomando o ritmo de titulação que o governo Bolsonaro já havia acelerado, como detalhado no
+  - documento: plano-pl-2026
+    pagina_impressa: 28
+    secao: Brasil sem Fila > Menos burocracia no campo
+    literal: Brasil que Cresce.
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: Vamos retomar esse ritmo e promover ampla regularização e titulação do pequeno proprietário rural, para que quem trabalha a terra tenha o documento que prova que ela é sua, possa acessar crédito e investir com segurança.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-004
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: terra-e-titulacao
+  rotulo: Dar segurança jurídica ao direito de propriedade
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: E traremos segurança jurídica sólida, irreversível e sem margem para relativizações do direito de propriedade, porque ninguém planta e investe no que teme perder.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-005
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: terra-e-titulacao
+  rotulo: Mais de 450 mil documentos de titulação de imóveis rurais emitidos
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: No governo Bolsonaro, foram emitidos mais de 450 mil documentos de titulação de imóveis rurais, mais do que nos dez anos anteriores somados.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-006
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Ampliar a área irrigada, simplificar outorgas e criar polos no Matopiba e semiárido
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: Na irrigação, vamos ampliar significativamente a área irrigada do país, que hoje aproveita apenas uma fração do seu enorme potencial, simplificar as
+  - documento: plano-pl-2026
+    pagina_impressa: 55
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: outorgas, cujo prazo médio hoje é de 24 meses, desenvolver polos de irrigação no Matopiba e no semiárido nordestino e expandir a água de reuso para os períodos de estiagem.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-007
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Concluir a expansão do perímetro irrigado do Baixio do Irecê
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 60
+    secao: 'Brasil que Cresce > Desenvolvimento regional: reduzir a distância entre as regiões'
+    literal: Foi também no governo Bolsonaro que estruturamos e colocamos para produzir o Baixio do Irecê, o maior perímetro de irrigação da América Latina, que já transforma água e terra fértil em fruticultura, grãos, emprego e renda no campo, e vamos concluir sua expansão para multiplicar essa riqueza pelo sertão.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-008
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Implementar metas de SAF a partir de 2027 e ligar o Plano Safra à biomassa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 55
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: Vamos também transformar o campo em fonte de energia limpa. Vamos implementar as metas do combustível sustentável de aviação previstas em lei a partir de 2027, com coordenação permanente entre os ministérios da Agricultura e de Minas e Energia, e articular o Plano Safra com incentivos à produção de biomassa.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-009
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: irrigacao-clima-e-sustentabilidade
+  rotulo: Consolidar o Cadastro Ambiental Rural e ampliar o pagamento por serviços ambientais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 55
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: Vamos consolidar o Cadastro Ambiental Rural e ampliar o pagamento por serviços ambientais para conservação e restauração, de modo que o produtor que preserva a vegetação nativa e recupera áreas degradadas seja reconhecido como parceiro da conservação, e não como suspeito.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-010
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: fertilizantes-e-tecnologia
+  rotulo: Apoiar a produção nacional de fertilizantes com potássio e fosfato do país
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: Vamos apoiar a produção nacional de fertilizantes, aproveitando as reservas de minerais que o país possui, como o potássio e o fosfato, para que o campo brasileiro produza com mais autonomia e a mesa do brasileiro fique mais protegida.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-011
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: mercados-e-rastreabilidade
+  rotulo: Instituir rastreabilidade das cadeias produtivas em sistema único de cadastros
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 28
+    secao: Brasil sem Fila > Menos burocracia no campo
+    literal: Vamos instituir a rastreabilidade completa das cadeias produtivas, integrando em um só sistema os cadastros fundiários e ambientais, as guias de trânsito animal, as autorizações de supressão vegetal e o monitoramento por satélite. [...] Em vez de prestar a mesma informação a vários órgãos, o produtor a presta uma vez só.
+  meta: null
+  condicionalidade: null
+- id: pl-agro-seguranca-alimentar-012
+  candidato: flavio-bolsonaro
+  eixo: agro-seguranca-alimentar
+  topico: trabalho-e-vida-no-campo
+  rotulo: Ligar quem busca trabalho a vagas no campo e permitir retorno ao benefício social
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 54
+    secao: Brasil que Cresce > Agronegócio e Campo
+    literal: 'Vamos aproximar as duas pontas, com qualificação e intermediação que liguem quem busca trabalho a quem precisa de trabalhador no campo. E vamos dar segurança a quem depende de um programa social para aceitar esse trabalho sem medo: quem consegue um emprego, ainda que temporário, poderá voltar ao benefício se precisar, como detalha o Brasil que Prospera.'
+  meta: null
+  condicionalidade: null

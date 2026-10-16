@@ -9,9 +9,24 @@ paginas_nos_planos:
   plano-pl-2026:
   - 27-28
   - 53-55
+  - '60'
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: fome-e-alimentacao
+  titulo: Fome, alimentação e abastecimento
+- id: agricultura-familiar
+  titulo: Agricultura familiar e pesca artesanal
+- id: credito-seguro-e-dividas
+  titulo: Crédito rural, seguro e dívidas
+- id: terra-e-titulacao
+  titulo: Acesso à terra, reforma agrária e titulação
+- id: irrigacao-clima-e-sustentabilidade
+  titulo: Irrigação, clima e produção sustentável
+- id: fertilizantes-e-tecnologia
+  titulo: Fertilizantes, pesquisa e tecnologia
+- id: mercados-e-rastreabilidade
+  titulo: Mercados externos e rastreabilidade
+- id: trabalho-e-vida-no-campo
+  titulo: Trabalho e vida no campo
 status:
   propostas: em_preparacao
   acoes: em_preparacao
