@@ -6,11 +6,24 @@ ordem: 12
 paginas_nos_planos:
   plano-pt-2026:
   - 52-54
+  - '56'
   plano-pl-2026:
-  - 50-51
+  - 49-51
+  - 55-56
+  - '60'
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: planejamento-e-investimento
+  titulo: Planejamento e volume de investimento
+- id: regras-concessoes-e-financiamento
+  titulo: Regras, concessões e financiamento
+- id: rodovias-e-ferrovias
+  titulo: Rodovias e ferrovias
+- id: portos-hidrovias-e-aeroportos
+  titulo: Portos, hidrovias e aeroportos
+- id: desenvolvimento-regional-e-nordeste
+  titulo: Infraestrutura regional e Nordeste
+- id: minerais-criticos
+  titulo: Minerais críticos
 status:
   propostas: em_preparacao
   acoes: em_preparacao

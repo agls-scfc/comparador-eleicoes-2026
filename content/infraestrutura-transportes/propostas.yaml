@@ -1,0 +1,342 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-infraestrutura-transportes-001
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: planejamento-e-investimento
+  rotulo: Expandir o Novo PAC e revisar os planos de longo prazo da logística
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 52
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: Fortalecer o planejamento das ações e dos investimentos em infraestrutura, com uma visão nacional e de longo prazo, proporcionará um desenvolvimento mais equilibrado e sustentável nas diferentes regiões do país. A expansão e o aperfeiçoamento do Novo PAC e a contínua revisão dos planos nacional e setoriais
+  - documento: plano-pt-2026
+    pagina_impressa: 53
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: de longo prazo da logística e suas vertentes rodoviária, ferroviária, hidroviária, aérea e marítima serão importantes instrumentos para tornar a infraestrutura mais integrada, priorizando investimentos com maior potencial de redução das desigualdades e descarbonização.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-002
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: planejamento-e-investimento
+  rotulo: Manter, na nova edição do Novo PAC, obras públicas e concessões em logística
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 53
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: A nova edição do Novo PAC manterá a articulação dos investimentos públicos e privados em infraestrutura logística, dando sequência a obras públicas e concessões.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-003
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: planejamento-e-investimento
+  rotulo: 'Novo PAC: R$ 280 bilhões em infraestrutura em 2025 e R$ 1,3 trilhão executado'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 53
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: O Novo PAC alcançou o objetivo de retomar os investimentos públicos e privados em infraestrutura no País. No ano de 2025, alcançamos o recorde de investimento em infraestrutura, R$ 280 bilhões e devemos fechar 2026 com nova marca ainda maior, R$ 300 bilhões. Ao organizar a carteira de investimentos estratégicos, o Novo PAC orientou as expectativas dos agentes públicos e privados e desencadeou um ciclo virtuoso de investimento. Os dados de execução apontam a realização de R$1,3 trilhão, com empreendimentos que chegaram a 99% dos municípios.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-004
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: regras-concessoes-e-financiamento
+  rotulo: 'Leilões de rodovias: número quadruplicado e 46% das concessões rodoviárias do país'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 53
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: Batemos o recorde de concessões, quadruplicando o número de leilões de rodovias em relação ao governo anterior e alcançando 46% de todas as concessões rodoviárias já realizadas no país.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-005
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: rodovias-e-ferrovias
+  rotulo: Manter concessões rodoviárias; leiloar e repactuar concessões de ferrovias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 53
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: 'Manteremos o ritmo nas concessões rodoviárias e intensificaremos as de ferrovias em duas frentes: leilão de novos projetos e repactuação dos contratos existentes.'
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-006
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: portos-hidrovias-e-aeroportos
+  rotulo: Investir em aeroportos regionais e incentivar novas rotas aéreas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 53
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: Em relação aos aeroportos, tendo em vista que as principais infraestruturas já estão concedidas, daremos continuidade ao fortalecimento dos investimentos em aeroportos regionais e medidas de incentivo a novas rotas aéreas.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-007
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: portos-hidrovias-e-aeroportos
+  rotulo: Prosseguir com arrendamentos portuários e concessão da manutenção de canais de acesso
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 54
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Investimentos em logística
+    literal: Além disso, daremos prosseguimento à política de novos arrendamentos nos portos organizados, bem como aos processos de concessão da manutenção dos canais de acesso e outros serviços portuários.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-008
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: desenvolvimento-regional-e-nordeste
+  rotulo: Aplicar critério de equilíbrio territorial aos programas de infraestrutura
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 56
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Desenvolvimento Regional
+    literal: Continuaremos garantindo que o fomento à inovação, às compras públicas e aos programas de infraestrutura, operem sob o critério de equilíbrio territorial, revertendo a concentração de investimentos em poucos polos do país.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-009
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: desenvolvimento-regional-e-nordeste
+  rotulo: Atrair ao Nordeste indústrias eletrointensivas, inclusive de minerais críticos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 56
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Desenvolvimento Regional
+    literal: Assim como o Nordeste, que apresenta novas perspectivas de desenvolvimento por concentrar hoje cerca de 70% da geração eólica e solar do país. Vamos transformar a região em um polo de atração de plantas industriais eletrointensivas que buscam energia renovável e previsível para produzir com baixa emissão — siderurgia verde, fertilizantes, química, cimento, alumínio, processamento de minerais críticos, hidrogênio de baixo carbono e seus derivados.
+  meta: null
+  condicionalidade: null
+- id: pt-infraestrutura-transportes-010
+  candidato: lula
+  eixo: infraestrutura-transportes
+  topico: minerais-criticos
+  rotulo: Criar política para minerais críticos e terras raras, com agregação de valor no país
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 52
+    secao: 8. Promover uma Economia Mais Sustentável, Produtiva e Digital, Para Todas e Todos > Indústria ainda mais forte, inovadora e verde
+    literal: Desenvolveremos uma política específica para minerais críticos e terras raras, capaz de organizar suas cadeias produtivas, diferenciar seus usos tecnológicos e evitar a simples exportação de matérias-primas estratégicas. promoveremos uma estratégia regional de mapeamento, beneficiamento e agregação de valor, para inserir o país de forma soberana nas cadeias globais de valor desses recursos.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-001
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: planejamento-e-investimento
+  rotulo: Investir R$ 900 bilhões em 4 anos em rodovias, hidrovias, portos, aeroportos e ferrovias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 51
+    secao: Brasil que Cresce > Logística e transporte
+    literal: Vamos investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.
+  meta:
+    valor: 900000000000
+    unidade: reais em rodovias, hidrovias, portos, aeroportos e ferrovias
+    prazo: 4 anos
+    expressao_no_plano: R$ 900 bilhões em quatro anos
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-002
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: planejamento-e-investimento
+  rotulo: Criar Corredores Logísticos Inteligentes do Centro-Oeste até os portos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 51
+    secao: Brasil que Cresce > Logística e transporte
+    literal: Criaremos os Corredores Logísticos Inteligentes de integração nacional, com foco em reduzir o custo da logística, hoje em 15,5% do PIB, muito acima dos 8,8% dos Estados Unidos, desenvolvendo os corredores de escoamento do Centro-Oeste até os portos.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-003
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: regras-concessoes-e-financiamento
+  rotulo: Apoiar a infraestrutura na iniciativa privada, com regras tarifárias estáveis
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 50
+    secao: Brasil que Cresce > Logística e transporte
+    literal: 'Nossa estratégia de infraestrutura se apoia na iniciativa privada: o Estado garante segurança jurídica, regras tarifárias estáveis e previsíveis e respeito à lógica das decisões econômicas privadas, sem intervenções que distorçam os incentivos de mercado, e é sobre essa base que o investimento privado assume a construção e a operação.'
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-004
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: regras-concessoes-e-financiamento
+  rotulo: Adotar financiamento com fundo de ativos da União, PPPs, concessões e BNDES
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 50
+    secao: Brasil que Cresce > Logística e transporte
+    literal: Vamos modernizar os marcos regulatórios e adotar um novo modelo de financiamento para toda a infraestrutura, com fundo lastreado na securitização de ativos e imóveis da União, uso intensivo de PPPs e concessões e financiamentos do BNDES
+  - documento: plano-pl-2026
+    pagina_impressa: 51
+    secao: Brasil que Cresce > Logística e transporte
+    literal: exclusivamente para obras em território brasileiro.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-005
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: regras-concessoes-e-financiamento
+  rotulo: Fixar prazo para licenciamento e conceder a licença se o órgão não decidir no prazo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 49
+    secao: 'Brasil que Cresce > Segurança jurídica: a regra do início é a regra do fim'
+    literal: 'Parte essencial de mudar essa lógica é um licenciamento ambiental ágil, moderno e com segurança jurídica: grandes obras, usinas, minas e projetos industriais vivem parados anos à espera de uma licença, e cada mês de atraso é investimento que foge e emprego que não vem. Vamos assegurar regras claras, prazos definidos e critérios técnicos, com a certeza de que agilidade e responsabilidade ambiental caminham juntas. O prazo tem que valer para os'
+  - documento: plano-pl-2026
+    pagina_impressa: 50
+    secao: 'Brasil que Cresce > Segurança jurídica: a regra do início é a regra do fim'
+    literal: dois lados. Quando o empreendedor cumpre a lei e apresenta tudo o que a norma exige, o órgão responsável deve ter um prazo definido para concluir a análise. Se não decidir nem se manifestar dentro desse prazo, a licença deve ser concedida, porque a demora do Estado não pode ser um castigo para quem fez a sua parte.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-006
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: regras-concessoes-e-financiamento
+  rotulo: Criar mecanismos de estabilidade de regras por até 20 anos para grandes projetos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 50
+    secao: 'Brasil que Cresce > Segurança jurídica: a regra do início é a regra do fim'
+    literal: Vamos também garantir que a regra combinada no início seja a regra do fim. Para os grandes projetos de longa maturação, criaremos mecanismos de estabilidade das regras de até 20 anos, para que o contrato não seja mudado depois que a obra já estiver de pé.
+  meta:
+    valor: 20
+    unidade: anos de estabilidade das regras para grandes projetos
+    prazo: null
+    expressao_no_plano: estabilidade das regras de até 20 anos
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-007
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: regras-concessoes-e-financiamento
+  rotulo: Responsabilizar o Estado por prejuízos se rever licença obtida de boa-fé
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 50
+    secao: 'Brasil que Cresce > Segurança jurídica: a regra do início é a regra do fim'
+    literal: E quando o empreendedor age de boa-fé e obtém regularmente a sua licença, o Estado deve responder pelos prejuízos se voltar atrás sem que o empreendedor tenha dado causa, em vez de jogar a conta sobre quem confiou na palavra que recebeu.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-008
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: rodovias-e-ferrovias
+  rotulo: 'Avançar em ferrovias: Ferrogrão, trem MT-PR-SC, Trem do Nordeste e Transnordestina'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 51
+    secao: Brasil que Cresce > Logística e transporte
+    literal: No transporte ferroviário, vamos destravar a Ferrogrão; adotar o trem de cargas que ligará Mato Grosso, o oeste do Paraná e Santa Catarina; implantar o Trem do Nordeste, uma malha de passageiros ligando capitais da região, para aproximar cidades, movimentar o turismo e integrar o Nordeste; e concluir a Transnordestina e ampliar o seu escopo para que a Paraíba e o Rio Grande do Norte sejam contemplados.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-009
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: portos-hidrovias-e-aeroportos
+  rotulo: Destravar projetos de infraestrutura fluvial, como a Hidrovia do Tapajós
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 51
+    secao: Brasil que Cresce > Logística e transporte
+    literal: Vamos trabalhar para destravar, sempre com responsabilidade ambiental, os projetos de infraestrutura fluvial que escoam a produção do país, como a Hidrovia do Tapajós, com planejamento e diálogo prévio com as comunidades locais, cumprindo a lei e levando sempre em consideração o interesse maior da sociedade.
+  meta: null
+  condicionalidade: sempre com responsabilidade ambiental
+- id: pl-infraestrutura-transportes-010
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: desenvolvimento-regional-e-nordeste
+  rotulo: Viabilizar o Trem do Nordeste, com 1.400 km de trilhos entre sete capitais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 60
+    secao: 'Brasil que Cresce > Desenvolvimento regional: reduzir a distância entre as regiões'
+    literal: Vamos viabilizar o Trem do Nordeste, 1.400 km de trilhos interligando Salvador, Aracaju, Maceió, Recife, João Pessoa, Natal e Fortaleza, abrindo um roteiro entre praias, cidades históricas e polos culturais para movimentar o turismo, a produção e a vida de quem vive ali.
+  meta:
+    valor: 1400
+    unidade: km de trilhos do Trem do Nordeste
+    prazo: null
+    expressao_no_plano: 1.400 km de trilhos
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-011
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: minerais-criticos
+  rotulo: Agregar valor aos minerais críticos no país, com o Estado como regulador e coordenador
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 55
+    secao: Brasil que Cresce > Minerais críticos
+    literal: 'Em vez de somente exportar a pedra bruta e comprar de volta o produto acabado, vamos agregar valor no Brasil, conectando nossa riqueza mineral, nossa energia e a demanda dos data centers e das novas tecnologias numa estratégia única. O Estado atuará como regulador e coordenador, não como empresário, apoiado em seis pilares: marco regulatório claro e estável, licenciamento ágil e técnico, atração de capital e tecnologia, verticalização com incentivos de mercado, governança e transparência.'
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-012
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: minerais-criticos
+  rotulo: Atrair capital estrangeiro e tecnologia para a mineração
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 55
+    secao: Brasil que Cresce > Minerais críticos
+    literal: Vamos trabalhar para atrair o capital estrangeiro e a tecnologia que já existem no mundo, aplicando aqui o que outros países já dominam e transferindo esse conhecimento ao Brasil. Para termos sucesso nesse desafio, vamos tratar o investimento na mineração com o mesmo respeito e atenção com que trataremos o investimento na indústria de transformação.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-013
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: minerais-criticos
+  rotulo: Estabelecer parcerias internacionais em minerais críticos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 55
+    secao: Brasil que Cresce > Minerais críticos
+    literal: Estabeleceremos parcerias internacionais com todos os
+  - documento: plano-pl-2026
+    pagina_impressa: 56
+    secao: Brasil que Cresce > Minerais críticos
+    literal: países que queiram a cooperação do Brasil, sem preconceitos ou ranços ideológicos.
+  meta: null
+  condicionalidade: null
+- id: pl-infraestrutura-transportes-014
+  candidato: flavio-bolsonaro
+  eixo: infraestrutura-transportes
+  topico: minerais-criticos
+  rotulo: Equacionar garantias de crédito e acelerar licenciamento e direitos minerários
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 56
+    secao: Brasil que Cresce > Minerais críticos
+    literal: Vamos equacionar as garantias de crédito ao financiamento dos projetos e acelerar o licenciamento e o processo de direitos minerários.
+  meta: null
+  condicionalidade: null
