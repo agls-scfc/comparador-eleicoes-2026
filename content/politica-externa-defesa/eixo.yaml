@@ -9,8 +9,18 @@ paginas_nos_planos:
   plano-pl-2026:
   - 61-64
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: principios-e-posicionamento
+  titulo: Princípios e posicionamento internacional
+- id: integracao-regional-e-parcerias
+  titulo: Integração regional e parcerias
+- id: comercio-e-economia-externa
+  titulo: Comércio e economia externa
+- id: multilateralismo-e-agenda-global
+  titulo: Multilateralismo e agenda global
+- id: brasileiros-no-exterior
+  titulo: Brasileiros no exterior
+- id: defesa-e-soberania
+  titulo: Defesa e soberania
 status:
   propostas: em_preparacao
   acoes: em_preparacao

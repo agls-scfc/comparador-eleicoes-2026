@@ -1,0 +1,473 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-politica-externa-defesa-001
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: Política de defesa baseada em autonomia estratégica, inovação e dissuasão
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 78
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Defendemos uma política de defesa baseada na autonomia estratégica, na inovação tecnológica, na integração entre defesa e desenvolvimento e na combinação entre persuasão diplomática e capacidade de dissuasão, o que exige um orçamento nacional consoante a essas necessidades e responsabilidades.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-002
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: Fortalecer a Base Industrial e Tecnológica de Defesa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 78
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Por isso, fortaleceremos a Base Industrial e Tecnológica de Defesa, de modo a assegurar maior autonomia nacional nesse campo e estimular inovações com impactos positivos sobre o conjunto da economia.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-003
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: Reforçar a defesa cibernética e reduzir a dependência externa em áreas estratégicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 79
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Reforçaremos a defesa cibernética, protegendo infraestruturas críticas e bases de dados governamentais, desenvolvendo tecnologias próprias e reduzindo a dependência externa em áreas estratégicas.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-004
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: Fortalecer a Inteligência de Estado, em caráter civil e sob controle democrático
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 79
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Fortaleceremos a Inteligência de Estado como instrumento de proteção da soberania, da capacidade decisória e da segurança nacional diante de ameaças geopolíticas, tecnológicas, cibernéticas e do crime organizado transnacional. A atividade será exercida em caráter civil, subordinada ao Estado Democrático de Direito, à neutralidade político-partidária, aos direitos fundamentais e ao controle democrático, rejeitando seu uso para fins de perseguição política.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-005
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: Proteger fronteiras, Amazônia e Amazônia Azul; fronteiras como espaços de integração
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 79
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Protegeremos as fronteiras, a Amazônia e a Amazônia Azul. Fortaleceremos a vigilância territorial, a proteção dos recursos naturais e o combate ao crime organizado transnacional. As regiões de fronteira serão tratadas como espaços estratégicos de integração e desenvolvimento, com maior presença do Estado, infraestrutura, serviços públicos e cooperação com os países vizinhos.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-006
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: principios-e-posicionamento
+  rotulo: Reafirmar os princípios constitucionais da política externa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 79
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Seguiremos reafirmando os princípios constitucionais que orientam a política externa brasileira — independência nacional, prevalência dos direitos humanos, autodeterminação dos povos, não-intervenção, igualdade entre os Estados, defesa da paz, solução pacífica dos conflitos, repudio ao terrorismo e ao racismo, cooperação entre os povos para o progresso da humanidade e concessão de asilo político —, porque acreditamos em um país com autonomia para decidir seus
+  - documento: plano-pt-2026
+    pagina_impressa: 80
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: próprios rumos, livre de interferências externas e comprometido com a paz, a cooperação e o direito internacional.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-007
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: principios-e-posicionamento
+  rotulo: Oposição a qualquer tentativa de subordinar o Brasil a interesses estrangeiros
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 83
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Faremos firme oposição a qualquer tentativa de subordinar o Brasil a interesses estrangeiros ou de reduzir nosso país a uma posição de dependência geopolítica.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-008
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: principios-e-posicionamento
+  rotulo: Defender uma ordem mundial baseada em reciprocidade e cooperação pacífica
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 80
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Manteremos o empenho na construção de uma ordem mundial mais justa e equilibrada, livre da lógica da submissão, das imposições unilaterais e dos esquemas obsoletos de uma nova Guerra Fria. O Brasil defenderá relações internacionais fundadas na reciprocidade, na cooperação pacífica e no respeito entre as nações.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-009
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: integracao-regional-e-parcerias
+  rotulo: Aprofundar o Mercosul e a integração sul-americana
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 80
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Na política externa, o Brasil deverá ser cada vez mais independente, ativo e comprometido com a integração regional e com a afirmação da América do Sul e do Caribe como zona de paz. A integração sul-americana é o primeiro círculo de projeção estratégica do Brasil. Seguiremos aprofundando o Mercosul e os espaços de integração regional, especialmente nas áreas de infraestrutura, defesa, segurança pública, energia e saúde. Consolidaremos o Mercosul como principal plataforma de integração econômica, produtiva, política e social da América do Sul.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-010
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: integracao-regional-e-parcerias
+  rotulo: Integração em infraestrutura, mercado sul-americano de energia e fortalecimento da OTCA
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 80
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Aprofundaremos a integração em infraestrutura, priorizando redes multimodais, com destaque para as conexões com o Pacífico e o Caribe. Promoveremos um mercado comum sul-americano de energia, com interconexões e coordenação regulatória. Consolidaremos a Amazônia como eixo estratégico da integração regional fortalecendo a Organização do Tratado de Cooperação Amazônica (OTCA) na bioeconomia, na ciência, no financiamento verde e no combate coordenado aos ilícitos transnacionais.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-011
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: integracao-regional-e-parcerias
+  rotulo: Manter uma política externa universalista e diversificar parcerias estratégicas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 80
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Manteremos uma política externa universalista e ampliaremos os esforços de cooperação e negociação com todas as regiões do mundo, diversificando nossas parcerias estratégicas.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-012
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: integracao-regional-e-parcerias
+  rotulo: Aprofundar relações com a África, o Atlântico Sul, a CPLP, a União Africana e a ASEAN
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 80
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Aprofundaremos as relações com a África, reconhecendo sua crescente importância na ordem internacional e os laços históricos e culturais que unem o Brasil ao continente africano. Consolidaremos o Atlântico Sul como região de paz, cooperação e desenvolvimento e fortaleceremos a Comunidade dos Países de Língua Portuguesa (CPLP). Promoveremos mecanismos permanentes de
+  - documento: plano-pt-2026
+    pagina_impressa: 81
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: cooperação com a União Africana e a Associação de Nações do Sudeste Asiático (ASEAN).
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-013
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: integracao-regional-e-parcerias
+  rotulo: Reaproximação com Ásia, Oriente Médio e Europa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 81
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Persistiremos na reaproximação com a Ásia, o Oriente Médio e a Europa regiões com grande potencial para ampliar a cooperação política, econômica, tecnológica e cultural.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-014
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: integracao-regional-e-parcerias
+  rotulo: Aprofundar a aproximação com BRICS, Sul Global e G20; ampliar a Cooperação Sul-Sul
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 81
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Aprofundaremos a aproximação geopolítica com o BRICS e com o Sul Global, bem como com o G20, espaços fundamentais para a afirmação dos interesses da maioria da humanidade. Ampliaremos a Cooperação Sul-Sul em áreas nas quais o Brasil é referência contribuindo para a redução das desigualdades globais.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-015
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: Novos acordos comerciais e abertura de novos mercados
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 80
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Investiremos em novos acordos comerciais e na abertura de novos mercados para nossos bens e serviços, de modo a continuar enfrentando agressões comerciais e a defender os interesses do país com base nas normas internacionais e no multilateralismo.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-016
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: Reformar a OMC e a arquitetura financeira internacional (FMI, Banco Mundial, NDB)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 81
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Seguiremos advogando a reforma e fortalecimento da Organização Mundial do Comércio, defendendo a retomada do mecanismo de solução de controvérsias, o tratamento diferenciado para os países em desenvolvimento e a articulação entre comércio, sustentabilidade e acesso a tecnologias verdes. Defenderemos a reforma da arquitetura financeira internacional, com a democratização do FMI, do Banco Mundial e dos bancos multilaterais e o fortalecimento do CAF, do Novo Banco de Desenvolvimento (NDB) e dos mecanismos financeiros dos BRICS.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-017
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: multilateralismo-e-agenda-global
+  rotulo: Reforma das Nações Unidas e do Conselho de Segurança
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 81
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Continuaremos engajados na reforma das Nações Unidas, especialmente do Conselho de Segurança, para torná-lo mais democrático e representativo, com maior participação dos países em desenvolvimento entre os membros permanentes
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-018
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: multilateralismo-e-agenda-global
+  rotulo: Acelerar os ODS e priorizar a Aliança Global contra a Fome e o clima (TFFF)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 81
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Será necessário redobrado protagonismo diplomático brasileiro para acelerar o cumprimento global dos Objetivos de Desenvolvimento Sustentável (ODS) em seus anos finais de implementação e negociar uma nova agenda de desenvolvimento sustentável pós-2030. Serão prioridades de nossa ação externa a implementação da Aliança Global contra a Fome e a Pobreza e o enfrentamento da emergência climática, inclusive o Fundo Florestas Tropicais para Sempre (TFFF).
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-019
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: multilateralismo-e-agenda-global
+  rotulo: Liderar a governança internacional das tecnologias digitais e da inteligência artificial
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 81
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Queremos liderar a construção de uma governança internacional para as
+  - documento: plano-pt-2026
+    pagina_impressa: 82
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: tecnologias digitais e a inteligência artificial, baseada na soberania digital com proteção de dados, cooperação científica, transferência de tecnologias estratégicas e regulamentação democrática das plataformas digitais e da IA.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-020
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: multilateralismo-e-agenda-global
+  rotulo: Reforçar compromissos internacionais em direitos humanos e igualdade de gênero e raça
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 82
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Reforçaremos os compromissos internacionais do Brasil em matéria de direitos humanos e igualdade de gênero e raça, trabalhando para evitar retrocessos na garantia de direitos.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-021
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: brasileiros-no-exterior
+  rotulo: Proteção consular e participação da diáspora
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 82
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Valorizaremos e protegeremos as brasileiras e os brasileiros no exterior, fortalecendo a assistência e a proteção consular, ampliando os mecanismos de participação da diáspora e reconhecendo seu papel como elo cultural, econômico e afetivo entre o Brasil e o mundo.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-022
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: Capacitação das Forças Armadas e nova legislação orçamentária para a defesa
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 78
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Retomamos o investimento na capacitação tecnológica de nossas Forças Armadas e o fortalecimento da política de defesa nacional. Aprovamos nova legislação orçamentária que assegura previsibilidade e continuidade para os investimentos em defesa, o que garante continuidade dos projetos e fortalece a Base Industrial e Tecnológica de Defesa como vetor de inovação, geração de empregos qualificados, exportações e neoindustrialização.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-023
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: 'Novo PAC: R$ 20,4 bilhões em defesa, caças Gripen, KC-390, fragatas e blindados'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 78
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Com o Novo PAC, o Brasil tem alavancado fortemente os investimentos na área de Defesa. Desde 2023 já foram executados R$ 20,4 bilhões em projetos estratégicos. Entregamos 7 caças gripens-F-39, tendo sido produzida a primeira aeronave em solo brasileiro este ano. Adquirimos 3 cargueiros KC-390 fabricados no país. Estamos construindo 4 fragatas, a primeira já em operação. Produzimos 226 viaturas blindadas.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-024
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: principios-e-posicionamento
+  rotulo: Brasil sediou COP30, Cúpula dos BRICS e Cúpula do G20; políticas restauradas
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 79
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: O Brasil voltou a ser ouvido e respeitado no mundo. Restauramos políticas que sempre nos diferenciaram, como o combate ao desmatamento na Amazônia, o enfrentamento ao aquecimento global, a defesa e a proteção de refugiados, o compromisso com a paz. Sediamos, com sucesso, eventos internacionais, como a COP 30, a 17ª Cúpula dos BRICS, a 19ª Cúpula de Chefes de Estado do G20.
+  meta: null
+  condicionalidade: null
+- id: pt-politica-externa-defesa-025
+  candidato: lula
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: 656 novos mercados abertos e acordos do Mercosul com União Europeia, EFTA e Singapura
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 79
+    secao: 13. Defender a soberania nacional e o protagonismo internacional do Brasil
+    literal: Propusemos a criação de mecanismos inovadores como a Aliança Global contra a Fome e a Pobreza e o Fundo Florestas Tropicais para Sempre (TFFF). Nossa diplomacia comercial permitiu abrir 656 novos mercados para os produtos brasileiros e a conclusão de acordos do Mercosul com a União Europeia, EFTA e Singapura. E o Brasil foi reinserido na rota do turismo internacional, com recordes de estrangeiros vindo visitar nosso País.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-001
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: principios-e-posicionamento
+  rotulo: Diplomacia pautada por profissionalismo e pragmatismo, com Itamaraty técnico
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 62
+    secao: Brasil que Cresce > Soberania com profissionalismo, não com ideologia
+    literal: 'Nossa proposta é o oposto: uma diplomacia guiada pelo profissionalismo e pelo pragmatismo, não pela ideologia. O Itamaraty voltará a ser conduzido pela competência técnica que sempre marcou seus quadros, e o Brasil voltará a privilegiar os parceiros interessados no ganho mútuo do comércio, sem escolher amigos por afinidade ideológica.'
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-002
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: principios-e-posicionamento
+  rotulo: 'Reverter o afastamento de parceiros tradicionais: Argentina, Estados Unidos e Israel'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 62
+    secao: Brasil que Cresce > Soberania com profissionalismo, não com ideologia
+    literal: Não trataremos como adversários os nossos parceiros mais importantes e tradicionais. Nos últimos anos, as relações com países como Argentina, Estados Unidos e Israel foram levadas ao limite do rompimento. Vamos reverter esse quadro com profissionalismo e foco no interesse do Brasil.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-003
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: integracao-regional-e-parcerias
+  rotulo: Negociar com todos os países de interesse, da China à União Europeia e aos Estados Unidos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 62
+    secao: Brasil que Cresce > Soberania com profissionalismo, não com ideologia
+    literal: Negociaremos com todos os que interessam ao Brasil, da China à União Europeia, dos Estados Unidos aos mercados asiáticos, porque o que orienta a nossa diplomacia é o interesse do produtor e do trabalhador brasileiro, não a simpatia ou a antipatia por este ou aquele governo.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-004
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: Equilibrar abertura comercial e redução da dependência em áreas críticas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 62
+    secao: Brasil que Cresce > Brasil no mundo
+    literal: Nosso projeto equilibra a abertura comercial com o papel do Estado de evitar a dependência excessiva em áreas críticas, como as cadeias de suprimentos e de tecnologia. É uma diplomacia que reconhece o peso de atores que vão além dos Estados, e que trabalha para aprofundar a inserção do Brasil junto aos principais polos econômicos e tecnológicos do mundo e para avançar em acordos que ampliem mercados e reduzam vulnerabilidades.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-005
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: Retomar a adesão à OCDE, incluindo o fim gradual do IOF sobre o câmbio
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 63
+    secao: Brasil que Cresce > Brasil no mundo
+    literal: O passo mais urgente é retomar o cronograma interrompido de adesão à OCDE, incluindo o fim gradual do IOF sobre o câmbio, que é condição obrigatória do processo.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-006
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: Preparar abertura comercial com acesso a bens de capital, tecnologia e insumos importados
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 63
+    secao: Brasil que Cresce > Brasil no mundo
+    literal: E vamos nos preparar para uma abertura comercial que dê ao setor produtivo acesso a bens de capital, tecnologia e insumos importados, num ambiente de concorrência que reduz preços e melhora a oferta ao consumidor.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-007
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: Plano nacional de integração às cadeias globais de valor e apoio à internacionalização
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 63
+    secao: Brasil que Cresce > Brasil no mundo
+    literal: Vamos executar um plano nacional de integração às cadeias globais de valor, com apoio real para o setor produtivo ganhar produtividade, tendo como prioridade a agroindústria avançada, os minerais críticos, a saúde e a economia digital, e apoiar a internacionalização das pequenas e médias empresas via BNDES e Apex-Brasil, para que o produto brasileiro chegue mais longe.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-008
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: 'Meta para 2030: Brasil entre os principais destinos de investimento em energia limpa'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 63
+    secao: Brasil que Cresce > Brasil no mundo
+    literal: 'Nossa energia limpa e a sustentabilidade são vantagens competitivas que sustentam essa projeção: nossa meta para 2030 é posicionar o Brasil entre os principais destinos mundiais de investimento em transição energética, tendo os biocombustíveis, a energia solar, a eólica e o hidrogênio verde como alavancas e a diplomacia como instrumento permanente.'
+  meta:
+    valor: null
+    unidade: posição entre os principais destinos de investimento em transição energética
+    prazo: '2030'
+    expressao_no_plano: nossa meta para 2030
+  condicionalidade: null
+- id: pl-politica-externa-defesa-009
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: comercio-e-economia-externa
+  rotulo: Fortalecer as multinacionais brasileiras
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 63
+    secao: Brasil que Cresce > Brasil no mundo
+    literal: E vamos fortalecer as multinacionais brasileiras, ampliando sua presença internacional pela abertura econômica, pela adesão às regras da OCDE e por acordos comerciais de ganho mútuo.
+  meta: null
+  condicionalidade: null
+- id: pl-politica-externa-defesa-010
+  candidato: flavio-bolsonaro
+  eixo: politica-externa-defesa
+  topico: defesa-e-soberania
+  rotulo: 'Defesa: foco no crime organizado, drones e IA e investimento nas Forças Armadas'
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 63
+    secao: Brasil que Cresce > Brasil no mundo
+    literal: Nossas ações concentrarão esforços no combate ao crime organizado e outras ameaças à segurança e defesa nacional. Incentivaremos amplo espectro de tecnologias disponíveis, com foco em inovação como drones e inteligência artificial. Os investimentos nas Forças Armadas devem ser condizentes com a inserção de um país que é membro de diferentes blocos e grupos de nações, voltados ao enfrentamento de desafios políticos e econômicos globais.
+  meta: null
+  condicionalidade: null
