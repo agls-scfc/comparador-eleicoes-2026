@@ -75,6 +75,11 @@ O `build` roda o validador antes; se algum trecho citado não existir na página
 
 Para simular a hospedagem em subpasta (como no GitHub Pages): no PowerShell, `$env:SITE_BASE="/comparador-eleicoes-2026/"` e depois `npm run build` e `npm run preview` (abra `http://localhost:4321/comparador-eleicoes-2026/`); no bash, `SITE_BASE=/comparador-eleicoes-2026/ npm run build`.
 
+## CI e deploy
+
+- **CI** (`.github/workflows/ci.yml`): a cada push em `main` e a cada pull request, roda o validador, os testes e o build com `SITE_BASE=/comparador-eleicoes-2026/`.
+- **Deploy** (`.github/workflows/deploy.yml`): publica no GitHub Pages. **Só roda manualmente** (aba Actions > Deploy > *Run workflow*), porque publicar depende de aprovação do mantenedor. Antes do primeiro deploy, ative o Pages em *Settings > Pages > Source: GitHub Actions*. O caminho base vem do próprio Pages, então um domínio próprio passa a funcionar sem mudar o workflow.
+
 O que conferir antes do deploy: (1) a home lista os 14 eixos; (2) em um eixo, os dois lados aparecem com o mesmo critério e o botão “Inverter os lados” funciona; (3) cada trecho abre a página certa no PDF (“ver a página no PDF”); (4) a página Metodologia; (5) celular (modo responsivo do navegador).
 
 ## Conferindo as fontes

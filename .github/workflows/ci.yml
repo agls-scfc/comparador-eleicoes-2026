@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validar-e-buildar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Validador de literais
+        run: python -I scripts/validar.py
+
+      - name: Testes
+        run: python -I -m unittest discover -s tests
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - run: npm ci
+        working-directory: site
+
+      # Mesmo caminho base do GitHub Pages, para pegar links quebrados em subpasta.
+      - name: Build
+        run: npm run build
+        working-directory: site
+        env:
+          SITE_BASE: /comparador-eleicoes-2026/
