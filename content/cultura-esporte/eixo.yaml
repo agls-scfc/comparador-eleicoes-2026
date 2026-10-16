@@ -9,8 +9,22 @@ paginas_nos_planos:
   plano-pl-2026:
   - 40-41
 topicos:
-- id: visao-geral
-  titulo: Visão geral (tópicos a definir na curadoria)
+- id: fomento-e-incentivo-a-cultura
+  titulo: Fomento, leis de incentivo e participação na cultura
+- id: patrimonio-memoria-e-tradicoes
+  titulo: Patrimônio, memória e tradições
+- id: acesso-a-cultura-e-equipamentos
+  titulo: Acesso à cultura, equipamentos e formação de público
+- id: audiovisual-economia-criativa-e-direitos-autorais
+  titulo: Audiovisual, economia criativa e direitos autorais
+- id: esporte-na-escola-e-formacao
+  titulo: Esporte na escola e formação esportiva
+- id: alto-rendimento-e-paradesporto
+  titulo: Alto rendimento e paradesporto
+- id: esporte-feminino
+  titulo: Esporte feminino
+- id: infraestrutura-e-financiamento-do-esporte
+  titulo: Infraestrutura e financiamento do esporte
 status:
   propostas: em_preparacao
   acoes: em_preparacao

@@ -1,0 +1,539 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-cultura-esporte-001
+  candidato: lula
+  eixo: cultura-esporte
+  topico: fomento-e-incentivo-a-cultura
+  rotulo: Aperfeiçoar a Lei Aldir Blanc e a Lei Rouanet
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 40
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Os principais instrumentos de fomento – Lei Aldir Blanc e Lei Rouanet – serão aperfeiçoados e implementados de forma
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: transparente e democrática, para apoiar todas as artes.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-002
+  candidato: lula
+  eixo: cultura-esporte
+  topico: fomento-e-incentivo-a-cultura
+  rotulo: Avançar na desconcentração regional do fomento cultural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Vamos avançar ainda mais na desconcentração regional e para todas as formas de manifestação cultural, fortalecendo nossa diversidade cultural.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-003
+  candidato: lula
+  eixo: cultura-esporte
+  topico: fomento-e-incentivo-a-cultura
+  rotulo: Fortalecer o Conselho Nacional de Política Cultural e os Comitês de Cultura
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Para isto, serão ainda mais fortalecidas as instâncias de participação social na elaboração, desenvolvimento e acompanhamento das políticas culturais, como o Conselho Nacional de Política Cultural e os Comitês de Cultura Estaduais.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-004
+  candidato: lula
+  eixo: cultura-esporte
+  topico: fomento-e-incentivo-a-cultura
+  rotulo: Recriação do Ministério da Cultura e aprovação da Lei do Sistema Nacional de Cultura
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 40
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: A recriação do Ministério da Cultura foi um dos passos fundamentais para reafirmar a cultura como um direito fundamental e vetor do desenvolvimento econômico e social. Aprovamos a Lei do Sistema Nacional de Cultura e modernizamos todos os instrumentos de fomento.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-005
+  candidato: lula
+  eixo: cultura-esporte
+  topico: patrimonio-memoria-e-tradicoes
+  rotulo: Preservar e difundir os patrimônios culturais e fortalecer as instituições do setor
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Vamos seguir preservando e difundindo os saberes, as memórias e os patrimônios culturais do Brasil, fortalecendo instituições responsáveis por essas atividades.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-006
+  candidato: lula
+  eixo: cultura-esporte
+  topico: patrimonio-memoria-e-tradicoes
+  rotulo: Criar políticas de salvaguarda para mestres das culturas populares e tradicionais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: 'E vamos cuidar de quem guarda esse patrimônio: mestras e mestres das culturas populares e tradicionais terão políticas de salvaguarda e valorização, com regras claras de direito autoral sobre os saberes que eles mantêm vivos.'
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-007
+  candidato: lula
+  eixo: cultura-esporte
+  topico: patrimonio-memoria-e-tradicoes
+  rotulo: Recursos para 144 obras de restauração do patrimônio e 105 projetos
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Asseguramos recursos para 144 obras de restauração do patrimônio histórico e artístico e para 105 projetos, que permitirão, na próxima edição do Novo PAC, apoiar mais obras.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-008
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Recuperação do Cultura Viva, com 16 mil Pontos e Pontões de Cultura
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: No atual mandato, recuperamos o Cultura Viva e chegamos a 16 mil Pontos e Pontões de Cultura.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-009
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Ampliar o fomento à cultura comunitária e à infraestrutura cultural em periferias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Vamos fortalecer ainda mais as iniciativas culturais comunitárias e ampliar o fomento ao desenvolvimento da infraestrutura cultural em territórios periféricos, inclusive apoiando a formação de arranjos regionais voltados à articulação de redes locais e ao fortalecimento de ecossistemas criativos nos territórios.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-010
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Consolidar os Pontos de Cultura e a gestão da Política Nacional Cultura Viva
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Daremos especial atenção à consolidação dos Pontos de Cultura, buscando assegurar planos de ação continuados, previsibilidade, segurança jurídica, corresponsabilidade federativa e participação ativa da sociedade civil na gestão compartilhada da Política Nacional Cultura Viva.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-011
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Investimentos em CEUs da Cultura e apoio a bibliotecas públicas
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Investimos em equipamentos culturais como CEUs da Cultura, MovCEUs, sobre rodas e flutuantes. Fomentamos 6 mil bibliotecas públicas e estamos apoiando a implantação de 1.500 bibliotecas em unidades do Minha Casa Minha Vida.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-012
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Manter a rede de equipamentos culturais e fomentar circulação artística
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 41
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Vamos dar continuidade aos investimentos para consolidar e manter a rede de equipamentos culturais nos territórios e para fomentar programas de circulação e mobilidade artística e iniciativas de democratização da cultura.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-013
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Integrar cultura e educação, com atividades artísticas no currículo
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 43
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Avançaremos na integração da Cultura com a educação, por meio de políticas como o programa Mais Cultura nas Escolas e a ação Arte e Cultura na Educação de Tempo Integral. Queremos consolidar atividades artísticas integradas ao currículo que estimulem a criatividade, a capacidade crítica e o letramento digital, democratizando o acesso da juventude à produção e ao repertório cultural.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-014
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Desenvolver programas de formação de plateia desde a infância
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 43
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Estamos comprometidos também com o desenvolvimento de programas específicos voltados para a formação de plateia, promovendo o acesso a experiências culturais e artísticas desde a infância e juventude.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-015
+  candidato: lula
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Fortalecer a produção cultural das juventudes, com apoio à produção nas periferias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 25
+    secao: 2. Combater as desigualdades
+    literal: Vamos fortalecer ainda mais a produção cultural das juventudes, reconhecendo e apoiando a produção cultural nas periferias, garantindo acesso livre às comunidades e promovendo a integração entre as diferentes linguagens artísticas e as oportunidades da economia criativa.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-016
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Retomada da Cota de Tela e R$ 3,6 bilhões do Fundo do Audiovisual
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Retomamos a Cota de Tela e o Fundo do Audiovisual aplicou R$ 3,6 bilhões entre 2023 e 2025 na produção nacional.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-017
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Trabalhar pela aprovação de uma regulamentação do streaming (VOD)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Lançamos o Tela Brasil e vamos continuar trabalhando pela aprovação, no Congresso Nacional, de uma regulamentação do streaming (VOD) que atenda ao interesse nacional e assegure o País como um produtor e exportador ativo de obras audiovisuais.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-018
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Fortalecer a governança do audiovisual e consolidar uma política industrial para o setor
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: No próximo mandato, queremos ainda fortalecer a governança das políticas do audiovisual e consolidar uma política industrial para o setor audiovisual.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-019
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Proteger direitos autorais e aprovar lei de direito autoral no ambiente digital
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Ao mesmo tempo, fortaleceremos a proteção dos direitos autorais e da propriedade intelectual. [...] Trabalharemos pela aprovação de lei do direito autoral em ambiente digital e a regulamentação da inteligência artificial, para que músicos, autores e artistas sejam pagos quando as plataformas usarem conteúdo brasileiro.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-020
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Ampliar as condições de criação e difusão na cultura digital
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Na cultura digital, ampliaremos as condições de criação, produção e difusão, com acesso a tecnologias e plataformas.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-021
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Fortalecer a diplomacia cultural e a presença de artistas brasileiros no exterior
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Continuaremos a fortalecer a diplomacia cultural e a internacionalização da produção brasileira, ampliando a presença de artistas e obras nacionais no exterior e apoiando fazedores de cultura brasileiros em outros países e imigrantes no Brasil.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-022
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Estimular o empreendedorismo cultural e o crédito para a economia criativa
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Estimularemos o empreendedorismo cultural, a inovação e a formação profissional para gerar empregos e ampliar oportunidades econômicas no setor cultural, ampliando o acesso a crédito para iniciativas de economia criativa.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-023
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Ampliar vagas em cursos técnicos de formação artística e cultural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Fomentaremos a oferta de vagas em cursos técnicos e profissionalizantes de formação e qualificação artística Técnica e Cultural.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-024
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Sanção do Marco Legal dos Games e inclusão do setor na CNAE e na CBO
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Sancionamos o Marco Legal dos Games, que reconhece e equipara os games a criações culturais. Com isto, esta importante indústria passa a acessar os mecanismos de fomento da Lei Rouanet e da Lei do Audiovisual. Criamos uma classificação específica para o setor na CNAE e, em março/2026, incluímos o setor na Classificação Brasileira de Ocupações, para incentivar a formalização dos gamers.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-025
+  candidato: lula
+  eixo: cultura-esporte
+  topico: audiovisual-economia-criativa-e-direitos-autorais
+  rotulo: Seguir apoiando o setor de games
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 42
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Cultura
+    literal: Seguiremos apoiando este setor estratégico, um braço da economia criativa, que gera emprego, em especial para jovens, e projeção internacional, que pode mobilizar investimentos bilionários no país.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-026
+  candidato: lula
+  eixo: cultura-esporte
+  topico: infraestrutura-e-financiamento-do-esporte
+  rotulo: Recriação do Ministério do Esporte e aprovação da Lei Geral do Esporte
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 43
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Esporte
+    literal: Além da recriação do Ministério, com capacidade para formular e implementar políticas públicas eficazes, retomou políticas e reorganizou a legislação do setor, com a aprovação da Nova Lei de Incentivo ao Esporte e a Lei Geral do Esporte.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-027
+  candidato: lula
+  eixo: cultura-esporte
+  topico: alto-rendimento-e-paradesporto
+  rotulo: Reajuste do Bolsa Atleta e 11 mil atletas contemplados em 2026
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 43
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Esporte
+    literal: O Bolsa Atleta teve o valor das bolsas reajustado pela primeira vez desde sua criação e alcançou o maior número de atletas da história – 11 mil contemplados em 2026.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-028
+  candidato: lula
+  eixo: cultura-esporte
+  topico: alto-rendimento-e-paradesporto
+  rotulo: Ampliar o Bolsa Atleta e manter o patrocínio de estatais ao alto rendimento
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 43
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Esporte
+    literal: Vamos continuar ampliando e fortalecendo o programa, além de manter o patrocínio das empresas estatais para assegurar que no próximo ciclo olímpico e paralímpico avancemos ainda mais na conquista de bons resultados e medalhas. O esporte de alto rendimento continuará sendo apoiado no próximo mandato de Lula.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-029
+  candidato: lula
+  eixo: cultura-esporte
+  topico: esporte-feminino
+  rotulo: Realizar a Copa do Mundo de Futebol Feminino em 8 capitais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 43
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Esporte
+    literal: No próximo mandato, realizaremos a Copa do Mundo de Futebol Feminino, que ocorrerá pela primeira vez na América do Sul. Continuaremos trabalhando para o sucesso do evento, que ocorrerá em 8 capitais brasileiras, e que tem o potencial de promover ainda mais o Brasil no exterior, estimulando também a atividade turística. Sediar o evento terá também o efeito de estimular ainda mais a prática do futebol feminino no Brasil.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-030
+  candidato: lula
+  eixo: cultura-esporte
+  topico: esporte-na-escola-e-formacao
+  rotulo: Implementar a Universidade do Esporte e criar rede nacional de pesquisa do esporte
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 43
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Esporte
+    literal: A Universidade do Esporte foi aprovada pelo Congresso Nacional. No próximo mandato, temos a tarefa de implementar a universidade, para formar quadros técnicos e democratizar o acesso ao esporte e instituiremos a rede nacional de pesquisa, inovação e tecnologia do esporte.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-031
+  candidato: lula
+  eixo: cultura-esporte
+  topico: infraestrutura-e-financiamento-do-esporte
+  rotulo: Implantação de Arenas Brasil, com 500 unidades apoiadas pelo Novo PAC
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 44
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Esporte
+    literal: No atual mandato, começamos a implantação de Arenas Brasil em todos os estados com o Novo PAC, apoiamos 500 unidades por todo o Brasil.
+  meta: null
+  condicionalidade: null
+- id: pt-cultura-esporte-032
+  candidato: lula
+  eixo: cultura-esporte
+  topico: infraestrutura-e-financiamento-do-esporte
+  rotulo: Ampliar o apoio às Arenas Brasil para dar acesso a práticas esportivas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 44
+    secao: 6. Ampliar o acesso à cultura e ao esporte como Vetores de Transformação Social > Esporte
+    literal: Ampliaremos este apoio no novo mandato, para assegurar acesso às práticas esportivas em todo o território nacional.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-001
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: infraestrutura-e-financiamento-do-esporte
+  rotulo: Ampliar parcerias com iniciativa privada, estados e municípios no esporte
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 40
+    secao: Brasil que Prepara > Esporte que forma
+    literal: E, para chegar a mais gente, vamos romper com a dependência do dinheiro público centralizado, ampliando as parcerias com a iniciativa privada, os estados e os municípios.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-002
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: esporte-na-escola-e-formacao
+  rotulo: Criar o Programa Escola de Campeões, com esporte competitivo nas escolas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 40
+    secao: Brasil que Prepara > Esporte que forma
+    literal: 'Vamos criar o Programa Escola de Campeões, com parcerias público-privadas para levar o esporte competitivo às escolas, muito além da aula de educação física: times escolares, treinos no contraturno e competições municipais e estaduais.'
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-003
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: alto-rendimento-e-paradesporto
+  rotulo: Fomentar a inclusão de pessoas com deficiência pelo esporte e o paradesporto
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 40
+    secao: Brasil que Prepara > Esporte que forma
+    literal: Vamos fomentar a inclusão de pessoas com deficiência pelo esporte, com detecção de talentos paralímpicos desde a base e mais autonomia para as entidades paralímpicas, tratando o paradesporto como via de reabilitação, inserção profissional e superação.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-004
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: alto-rendimento-e-paradesporto
+  rotulo: Aperfeiçoar as bolsas esportivas e trazer patrocínio privado ao alto rendimento
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 40
+    secao: Brasil que Prepara > Esporte que forma
+    literal: No alto rendimento, vamos aperfeiçoar as bolsas esportivas e, sobretudo, trazer a iniciativa privada para o patrocínio, em parceria com clubes, faculdades e universidades.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-005
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: alto-rendimento-e-paradesporto
+  rotulo: Editais de tecnologia e dados para o esporte e preparação olímpica com setor privado
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 40
+    secao: Brasil que Prepara > Esporte que forma
+    literal: Vamos incentivar o uso de tecnologia e ciência de dados por meio de editais para confederações e clubes, e fortalecer a preparação para os Jogos Olímpicos e Paralímpicos com foco em eficiência e parceria com o setor privado.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-006
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: esporte-feminino
+  rotulo: Assegurar que a categoria feminina seja disputada por atletas do sexo feminino
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 41
+    secao: Brasil que Prepara > Esporte que forma
+    literal: Vamos assegurar que a categoria feminina, da base ao alto rendimento, seja disputada por atletas do sexo feminino, protegendo a mulher e a lisura da competição de agendas ideológicas.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-007
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: patrimonio-memoria-e-tradicoes
+  rotulo: Preservar o patrimônio histórico, dos centros históricos às obras e acervos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 41
+    secao: Brasil que Prepara > Cultura que valoriza nossas raízes
+    literal: A miscigenação e a construção de um país de imigrantes e de múltiplas culturas são motivos de orgulho, e é essa memória que celebraremos, com a preservação do nosso patrimônio histórico, dos centros históricos às obras e acervos que contam quem somos, hoje deteriorados por falta de cuidado.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-008
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: fomento-e-incentivo-a-cultura
+  rotulo: Valorizar tradições e aperfeiçoar as leis de incentivo, favorecendo outros polos regionais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 41
+    secao: Brasil que Prepara > Cultura que valoriza nossas raízes
+    literal: Na Cultura, valorizaremos as tradições brasileiras e aperfeiçoaremos as leis de incentivo, corrigindo distorções e favorecendo o desenvolvimento de outros polos regionais. Com isso, alcançaremos os artistas de grande mérito artístico, porém de pouca projeção, hoje esquecidos pelo modelo atual.
+  meta: null
+  condicionalidade: null
+- id: pl-cultura-esporte-009
+  candidato: flavio-bolsonaro
+  eixo: cultura-esporte
+  topico: acesso-a-cultura-e-equipamentos
+  rotulo: Levar a arte para perto do público em todo o país
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 41
+    secao: Brasil que Prepara > Cultura que valoriza nossas raízes
+    literal: Levaremos a arte para perto do público em todo o país, sem subordiná-la a agendas políticas, nos norteando pela transparência, pela liberdade de expressão e pela distinção entre cultura e entretenimento comercial.
+  meta: null
+  condicionalidade: null
