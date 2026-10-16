@@ -1,0 +1,463 @@
+# Trechos literais dos planos registrados no TSE. Frases inteiras; [...] só entre frases; mesmo critério para os dois lados.
+
+- id: pt-moradia-cidades-saneamento-001
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: Manter e ampliar o MCMV para todas as faixas de renda, com foco na baixa renda
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: O MCMV será mantido e ampliado no próximo mandato, para todas as faixas de renda e preservando seu foco nas famílias de mais baixa renda.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-002
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: Mobilizar novos instrumentos de acesso à moradia, como o Compra Assistida
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: Serão mobilizados novos instrumentos para ampliar o acesso à moradia, como o Compra Assistida, que, em situações excepcionais, permite a aquisição de imóveis já prontos.
+  meta: null
+  condicionalidade: em situações excepcionais
+- id: pt-moradia-cidades-saneamento-003
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: Melhorar o padrão construtivo, simplificar processos e apoiar movimentos sociais no MCMV
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: Continuaremos melhorando o padrão construtivo, simplificando processos, apoiando os movimentos sociais a participarem do programa.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-004
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: Usar áreas da União para moradias do MCMV, inclusive via Fundo Imobiliário da União
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: Daremos sequência também à iniciativa, que se mostrou bem-sucedida, de utilizar áreas da União, algumas em regiões centrais e valorizadas das cidades, para construir moradias do MCMV, inclusive com novos instrumentos, como o Fundo Imobiliário da União.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-005
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: Aprimorar e ampliar o Reforma Casa Brasil
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: Aprimoraremos e ampliaremos o Reforma Casa Brasil.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-006
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: urbanizacao-e-regularizacao
+  rotulo: Continuar o Imóvel da Gente para regularização fundiária e equipamentos públicos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: O Imóvel da Gente terá continuidade para que terrenos e imóveis da União
+  - documento: plano-pt-2026
+    pagina_impressa: 18
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: beneficiem famílias com regularização fundiária dos imóveis em que já residem ou sejam convertidos em equipamentos de saúde, educação, assistência social, entre outros.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-007
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: urbanizacao-e-regularizacao
+  rotulo: Assegurar recursos para concluir as obras do Periferia Viva
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: No próximo mandato, todas estas obras terão recursos assegurados para sua conclusão, para garantir melhores condições de vida às periferias por elas atendidas.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-008
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: urbanizacao-e-regularizacao
+  rotulo: Fazer novas rodadas de seleção de projetos para as periferias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: Faremos novas rodadas de seleção, visando apoiar mais projetos e persistir em nosso compromisso de garantir que as periferias sejam parte do nosso projeto de desenvolvimento urbano sustentável.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-009
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: saneamento
+  rotulo: Apoiar estados e municípios a universalizar água tratada e esgoto, priorizando periferias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: Continuaremos, no próximo mandato, a perseguir o objetivo de apoiar estados e municípios a universalizar acesso à água tratada e ao esgotamento sanitário, buscando priorizar periferias historicamente negligenciadas.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-010
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: saneamento
+  rotulo: Manter apoio da União a resíduos sólidos e tratamento de esgoto, com biogás e biometano
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 47
+    secao: 7. Fortalecer o direito à cidade
+    literal: A gestão dos resíduos sólidos e o tratamento de esgotos continuarão a ter o apoio da União, estimulando soluções inovadoras, como a produção de biogás e biometano.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-011
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: saneamento
+  rotulo: Buscar universalizar a água potável e ampliar investimentos em saneamento rural
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 60
+    secao: 9. Segurança alimentar e produção agrícola
+    literal: Ampliar a busca pela universalização do acesso à água potável e ampliar os investimentos em saneamento rural ecológico.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-012
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: mobilidade-urbana
+  rotulo: Apoiar transporte coletivo de alta capacidade e eletrificação progressiva das frotas
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: Nosso compromisso é continuar apoiando investimentos em transporte coletivo de alta capacidade e na modernização e eletrificação progressiva das frotas do transporte coletivo.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-013
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: mobilidade-urbana
+  rotulo: Apoiar investimentos que gerem demanda à indústria nacional de equipamentos de transporte
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: Manteremos a diretriz de apoiar investimentos que gerem demanda para a indústria nacional de equipamentos de transporte, integrando política urbana e política industrial.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-014
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: mobilidade-urbana
+  rotulo: Focar investimentos na integração das regiões metropolitanas e cidades médias
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: Além disso, finalizamos estudos e focaremos em investimentos na integração das regiões metropolitanas e das médias cidades do país.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-015
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: riscos-e-adaptacao-urbana
+  rotulo: Preparar as cidades para as mudanças climáticas e aprimorar a Defesa Civil
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 47
+    secao: 7. Fortalecer o direito à cidade
+    literal: Outra área em que pretendemos avançar, por sua urgência cada vez maior, é na preparação de nossas cidades para enfrentar os desafios das mudanças climáticas. [...] Vamos aperfeiçoar nossa capacidade de resposta e seguir aprimorando a Defesa Civil.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-016
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: riscos-e-adaptacao-urbana
+  rotulo: Fomentar adaptação climática com infraestrutura verde e proteção de mananciais
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 47
+    secao: 7. Fortalecer o direito à cidade
+    literal: Queremos fomentar a adaptação climática por meio de infraestrutura verde, proteção de mananciais e ocupação resiliente do território.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-017
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: politica-urbana-e-municipios
+  rotulo: Reforçar a capacidade técnica e financeira dos municípios para investimentos urbanos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 44
+    secao: 7. Fortalecer o direito à cidade
+    literal: E este método cooperativo federativo mostrou
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: que instituir instrumentos para reforçar a capacidade técnica e financeira dos municípios para planejar, executar e fiscalizar os investimentos deve seguir como tarefa a ser apoiada no próximo mandato.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-018
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: politica-urbana-e-municipios
+  rotulo: 'Novo PAC: R$ 118 bilhões em infraestrutura urbana e Ministério das Cidades recriado'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 44
+    secao: 7. Fortalecer o direito à cidade
+    literal: Com uma carteira de projetos de R$ 118 bilhões no Novo PAC, a infraestrutura urbana voltou a receber atenção para assegurar um desenvolvimento urbano inclusivo, com base em cidades mais inteligentes, sustentáveis e resilientes. Fizemos isto recuperando a institucionalidade responsável pela política urbana no Governo Federal, recriando o Ministério das Cidades, e reinstituindo o diálogo com setor produtivo, movimentos sociais e estados e municípios, do que é exemplar a retomada da Conferência Nacional das Cidades.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-019
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: MCMV recriado, com nova faixa de renda para a classe média
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: Recriamos o Minha Casa Minha Vida – MCMV, introduzindo melhorias no padrão construtivo, elevando os valores dos imóveis enquadráveis no programa, criando uma nova faixa de renda no programa para atingir a classe média, que estava ameaçada por insuficiência de recursos da poupança para seu financiamento.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-020
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: 'MCMV: 2 milhões de moradias contratadas e meta elevada para 3 milhões até 2026'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: O programa alcançou sua meta de contratar 2 milhões de moradias com um ano de antecedência, o que nos levou a elevar esta meta para 3 milhões até o final de 2026. Mais de 80% das obras que estavam paralisadas já foram retomadas. Um milhão de moradias foram quitadas para beneficiários do Bolsa Família e BPC.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-021
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: Crédito imobiliário acima de 10% do PIB
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: Mais importante, dinamizamos o mercado imobiliário, fazendo com que, pela primeira vez na história, o crédito imobiliário ultrapassasse a barreira dos 10% do PIB.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-022
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: urbanizacao-e-regularizacao
+  rotulo: 1,8 mil imóveis da União destinados à habitação e criação do Fundo Imobiliário da União
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 17
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Em nosso governo, o patrimônio imobiliário da União foi colocado a serviço das políticas públicas de habitação, com destinação de 1,8 mil imóveis e terrenos.
+  - documento: plano-pt-2026
+    pagina_impressa: 18
+    secao: 1. Fortalecer a Democracia, a Participação Social e Modernizar o Estado > Gestão e Modernização do Estado
+    literal: Além disso, criamos o Fundo Imobiliário da União, para tornar a gestão do patrimônio público mais eficiente e colocar esses ativos a serviço do desenvolvimento dos territórios.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-023
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: urbanizacao-e-regularizacao
+  rotulo: 'Periferia Viva: 85 obras retomadas e 59 propostas selecionadas'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 45
+    secao: 7. Fortalecer o direito à cidade
+    literal: Com o Periferia Viva, voltamos a investir em urbanização de favelas e em regularização fundiária, abandonados no governo anterior. Retomamos 85 obras que estavam paralisadas ou em ritmo muito lento e selecionamos outras 59
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: propostas, que envolvem provimento de infraestrutura, moradia digna, equipamentos e serviços públicos.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-024
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: saneamento
+  rotulo: R$ 23,3 bilhões em novas obras de saneamento desde 2023
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: O governo Lula investiu de forma consistente em saneamento. A partir de 2023, foram R$ 23,3 bilhões para novas obras de abastecimento de água, esgotamento sanitário e gestão de resíduos sólidos, além de R$ 3,5 bilhões para retomada e conclusão de obras inacabadas de anos anteriores.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-025
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: mobilidade-urbana
+  rotulo: 'Novo PAC: 233 km de metrôs, trens e VLTs, 296 km de BRT e renovação de frotas'
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 46
+    secao: 7. Fortalecer o direito à cidade
+    literal: Com o Novo PAC, o governo federal voltou a investir em infraestrutura de transporte e renovação de frota. A atual carteira, entre retomada de obras e novos investimentos, resultará em mais 233 km de metrôs, trens e VLTs e outros 296 km de corredores exclusivos de ônibus no padrão BRT. Permitirá também renovar a frota de ônibus de 144 municípios, com a aquisição de 3.942 ônibus Euro 6, 203 ônibus elétricos e 39 veículos sobre trilhos.
+  meta: null
+  condicionalidade: null
+- id: pt-moradia-cidades-saneamento-026
+  candidato: lula
+  eixo: moradia-cidades-saneamento
+  topico: riscos-e-adaptacao-urbana
+  rotulo: R$ 25 bilhões em contenção de encostas e drenagem urbana
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pt-2026
+    pagina_impressa: 47
+    secao: 7. Fortalecer o direito à cidade
+    literal: Já voltamos a investir R$ 25 bilhões, com o Novo PAC, em obras de contenção de encostas e drenagem urbana sustentável, priorizando áreas mapeadas e classificadas com risco alto ou muito alto em municípios com problemas recorrentes de deslizamentos e inundações.
+  meta: null
+  condicionalidade: null
+- id: pl-moradia-cidades-saneamento-001
+  candidato: flavio-bolsonaro
+  eixo: moradia-cidades-saneamento
+  topico: habitacao
+  rotulo: Retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 47
+    secao: Brasil que Prospera > A casa própria
+    literal: Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências e a menor taxa de juros possível no financiamento.
+  meta:
+    valor: 2500000
+    unidade: residências
+    prazo: null
+    expressao_no_plano: meta de 2,5 milhões de residências
+  condicionalidade: null
+- id: pl-moradia-cidades-saneamento-002
+  candidato: flavio-bolsonaro
+  eixo: moradia-cidades-saneamento
+  topico: urbanizacao-e-regularizacao
+  rotulo: Urbanizar áreas degradadas e incentivar a regularização fundiária com PPPs
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 47
+    secao: Brasil que Prospera > A casa própria
+    literal: Vamos promover a urbanização de áreas degradadas, evitando o risco de deslizamentos em encostas, e incentivar a regularização fundiária, priorizando as áreas urbanas já consolidadas e reduzindo os vazios urbanos, com parcerias público-privadas que integrem moradia e infraestrutura no mesmo contrato. Assim, a família que já mora há anos no mesmo lugar tem a escritura no próprio nome — de preferência, no nome da mulher, como prevê o Brasil por Elas.
+  meta: null
+  condicionalidade: null
+- id: pl-moradia-cidades-saneamento-003
+  candidato: flavio-bolsonaro
+  eixo: moradia-cidades-saneamento
+  topico: saneamento
+  rotulo: Aplicar o Marco Legal do Saneamento e acelerar concessões para universalizar água e esgoto
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 47
+    secao: Brasil que Prospera > A casa própria
+    literal: O governo do PT tentou desarticulá-lo por decreto; nós vamos garantir sua plena aplicação e acelerar as concessões e parcerias para universalizar o acesso à água tratada e ao esgoto, com atenção especial ao saneamento rural.
+  - documento: plano-pl-2026
+    pagina_impressa: 57
+    secao: 'Brasil que Cresce > Meio ambiente: o ativo verde do Brasil'
+    literal: 'E rio limpo também depende de esgoto tratado: uma das maiores agendas ambientais da nossa história foi o Marco Legal do Saneamento, aprovado no governo Bolsonaro, cuja universalização vamos levar adiante, como já detalhado no Brasil que Prospera.'
+  meta: null
+  condicionalidade: null
+- id: pl-moradia-cidades-saneamento-004
+  candidato: flavio-bolsonaro
+  eixo: moradia-cidades-saneamento
+  topico: saneamento
+  rotulo: Zerar escolas sem água até 2030 e acabar com os lixões a céu aberto (Lixão Zero)
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 47
+    secao: Brasil que Prospera > A casa própria
+    literal: 'A esse esforço somamos um compromisso social direto: nenhuma escola sem água até 2030, e a meta do Programa Lixão Zero, acabando com os lixões a'
+  - documento: plano-pl-2026
+    pagina_impressa: 48
+    secao: Brasil que Prospera > A casa própria
+    literal: céu aberto. Não é obra que aparece em foto de inauguração, mas é a que mais adoece ou protege uma criança.
+  meta:
+    valor: 0
+    unidade: escolas sem água
+    prazo: '2030'
+    expressao_no_plano: nenhuma escola sem água até 2030
+  condicionalidade: null
+- id: pl-moradia-cidades-saneamento-005
+  candidato: flavio-bolsonaro
+  eixo: moradia-cidades-saneamento
+  topico: mobilidade-urbana
+  rotulo: Planejar as cidades para reduzir deslocamentos, com transporte coletivo como base
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 51
+    secao: Brasil que Cresce > Mobilidade urbana
+    literal: Vamos pensar o desenvolvimento das cidades para reduzir o deslocamento da população, com o transporte coletivo como base da mobilidade e parcerias que diminuam o tempo de viagem do trabalhador, valorizando os contratos que conciliam moradia e infraestrutura no mesmo projeto.
+  meta: null
+  condicionalidade: null
+- id: pl-moradia-cidades-saneamento-006
+  candidato: flavio-bolsonaro
+  eixo: moradia-cidades-saneamento
+  topico: mobilidade-urbana
+  rotulo: Priorizar nos bancos públicos o financiamento de metrô, trilhos e ônibus elétricos
+  tipo: compromisso
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 51
+    secao: Brasil que Cresce > Mobilidade urbana
+    literal: Os bancos públicos priorizarão o financiamento de linhas de metrô, transporte sobre trilhos e ônibus movidos a eletricidade e biocombustíveis.
+  meta: null
+  condicionalidade: null
+- id: pl-moradia-cidades-saneamento-007
+  candidato: flavio-bolsonaro
+  eixo: moradia-cidades-saneamento
+  topico: saneamento
+  rotulo: Marco Legal do Saneamento sancionado em 2020, com meta de universalização até 2033
+  tipo: resultado_declarado
+  trechos:
+  - documento: plano-pl-2026
+    pagina_impressa: 47
+    secao: Brasil que Prospera > A casa própria
+    literal: 'O maior avanço do país nessa área tem nome e sobrenome: foi o Marco Legal do Saneamento, sancionado pelo governo Bolsonaro em 2020, que abriu o setor ao investimento privado e fixou a meta de levar água e esgoto a praticamente toda a população até 2033.'
+  meta: null
+  condicionalidade: null
