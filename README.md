@@ -26,7 +26,7 @@ docs/               decisões e documentação
 
 ## Rodando localmente
 
-Requisitos: **Node.js 20+**, **Python 3.11+** e **git**. Os comandos abaixo são um por linha, para funcionar em qualquer terminal (inclusive o PowerShell do Windows, que não aceita `&&` nas versões antigas).
+Requisitos: **Node.js 22.22+** (exigência do Astro 7), **Python 3.11+** e **git**. Os comandos abaixo são um por linha, para funcionar em qualquer terminal (inclusive o PowerShell do Windows, que não aceita `&&` nas versões antigas).
 
 **Windows (PowerShell)**
 

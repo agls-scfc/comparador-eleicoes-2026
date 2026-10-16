@@ -32,7 +32,7 @@ function preparar() {
 }
 
 function astro(args, env) {
-  const r = rodar(process.execPath, [resolve(aqui, "node_modules", "astro", "astro.js"), ...args], env);
+  const r = rodar(process.execPath, [resolve(aqui, "node_modules", "astro", "bin", "astro.mjs"), ...args], env);
   if (!r.ok) process.exit(r.status ?? 1);
 }
 
