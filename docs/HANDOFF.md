@@ -24,7 +24,7 @@ Design: segue o documento do projeto "Identidade visual para campanha política:
 ## 3. Repositório e stack
 
 - **Repo público:** `github.com/agls-scfc/comparador-eleicoes-2026` (branch `main`). Licenças: MIT (código), CC BY 4.0 (curadoria).
-- **Site:** Astro 5.4.3 + js-yaml 4.1.0 (CORE_SCHEMA: datas YAML ficam texto). Conteúdo em YAML em `content/<eixo>/`.
+- **Site:** Astro 7.4.0 + js-yaml 4.3.2 (Node 22.22+) (CORE_SCHEMA: datas YAML ficam texto). Conteúdo em YAML em `content/<eixo>/`.
 - **Scripts:** Python 3 (PyYAML, jsonschema), sempre rodados com `python3 -I`. Testes: `unittest` (46 testes, todos passam).
 - **Estrutura:** `data/fontes/` (PDFs + `manifest.yaml`), `data/paginas/<doc>/NNN.txt` (texto por página, extração padrão) e `.../layout/NNN.txt` (modo `-layout`), `schema/*.json`, `scripts/` (`extrair_paginas.py`, `verificar_fontes.py`, `validar.py`, `curadoria/curar.py`), `content/`, `site/`, `docs/`, `tests/`.
 - **Rodar localmente:** ver "Rodando localmente" no `README.md` (Windows/PowerShell e macOS/Linux). Resumo: `python3 scripts/validar.py` deve dar `0 erro(s)`; no `site/`: `npm ci` e `npm run dev` (http://localhost:4321/, modo pré-visualização).
@@ -62,35 +62,31 @@ Todos os eixos estão com `status: em_preparacao` (nada "publicado" ainda; publi
 | 6 | meio-ambiente-clima-energia | MVP | 31 / 10 | 17 / 2 |
 | 7 | instituicoes-democracia-judiciario | MVP | 14 / 3 | 13 / 2 |
 | 8 | politica-externa-defesa | MVP | 21 / 4 | 10 / 0 |
-| 9 | mulheres-igualdade | fase 2 | **pendente** | **pendente** |
-| 10 | moradia-cidades-saneamento | fase 2 | **pendente** | **pendente** |
-| 11 | agro-seguranca-alimentar | fase 2 | **pendente** | **pendente** |
-| 12 | infraestrutura-transportes | fase 2 | **pendente** | **pendente** |
-| 13 | tecnologia-governo-digital | fase 2 | **pendente** | **pendente** |
-| 14 | cultura-esporte | fase 2 | **pendente** | **pendente** |
+| 9 | mulheres-igualdade | fase 2 | 44 / 9 | 17 / 1 |
+| 10 | moradia-cidades-saneamento | fase 2 | 17 / 9 | 6 / 1 |
+| 11 | agro-seguranca-alimentar | fase 2 | 35 / 6 | 11 / 1 |
+| 12 | infraestrutura-transportes | fase 2 | 8 / 2 | 14 / 0 |
+| 13 | tecnologia-governo-digital | fase 2 | 22 / 1 | 18 / 3 |
+| 14 | cultura-esporte | fase 2 | 23 / 9 | 9 / 0 |
 
-Os 8 eixos do MVP estão curados (propostas). Os 6 de fase 2 ainda são esqueletos (`eixo.yaml` com tópico provisório "visao-geral" e sem `propostas.yaml`).
+Os 14 eixos estão curados (propostas). Os 6 da fase 2 foram curados em 16/10/2026 com a mesma receita (seção 6), seguidos de uma revisão cruzada automática: nenhuma frase do plano aparece em dois registros (mesmo documento e página), em nenhum eixo.
 
-Páginas de cada eixo pendente (campo `paginas_nos_planos` já em cada `eixo.yaml`; PT = plano do PT, PL = plano do PL):
+Validador: 0 erros, 5 avisos (2 de hash; 3 de "só casa em layout", todos conferidos visualmente no PDF: PT p.28, PL p.57 e PT p.46).
 
-| Eixo | PT | PL |
-|---|---|---|
-| mulheres-igualdade | 18-26 | 17-22 |
-| moradia-cidades-saneamento | 44-47 | 47-48, 51-52 |
-| agro-seguranca-alimentar | 58-63 | 27-28, 53-55 |
-| infraestrutura-transportes | 52-54 | 50-51 |
-| tecnologia-governo-digital | 16-17, 54-55 | 23-26, 56-57 |
-| cultura-esporte | 40-44 | 40-41 |
+### Critérios fixados na curadoria da fase 2
 
-### Conteúdo já usado em outros eixos (não duplicar nos pendentes)
+- **Mesma promessa repetida pelo plano em duas seções** (ex.: PL p.27 "como detalhado no Brasil que Cresce" e PL p.54): **um registro** com vários `trechos`, não dois registros no mesmo eixo. Em eixos diferentes, a mesma promessa pode aparecer se a frase for outra (ex.: ClarIA e pacotes de internet do PL em mulheres-igualdade, p.18, e em tecnologia, pp.24-25; tornozeleira em segurança e em mulheres).
+- **Assistência social (SUAS), idosos, pessoas com deficiência, juventude, infância, povos indígenas e quilombolas**: em mulheres-igualdade.
+- **Licenciamento ambiental e segurança jurídica de grandes projetos** (PL pp.49-50): em infraestrutura.
+- **ECA Digital** (PT p.24): em tecnologia. **Produção cultural das juventudes** (PT p.25): em cultura-esporte.
+- "Gov. br" (PT p.17): o PDF quebra a linha entre "Gov." e "br"; o literal fica com espaço.
 
-- **Creche** (PL p.21): em educação. **Rede Nacional de Cuidado** (PL p.21): em saúde. **Igualdade salarial** e antidiscriminação no trabalho (PT p.75): em trabalho. **Saúde da mulher** (PT pp.38-39; PL p.21): em saúde.
-- **Segurança hídrica** (PT p.72; PL p.52) e **Marco Legal do Saneamento** (PL p.57): a segurança hídrica está em meio ambiente; o saneamento do PL p.57 ficou **reservado** para moradia/saneamento.
-- **Biocombustíveis/bioenergia** (PT p.63) e fertilizantes: biocombustíveis estão em meio ambiente/energia; **fertilizantes** (PT p.63 e PL p.53) ficaram para agro (a frase do PL sobre fertilizantes a partir do gás já está em energia, no registro de refino; pode ser referenciada em agro sem copiar).
-- **Governo digital/Gov.br, letramento digital, Conselho de Soberania Digital** (PT p.17): reservados para tecnologia. **Imóvel da Gente** (PT pp.17-18): reservado para moradia.
-- **Pacto federativo, reforma administrativa, desestatização** (PL pp.68-70): em economia. **Emendas, agências reguladoras, estatais**: em instituições.
-- **Minerais críticos** (PL p.56) e **Nordeste/Trem do Nordeste/Transnordestina** (PL p.60): não usados; encaixam em infraestrutura/economia (decidir ao curar infraestrutura).
-- PT pp.18-19 (combater desigualdades, racismo, cotas) entram em "mulheres e igualdade" apenas nas partes ainda não usadas (Bolsa Família/salário-mínimo já estão em trabalho).
+### Pontos para a revisão humana (fase 2)
+
+- **Turismo** não tem eixo. Há frases nos dois planos (PT pp.56-57; PL pp.59-60) e partes já estão em meio ambiente e política externa. Decidir se entra em algum eixo.
+- `pl-cultura-esporte-006` (categoria feminina disputada por atletas do sexo feminino, PL p.41): tema sensível; rótulo segue o literal.
+- `pl-moradia-cidades-saneamento-004`: o trecho da p.48 inclui uma frase retórica inteira porque a sobra da frase anterior ("céu aberto.") tem menos de 12 caracteres.
+- `pt-infraestrutura-transportes-009` (PT p.56): literal começa com frase sem verbo principal, como no original.
 
 ## 5. Regras de dados (resumo; a versão oficial está em `docs/decisions.md`)
 
@@ -148,7 +144,7 @@ Critério de seleção usado: compromissos = frases de futuro/intenção do plan
 
 ## 9. Pendências, em ordem sugerida
 
-1. **Curar os 6 eixos da fase 2** (um commit por eixo), seguindo a seção 6 e a lista de "já usado" da seção 4.
+1. **Curar os 6 eixos da fase 2**: feito em 16/10/2026 (ver seção 4). Falta a revisão humana dos pontos listados lá.
 2. **Camada de falas** (por eixo): pesquisar fontes reais (WebSearch/WebFetch), registrar `fala` com data, veículo, URL e **citação só quando verificada no texto buscado**. Sem inventar nem parafrasear como citação. Schema em `schema/fala.schema.json`; arquivo `content/<eixo>/falas.yaml`; incluir `proposta_ids` apenas para propostas reais (nunca para ids de ação/fala). Falas dos **dois** candidatos, mesmo critério.
 3. **Camada de ações/votos** (`content/<eixo>/acoes.yaml`, schema `schema/acao.schema.json`): sementes = leis citadas pelos próprios planos (ex.: Lei Antifacção 2026, PEC da Segurança, reforma tributária, novo arcabouço fiscal, nova lei do ensino médio, MP 871/2019, fim dos descontos associativos do INSS em nov/2025, PEC do fim da reeleição de autoria de Flávio Bolsonaro, escala 6x1 na Câmara). Precisa de **coletor de dados** (APIs da Câmara e do Senado) que rode fora deste ambiente; guardar o **bruto** em `data/votacoes/raw/` com data de coleta; estado do voto: `nominal`, `simbolica_sem_voto_individual` ou `sem_registro`. Há uma divergência não testada entre fontes sobre votos nominais da Câmara depois de maio/2024 (vazio vs. 115 nominais) e lacunas do Senado em 2015–2018: testar na coleta e documentar.
 4. **GitHub Actions:** feito. `ci.yml` (validar + testes + build em push/PR) e `deploy.yml` (GitHub Pages, **só manual**, até o Arthur aprovar a publicação). Falta ativar o Pages em *Settings > Pages > Source: GitHub Actions*.
